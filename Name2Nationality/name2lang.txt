@@ -12116,7 +12116,7 @@ Jevakhov, Russian
 Jevanov, Russian
 Jeverjeev, Russian
 Jevlakov, Russian
-Jevolojnov,, Russian
+Jevolojnov, Russian
 Jgutov, Russian
 Jiboedov, Russian
 Jidelev, Russian
@@ -12957,7 +12957,7 @@ Lyndyaev, Russian
 Lyrschikov, Russian
 Lysak, Russian
 Lysakov, Russian
-Lysansky,, Russian
+Lysansky, Russian
 Lysenko, Russian
 Lysenkov, Russian
 Lysenny, Russian
@@ -12976,7 +12976,7 @@ Lysyansky, Russian
 Lysyh, Russian
 Lysykh, Russian
 Lysyuk, Russian
-Lytkin,, Russian
+Lytkin, Russian
 Lyvin, Russian
 Lyzhenkov, Russian
 Lyzhin, Russian
