@@ -1,0 +1,4443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><TransliterationCorpus CorpusID = "NEWS2012-Gold-EnHe-1100" SourceLang = "English" TargetLang = "Hebrew" CorpusType = "Gold-Standard-Test" CorpusSize = "1100" CorpusFormat = "UTF8"> 
+<Name ID="1">
+<SourceName>Strong</SourceName>
+<TargetName ID="1">השני</TargetName>
+</Name>
+<Name ID="2">
+<SourceName>Mole</SourceName>
+<TargetName ID="1">מול</TargetName>
+<TargetName ID="2">מולה</TargetName>
+</Name>
+<Name ID="3">
+<SourceName>Dunkelman</SourceName>
+<TargetName ID="1">דונקלמנ</TargetName>
+</Name>
+<Name ID="4">
+<SourceName>Tricolour</SourceName>
+<TargetName ID="1">טריקולור</TargetName>
+</Name>
+<Name ID="5">
+<SourceName>Ogaryovo</SourceName>
+<TargetName ID="1">אוגריובו</TargetName>
+</Name>
+<Name ID="6">
+<SourceName>Bergqvist</SourceName>
+<TargetName ID="1">ברגקויסט</TargetName>
+</Name>
+<Name ID="7">
+<SourceName>Susskind</SourceName>
+<TargetName ID="1">זוסקינד</TargetName>
+</Name>
+<Name ID="8">
+<SourceName>Japan</SourceName>
+<TargetName ID="1">יפנ</TargetName>
+<TargetName ID="2">יפני</TargetName>
+</Name>
+<Name ID="9">
+<SourceName>Magan</SourceName>
+<TargetName ID="1">מגנ</TargetName>
+</Name>
+<Name ID="10">
+<SourceName>Crossman</SourceName>
+<TargetName ID="1">קרוסמנ</TargetName>
+</Name>
+<Name ID="11">
+<SourceName>Lina</SourceName>
+<TargetName ID="1">לינה</TargetName>
+</Name>
+<Name ID="12">
+<SourceName>Hadag</SourceName>
+<TargetName ID="1">הדג</TargetName>
+</Name>
+<Name ID="13">
+<SourceName>Deinard</SourceName>
+<TargetName ID="1">דיינרד</TargetName>
+</Name>
+<Name ID="14">
+<SourceName>Neogene</SourceName>
+<TargetName ID="1">נאוגנ</TargetName>
+</Name>
+<Name ID="15">
+<SourceName>Chauncey</SourceName>
+<TargetName ID="1">צ'אנסי</TargetName>
+</Name>
+<Name ID="16">
+<SourceName>Silvia</SourceName>
+<TargetName ID="1">סילביה</TargetName>
+</Name>
+<Name ID="17">
+<SourceName>Vilan</SourceName>
+<TargetName ID="1">וילנ</TargetName>
+</Name>
+<Name ID="18">
+<SourceName>Pollack</SourceName>
+<TargetName ID="1">פולק</TargetName>
+<TargetName ID="2">פולאק</TargetName>
+</Name>
+<Name ID="19">
+<SourceName>Piat</SourceName>
+<TargetName ID="1">פיאט</TargetName>
+</Name>
+<Name ID="20">
+<SourceName>Wildcat</SourceName>
+<TargetName ID="1">ויילדקט</TargetName>
+</Name>
+<Name ID="21">
+<SourceName>Krips</SourceName>
+<TargetName ID="1">קריפס</TargetName>
+</Name>
+<Name ID="22">
+<SourceName>Ballista</SourceName>
+<TargetName ID="1">בליסטרה</TargetName>
+</Name>
+<Name ID="23">
+<SourceName>Transcendentalism</SourceName>
+<TargetName ID="1">טרנסצנדנטיות</TargetName>
+</Name>
+<Name ID="24">
+<SourceName>Joselewicz</SourceName>
+<TargetName ID="1">יוסלביצ'</TargetName>
+</Name>
+<Name ID="25">
+<SourceName>Bian</SourceName>
+<TargetName ID="1">ביאנ</TargetName>
+</Name>
+<Name ID="26">
+<SourceName>Gaidar</SourceName>
+<TargetName ID="1">גאידר</TargetName>
+</Name>
+<Name ID="27">
+<SourceName>Yumjaagiin</SourceName>
+<TargetName ID="1">יומג'אגינ</TargetName>
+</Name>
+<Name ID="28">
+<SourceName>Imst</SourceName>
+<TargetName ID="1">אימסט</TargetName>
+</Name>
+<Name ID="29">
+<SourceName>Fertile</SourceName>
+<TargetName ID="1">הפורה</TargetName>
+</Name>
+<Name ID="30">
+<SourceName>Cannibalism</SourceName>
+<TargetName ID="1">קניבליזמ</TargetName>
+</Name>
+<Name ID="31">
+<SourceName>Dangermouse</SourceName>
+<TargetName ID="1">דיינג'רמאוס</TargetName>
+</Name>
+<Name ID="32">
+<SourceName>Precambrian</SourceName>
+<TargetName ID="1">פרקמבריומ</TargetName>
+</Name>
+<Name ID="33">
+<SourceName>Cosmos</SourceName>
+<TargetName ID="1">קוסמוס</TargetName>
+</Name>
+<Name ID="34">
+<SourceName>Chawla</SourceName>
+<TargetName ID="1">צ'אולה</TargetName>
+</Name>
+<Name ID="35">
+<SourceName>Snape</SourceName>
+<TargetName ID="1">סנייפ</TargetName>
+</Name>
+<Name ID="36">
+<SourceName>Katrina</SourceName>
+<TargetName ID="1">קתרינה</TargetName>
+</Name>
+<Name ID="37">
+<SourceName>Dakar</SourceName>
+<TargetName ID="1">דקר</TargetName>
+</Name>
+<Name ID="38">
+<SourceName>Miquelon</SourceName>
+<TargetName ID="1">ומיקלונ</TargetName>
+</Name>
+<Name ID="39">
+<SourceName>Whipple</SourceName>
+<TargetName ID="1">ויפל</TargetName>
+</Name>
+<Name ID="40">
+<SourceName>Hematuria</SourceName>
+<TargetName ID="1">המטוריה</TargetName>
+</Name>
+<Name ID="41">
+<SourceName>Tobago</SourceName>
+<TargetName ID="1">וטובגו</TargetName>
+</Name>
+<Name ID="42">
+<SourceName>Becket</SourceName>
+<TargetName ID="1">בקט</TargetName>
+</Name>
+<Name ID="43">
+<SourceName>Mascagni</SourceName>
+<TargetName ID="1">מסקאני</TargetName>
+</Name>
+<Name ID="44">
+<SourceName>Yochanan</SourceName>
+<TargetName ID="1">יוחננ</TargetName>
+</Name>
+<Name ID="45">
+<SourceName>Galilee</SourceName>
+<TargetName ID="1">הגליל</TargetName>
+</Name>
+<Name ID="46">
+<SourceName>Okon</SourceName>
+<TargetName ID="1">אוקונ</TargetName>
+</Name>
+<Name ID="47">
+<SourceName>Oscar</SourceName>
+<TargetName ID="1">אוסקר</TargetName>
+</Name>
+<Name ID="48">
+<SourceName>Saransk</SourceName>
+<TargetName ID="1">סרנסק</TargetName>
+</Name>
+<Name ID="49">
+<SourceName>Cosplay</SourceName>
+<TargetName ID="1">קוספליי</TargetName>
+</Name>
+<Name ID="50">
+<SourceName>Smashing</SourceName>
+<TargetName ID="1">הסמאשינג</TargetName>
+</Name>
+<Name ID="51">
+<SourceName>Applegate</SourceName>
+<TargetName ID="1">אפלגייט</TargetName>
+</Name>
+<Name ID="52">
+<SourceName>Organization</SourceName>
+<TargetName ID="1">ויצו</TargetName>
+<TargetName ID="2">ארגונ</TargetName>
+</Name>
+<Name ID="53">
+<SourceName>Homotherium</SourceName>
+<TargetName ID="1">הומוטריומ</TargetName>
+</Name>
+<Name ID="54">
+<SourceName>Plantago</SourceName>
+<TargetName ID="1">פלנטגו</TargetName>
+</Name>
+<Name ID="55">
+<SourceName>Tropaion</SourceName>
+<TargetName ID="1">טרופאיונ</TargetName>
+</Name>
+<Name ID="56">
+<SourceName>Loftus</SourceName>
+<TargetName ID="1">לופתוס</TargetName>
+</Name>
+<Name ID="57">
+<SourceName>Gericke</SourceName>
+<TargetName ID="1">גריקה</TargetName>
+</Name>
+<Name ID="58">
+<SourceName>Plaza</SourceName>
+<TargetName ID="1">פלאזה</TargetName>
+</Name>
+<Name ID="59">
+<SourceName>Spenta</SourceName>
+<TargetName ID="1">ספנטס</TargetName>
+</Name>
+<Name ID="60">
+<SourceName>Krupnik</SourceName>
+<TargetName ID="1">קרופניק</TargetName>
+</Name>
+<Name ID="61">
+<SourceName>Tintin</SourceName>
+<TargetName ID="1">טינטינ</TargetName>
+</Name>
+<Name ID="62">
+<SourceName>Ilse</SourceName>
+<TargetName ID="1">אילזה</TargetName>
+</Name>
+<Name ID="63">
+<SourceName>Gluconeogenesis</SourceName>
+<TargetName ID="1">גלוקונאוגנזה</TargetName>
+</Name>
+<Name ID="64">
+<SourceName>Mansiysk</SourceName>
+<TargetName ID="1">מנסייסק</TargetName>
+</Name>
+<Name ID="65">
+<SourceName>Lichtenstein</SourceName>
+<TargetName ID="1">ליכטנשטיינ</TargetName>
+</Name>
+<Name ID="66">
+<SourceName>Jersey</SourceName>
+<TargetName ID="1">ג'רזי</TargetName>
+</Name>
+<Name ID="67">
+<SourceName>Rozental</SourceName>
+<TargetName ID="1">רוזנטל</TargetName>
+</Name>
+<Name ID="68">
+<SourceName>Magritte</SourceName>
+<TargetName ID="1">מגריט</TargetName>
+</Name>
+<Name ID="69">
+<SourceName>Torat</SourceName>
+<TargetName ID="1">תורת</TargetName>
+</Name>
+<Name ID="70">
+<SourceName>Richmond</SourceName>
+<TargetName ID="1">ריצ'מונד</TargetName>
+</Name>
+<Name ID="71">
+<SourceName>Majerle</SourceName>
+<TargetName ID="1">מארלי</TargetName>
+</Name>
+<Name ID="72">
+<SourceName>Whedon</SourceName>
+<TargetName ID="1">וידונ</TargetName>
+</Name>
+<Name ID="73">
+<SourceName>Emin</SourceName>
+<TargetName ID="1">אמינ</TargetName>
+</Name>
+<Name ID="74">
+<SourceName>Coffee</SourceName>
+<TargetName ID="1">קפה</TargetName>
+</Name>
+<Name ID="75">
+<SourceName>Mavericks</SourceName>
+<TargetName ID="1">מאבריקס</TargetName>
+</Name>
+<Name ID="76">
+<SourceName>Humanistic</SourceName>
+<TargetName ID="1">הומניסטית</TargetName>
+</Name>
+<Name ID="77">
+<SourceName>Bleiberg</SourceName>
+<TargetName ID="1">בלייברג</TargetName>
+</Name>
+<Name ID="78">
+<SourceName>Jarre</SourceName>
+<TargetName ID="1">ז'אר</TargetName>
+</Name>
+<Name ID="79">
+<SourceName>Condition</SourceName>
+<TargetName ID="1">תנאי</TargetName>
+</Name>
+<Name ID="80">
+<SourceName>Perestroika</SourceName>
+<TargetName ID="1">פרסטרויקה</TargetName>
+</Name>
+<Name ID="81">
+<SourceName>Biathlon</SourceName>
+<TargetName ID="1">ביאתלונ</TargetName>
+</Name>
+<Name ID="82">
+<SourceName>Sayeret</SourceName>
+<TargetName ID="1">סיירת</TargetName>
+</Name>
+<Name ID="83">
+<SourceName>Seraph</SourceName>
+<TargetName ID="1">שרפ</TargetName>
+</Name>
+<Name ID="84">
+<SourceName>Chipmunks</SourceName>
+<TargetName ID="1">הציפמאנקס</TargetName>
+</Name>
+<Name ID="85">
+<SourceName>Picquart</SourceName>
+<TargetName ID="1">פיקאר</TargetName>
+</Name>
+<Name ID="86">
+<SourceName>Harnoncourt</SourceName>
+<TargetName ID="1">הארנונקור</TargetName>
+</Name>
+<Name ID="87">
+<SourceName>Pancake</SourceName>
+<TargetName ID="1">פנקייק</TargetName>
+</Name>
+<Name ID="88">
+<SourceName>Bouskilla</SourceName>
+<TargetName ID="1">בוסקילה</TargetName>
+</Name>
+<Name ID="89">
+<SourceName>Beamon</SourceName>
+<TargetName ID="1">בימונ</TargetName>
+</Name>
+<Name ID="90">
+<SourceName>Beechcraft</SourceName>
+<TargetName ID="1">אייר</TargetName>
+</Name>
+<Name ID="91">
+<SourceName>Mass</SourceName>
+<TargetName ID="1">מסה</TargetName>
+<TargetName ID="2">מיסה</TargetName>
+</Name>
+<Name ID="92">
+<SourceName>Vladivostok</SourceName>
+<TargetName ID="1">ולאדיווסטוק</TargetName>
+<TargetName ID="2">ולדיווסטוק</TargetName>
+</Name>
+<Name ID="93">
+<SourceName>Tureck</SourceName>
+<TargetName ID="1">טורק</TargetName>
+</Name>
+<Name ID="94">
+<SourceName>Universitario</SourceName>
+<TargetName ID="1">אוניברסיטאריו</TargetName>
+</Name>
+<Name ID="95">
+<SourceName>Serialism</SourceName>
+<TargetName ID="1">סריאליזמ</TargetName>
+</Name>
+<Name ID="96">
+<SourceName>Patras</SourceName>
+<TargetName ID="1">פטרס</TargetName>
+</Name>
+<Name ID="97">
+<SourceName>Emissivity</SourceName>
+<TargetName ID="1">אמיסיביות</TargetName>
+</Name>
+<Name ID="98">
+<SourceName>Eton</SourceName>
+<TargetName ID="1">איטונ</TargetName>
+</Name>
+<Name ID="99">
+<SourceName>Previn</SourceName>
+<TargetName ID="1">פרווינ</TargetName>
+</Name>
+<Name ID="100">
+<SourceName>Shirat</SourceName>
+<TargetName ID="1">שירת</TargetName>
+</Name>
+<Name ID="101">
+<SourceName>Fiji</SourceName>
+<TargetName ID="1">פיג'י</TargetName>
+</Name>
+<Name ID="102">
+<SourceName>Homeopathy</SourceName>
+<TargetName ID="1">הומאופתיה</TargetName>
+</Name>
+<Name ID="103">
+<SourceName>Ideal</SourceName>
+<TargetName ID="1">אידאלי</TargetName>
+<TargetName ID="2">אידאל</TargetName>
+</Name>
+<Name ID="104">
+<SourceName>Collagen</SourceName>
+<TargetName ID="1">קולגנ</TargetName>
+</Name>
+<Name ID="105">
+<SourceName>Zeuxis</SourceName>
+<TargetName ID="1">זאאוקיס</TargetName>
+</Name>
+<Name ID="106">
+<SourceName>Orava</SourceName>
+<TargetName ID="1">אורבה</TargetName>
+</Name>
+<Name ID="107">
+<SourceName>Oran</SourceName>
+<TargetName ID="1">אוראנ</TargetName>
+</Name>
+<Name ID="108">
+<SourceName>Ephor</SourceName>
+<TargetName ID="1">אפור</TargetName>
+</Name>
+<Name ID="109">
+<SourceName>Trivia</SourceName>
+<TargetName ID="1">טריוויה</TargetName>
+</Name>
+<Name ID="110">
+<SourceName>Hockney</SourceName>
+<TargetName ID="1">הוקני</TargetName>
+</Name>
+<Name ID="111">
+<SourceName>Maelstrom</SourceName>
+<TargetName ID="1">מאלסטרומ</TargetName>
+</Name>
+<Name ID="112">
+<SourceName>Reacher</SourceName>
+<TargetName ID="1">ריצ'ר</TargetName>
+</Name>
+<Name ID="113">
+<SourceName>Kreitman</SourceName>
+<TargetName ID="1">קרייטמנ</TargetName>
+</Name>
+<Name ID="114">
+<SourceName>Chikatilo</SourceName>
+<TargetName ID="1">צ'יקטילו</TargetName>
+</Name>
+<Name ID="115">
+<SourceName>Supersaurus</SourceName>
+<TargetName ID="1">סופרזאור</TargetName>
+</Name>
+<Name ID="116">
+<SourceName>Saingilo</SourceName>
+<TargetName ID="1">סאינגילו</TargetName>
+</Name>
+<Name ID="117">
+<SourceName>Pilsen</SourceName>
+<TargetName ID="1">פילזנ</TargetName>
+</Name>
+<Name ID="118">
+<SourceName>Lictor</SourceName>
+<TargetName ID="1">ליקטור</TargetName>
+</Name>
+<Name ID="119">
+<SourceName>Judas</SourceName>
+<TargetName ID="1">ג'ודס</TargetName>
+</Name>
+<Name ID="120">
+<SourceName>Shagor</SourceName>
+<TargetName ID="1">שגור</TargetName>
+</Name>
+<Name ID="121">
+<SourceName>Principal</SourceName>
+<TargetName ID="1">פרינסיפל</TargetName>
+</Name>
+<Name ID="122">
+<SourceName>Matterhorn</SourceName>
+<TargetName ID="1">מטרהורנ</TargetName>
+</Name>
+<Name ID="123">
+<SourceName>Oren</SourceName>
+<TargetName ID="1">אורנ</TargetName>
+<TargetName ID="2">ואורנ</TargetName>
+</Name>
+<Name ID="124">
+<SourceName>Bergelson</SourceName>
+<TargetName ID="1">ברגלסונ</TargetName>
+</Name>
+<Name ID="125">
+<SourceName>Tull</SourceName>
+<TargetName ID="1">טאל</TargetName>
+</Name>
+<Name ID="126">
+<SourceName>Kristeva</SourceName>
+<TargetName ID="1">קריסטבה</TargetName>
+</Name>
+<Name ID="127">
+<SourceName>Hydrazine</SourceName>
+<TargetName ID="1">הידרזינ</TargetName>
+</Name>
+<Name ID="128">
+<SourceName>Barite</SourceName>
+<TargetName ID="1">בריט</TargetName>
+</Name>
+<Name ID="129">
+<SourceName>Havnar</SourceName>
+<TargetName ID="1">הבנר</TargetName>
+</Name>
+<Name ID="130">
+<SourceName>Kitsman</SourceName>
+<TargetName ID="1">קוצמנ</TargetName>
+</Name>
+<Name ID="131">
+<SourceName>Abijam</SourceName>
+<TargetName ID="1">אבימ</TargetName>
+</Name>
+<Name ID="132">
+<SourceName>Frankfort</SourceName>
+<TargetName ID="1">פרנקפורט</TargetName>
+</Name>
+<Name ID="133">
+<SourceName>Ares</SourceName>
+<TargetName ID="1">ארס</TargetName>
+</Name>
+<Name ID="134">
+<SourceName>Haram</SourceName>
+<TargetName ID="1">חראמ</TargetName>
+</Name>
+<Name ID="135">
+<SourceName>Stupa</SourceName>
+<TargetName ID="1">סטופה</TargetName>
+</Name>
+<Name ID="136">
+<SourceName>Carothers</SourceName>
+<TargetName ID="1">קרותרס</TargetName>
+</Name>
+<Name ID="137">
+<SourceName>Mace</SourceName>
+<TargetName ID="1">מייס</TargetName>
+</Name>
+<Name ID="138">
+<SourceName>Buchu</SourceName>
+<TargetName ID="1">בוכו</TargetName>
+</Name>
+<Name ID="139">
+<SourceName>Morocco</SourceName>
+<TargetName ID="1">השישי</TargetName>
+<TargetName ID="2">מרוקו</TargetName>
+</Name>
+<Name ID="140">
+<SourceName>Morgana</SourceName>
+<TargetName ID="1">מורגנה</TargetName>
+</Name>
+<Name ID="141">
+<SourceName>Betis</SourceName>
+<TargetName ID="1">בטיס</TargetName>
+</Name>
+<Name ID="142">
+<SourceName>Jude</SourceName>
+<TargetName ID="1">ג'וד</TargetName>
+</Name>
+<Name ID="143">
+<SourceName>Beham</SourceName>
+<TargetName ID="1">בהאמ</TargetName>
+</Name>
+<Name ID="144">
+<SourceName>Darkthrone</SourceName>
+<TargetName ID="1">דארקת'רונ</TargetName>
+</Name>
+<Name ID="145">
+<SourceName>Habanera</SourceName>
+<TargetName ID="1">הבנרה</TargetName>
+</Name>
+<Name ID="146">
+<SourceName>Mccullough</SourceName>
+<TargetName ID="1">מקאלוג</TargetName>
+</Name>
+<Name ID="147">
+<SourceName>Theodolite</SourceName>
+<TargetName ID="1">תאודוליט</TargetName>
+</Name>
+<Name ID="148">
+<SourceName>Ellipsoid</SourceName>
+<TargetName ID="1">אליפסואיד</TargetName>
+</Name>
+<Name ID="149">
+<SourceName>Champollion</SourceName>
+<TargetName ID="1">שמפוליונ</TargetName>
+</Name>
+<Name ID="150">
+<SourceName>Buchenwald</SourceName>
+<TargetName ID="1">בוכנוואלד</TargetName>
+</Name>
+<Name ID="151">
+<SourceName>Raistlin</SourceName>
+<TargetName ID="1">רייסטלינ</TargetName>
+</Name>
+<Name ID="152">
+<SourceName>Gnaeus</SourceName>
+<TargetName ID="1">גנאיוס</TargetName>
+</Name>
+<Name ID="153">
+<SourceName>Louganis</SourceName>
+<TargetName ID="1">לוגניס</TargetName>
+</Name>
+<Name ID="154">
+<SourceName>Flavell</SourceName>
+<TargetName ID="1">פלאבל</TargetName>
+</Name>
+<Name ID="155">
+<SourceName>Melchizedek</SourceName>
+<TargetName ID="1">מלכיצדק</TargetName>
+</Name>
+<Name ID="156">
+<SourceName>Wieland</SourceName>
+<TargetName ID="1">וילנד</TargetName>
+</Name>
+<Name ID="157">
+<SourceName>Utica</SourceName>
+<TargetName ID="1">אוטיקה</TargetName>
+</Name>
+<Name ID="158">
+<SourceName>Jawf</SourceName>
+<TargetName ID="1">ג'ופ</TargetName>
+</Name>
+<Name ID="159">
+<SourceName>Horizons</SourceName>
+<TargetName ID="1">הוריזונס</TargetName>
+</Name>
+<Name ID="160">
+<SourceName>Albrecht</SourceName>
+<TargetName ID="1">אלברכט</TargetName>
+</Name>
+<Name ID="161">
+<SourceName>Celibidache</SourceName>
+<TargetName ID="1">צ'ליבידאקה</TargetName>
+</Name>
+<Name ID="162">
+<SourceName>Thermophile</SourceName>
+<TargetName ID="1">תרמופיל</TargetName>
+</Name>
+<Name ID="163">
+<SourceName>Duilius</SourceName>
+<TargetName ID="1">דואיליוס</TargetName>
+</Name>
+<Name ID="164">
+<SourceName>Askeran</SourceName>
+<TargetName ID="1">אסקראנ</TargetName>
+</Name>
+<Name ID="165">
+<SourceName>Artichoke</SourceName>
+<TargetName ID="1">ארטישוק</TargetName>
+</Name>
+<Name ID="166">
+<SourceName>Jolie</SourceName>
+<TargetName ID="1">ג'ולי</TargetName>
+</Name>
+<Name ID="167">
+<SourceName>Simply</SourceName>
+<TargetName ID="1">סימפלי</TargetName>
+</Name>
+<Name ID="168">
+<SourceName>Paide</SourceName>
+<TargetName ID="1">פאידה</TargetName>
+</Name>
+<Name ID="169">
+<SourceName>Pastel</SourceName>
+<TargetName ID="1">פסטל</TargetName>
+</Name>
+<Name ID="170">
+<SourceName>Chatelier</SourceName>
+<TargetName ID="1">שטליה</TargetName>
+</Name>
+<Name ID="171">
+<SourceName>Ilmenite</SourceName>
+<TargetName ID="1">אילמניט</TargetName>
+</Name>
+<Name ID="172">
+<SourceName>Yarmouk</SourceName>
+<TargetName ID="1">ירמוכ</TargetName>
+</Name>
+<Name ID="173">
+<SourceName>Selenite</SourceName>
+<TargetName ID="1">סלניט</TargetName>
+</Name>
+<Name ID="174">
+<SourceName>Histidine</SourceName>
+<TargetName ID="1">היסטידינ</TargetName>
+</Name>
+<Name ID="175">
+<SourceName>Epoch</SourceName>
+<TargetName ID="1">אפוק</TargetName>
+</Name>
+<Name ID="176">
+<SourceName>Siro</SourceName>
+<TargetName ID="1">סירו</TargetName>
+</Name>
+<Name ID="177">
+<SourceName>Torii</SourceName>
+<TargetName ID="1">טורי</TargetName>
+</Name>
+<Name ID="178">
+<SourceName>Gelmetti</SourceName>
+<TargetName ID="1">ג'למטי</TargetName>
+</Name>
+<Name ID="179">
+<SourceName>Bhabha</SourceName>
+<TargetName ID="1">באבא</TargetName>
+</Name>
+<Name ID="180">
+<SourceName>Regev</SourceName>
+<TargetName ID="1">רגב</TargetName>
+</Name>
+<Name ID="181">
+<SourceName>Maurois</SourceName>
+<TargetName ID="1">מורוא</TargetName>
+</Name>
+<Name ID="182">
+<SourceName>Shamgar</SourceName>
+<TargetName ID="1">שמגר</TargetName>
+</Name>
+<Name ID="183">
+<SourceName>Juniors</SourceName>
+<TargetName ID="1">ג'וניורס</TargetName>
+</Name>
+<Name ID="184">
+<SourceName>Gamgee</SourceName>
+<TargetName ID="1">גמג'י</TargetName>
+</Name>
+<Name ID="185">
+<SourceName>Fechter</SourceName>
+<TargetName ID="1">פכטר</TargetName>
+</Name>
+<Name ID="186">
+<SourceName>Totem</SourceName>
+<TargetName ID="1">טוטמ</TargetName>
+</Name>
+<Name ID="187">
+<SourceName>Determinant</SourceName>
+<TargetName ID="1">דטרמיננטה</TargetName>
+</Name>
+<Name ID="188">
+<SourceName>Sabonis</SourceName>
+<TargetName ID="1">סאבוניס</TargetName>
+</Name>
+<Name ID="189">
+<SourceName>Hezbollah</SourceName>
+<TargetName ID="1">חיזבאללה</TargetName>
+</Name>
+<Name ID="190">
+<SourceName>Burger</SourceName>
+<TargetName ID="1">ברגר</TargetName>
+</Name>
+<Name ID="191">
+<SourceName>Cadmus</SourceName>
+<TargetName ID="1">קדמוס</TargetName>
+</Name>
+<Name ID="192">
+<SourceName>Hassium</SourceName>
+<TargetName ID="1">האסיומ</TargetName>
+</Name>
+<Name ID="193">
+<SourceName>Wyborowa</SourceName>
+<TargetName ID="1">וויברובה</TargetName>
+</Name>
+<Name ID="194">
+<SourceName>Television</SourceName>
+<TargetName ID="1">טלוויזיה</TargetName>
+</Name>
+<Name ID="195">
+<SourceName>Tanzanite</SourceName>
+<TargetName ID="1">טנזניט</TargetName>
+</Name>
+<Name ID="196">
+<SourceName>Bremerton</SourceName>
+<TargetName ID="1">ברמרטונ</TargetName>
+</Name>
+<Name ID="197">
+<SourceName>Nahari</SourceName>
+<TargetName ID="1">נהרי</TargetName>
+</Name>
+<Name ID="198">
+<SourceName>Berners</SourceName>
+<TargetName ID="1">ברנרס</TargetName>
+</Name>
+<Name ID="199">
+<SourceName>Cytokinin</SourceName>
+<TargetName ID="1">ציטוקינינ</TargetName>
+</Name>
+<Name ID="200">
+<SourceName>Clippers</SourceName>
+<TargetName ID="1">קליפרס</TargetName>
+</Name>
+<Name ID="201">
+<SourceName>Leeuwenhoek</SourceName>
+<TargetName ID="1">לוונהוק</TargetName>
+</Name>
+<Name ID="202">
+<SourceName>Shakers</SourceName>
+<TargetName ID="1">שייקריזמ</TargetName>
+</Name>
+<Name ID="203">
+<SourceName>Ashton</SourceName>
+<TargetName ID="1">אשטונ</TargetName>
+</Name>
+<Name ID="204">
+<SourceName>Censor</SourceName>
+<TargetName ID="1">קנסור</TargetName>
+</Name>
+<Name ID="205">
+<SourceName>Brassens</SourceName>
+<TargetName ID="1">ברסנס</TargetName>
+</Name>
+<Name ID="206">
+<SourceName>Gotlober</SourceName>
+<TargetName ID="1">גוטלובר</TargetName>
+</Name>
+<Name ID="207">
+<SourceName>Ella</SourceName>
+<TargetName ID="1">אלה</TargetName>
+</Name>
+<Name ID="208">
+<SourceName>Mostar</SourceName>
+<TargetName ID="1">מוסטאר</TargetName>
+</Name>
+<Name ID="209">
+<SourceName>Ketura</SourceName>
+<TargetName ID="1">קטורה</TargetName>
+</Name>
+<Name ID="210">
+<SourceName>Wahl</SourceName>
+<TargetName ID="1">ואהל</TargetName>
+</Name>
+<Name ID="211">
+<SourceName>Bruges</SourceName>
+<TargetName ID="1">ברוז'</TargetName>
+</Name>
+<Name ID="212">
+<SourceName>Salvia</SourceName>
+<TargetName ID="1">סלוויה</TargetName>
+</Name>
+<Name ID="213">
+<SourceName>Grandjany</SourceName>
+<TargetName ID="1">גרנדיאני</TargetName>
+</Name>
+<Name ID="214">
+<SourceName>Resheph</SourceName>
+<TargetName ID="1">רשפ</TargetName>
+</Name>
+<Name ID="215">
+<SourceName>Korah</SourceName>
+<TargetName ID="1">קורח</TargetName>
+</Name>
+<Name ID="216">
+<SourceName>Chacham</SourceName>
+<TargetName ID="1">חכמ</TargetName>
+</Name>
+<Name ID="217">
+<SourceName>Hamilcar</SourceName>
+<TargetName ID="1">חמילקרת</TargetName>
+</Name>
+<Name ID="218">
+<SourceName>Lysosome</SourceName>
+<TargetName ID="1">ליזוזומ</TargetName>
+</Name>
+<Name ID="219">
+<SourceName>Etgar</SourceName>
+<TargetName ID="1">אתגר</TargetName>
+</Name>
+<Name ID="220">
+<SourceName>Jharkhand</SourceName>
+<TargetName ID="1">ג'הרקאנד</TargetName>
+</Name>
+<Name ID="221">
+<SourceName>Homolysis</SourceName>
+<TargetName ID="1">הומוליזה</TargetName>
+</Name>
+<Name ID="222">
+<SourceName>Prednisone</SourceName>
+<TargetName ID="1">פרדניזונ</TargetName>
+</Name>
+<Name ID="223">
+<SourceName>Downhill</SourceName>
+<TargetName ID="1">דאונ</TargetName>
+</Name>
+<Name ID="224">
+<SourceName>Archaeology</SourceName>
+<TargetName ID="1">בארכיאולוגיה</TargetName>
+<TargetName ID="2">לארכיאולוגיה</TargetName>
+<TargetName ID="3">ארכאולוגיה</TargetName>
+</Name>
+<Name ID="225">
+<SourceName>Tetanus</SourceName>
+<TargetName ID="1">טטנוס</TargetName>
+</Name>
+<Name ID="226">
+<SourceName>Stack</SourceName>
+<TargetName ID="1">סטק</TargetName>
+<TargetName ID="2">סטאק</TargetName>
+</Name>
+<Name ID="227">
+<SourceName>Kuala</SourceName>
+<TargetName ID="1">קואלה</TargetName>
+</Name>
+<Name ID="228">
+<SourceName>Frigate</SourceName>
+<TargetName ID="1">פריגטה</TargetName>
+</Name>
+<Name ID="229">
+<SourceName>Hypnos</SourceName>
+<TargetName ID="1">היפנוס</TargetName>
+</Name>
+<Name ID="230">
+<SourceName>Fall</SourceName>
+<TargetName ID="1">פול</TargetName>
+</Name>
+<Name ID="231">
+<SourceName>Water</SourceName>
+<TargetName ID="1">ווטר</TargetName>
+</Name>
+<Name ID="232">
+<SourceName>Cantata</SourceName>
+<TargetName ID="1">קנטטה</TargetName>
+</Name>
+<Name ID="233">
+<SourceName>Chodesh</SourceName>
+<TargetName ID="1">חודש</TargetName>
+</Name>
+<Name ID="234">
+<SourceName>Messerschmitt</SourceName>
+<TargetName ID="1">מסרשמיט</TargetName>
+</Name>
+<Name ID="235">
+<SourceName>Daliah</SourceName>
+<TargetName ID="1">דליה</TargetName>
+</Name>
+<Name ID="236">
+<SourceName>Polytechnic</SourceName>
+<TargetName ID="1">טק</TargetName>
+</Name>
+<Name ID="237">
+<SourceName>Yiddish</SourceName>
+<TargetName ID="1">יידיש</TargetName>
+</Name>
+<Name ID="238">
+<SourceName>Goleman</SourceName>
+<TargetName ID="1">גולמנ</TargetName>
+</Name>
+<Name ID="239">
+<SourceName>Tsakalidis</SourceName>
+<TargetName ID="1">צאקאלידיס</TargetName>
+</Name>
+<Name ID="240">
+<SourceName>Daman</SourceName>
+<TargetName ID="1">דאמאנ</TargetName>
+</Name>
+<Name ID="241">
+<SourceName>Kimberlite</SourceName>
+<TargetName ID="1">קימברליט</TargetName>
+</Name>
+<Name ID="242">
+<SourceName>Stargate</SourceName>
+<TargetName ID="1">סטארגייט</TargetName>
+</Name>
+<Name ID="243">
+<SourceName>Captaincy</SourceName>
+<TargetName ID="1">קפיטניה</TargetName>
+</Name>
+<Name ID="244">
+<SourceName>Ethnomusicology</SourceName>
+<TargetName ID="1">אתנומוזיקולוגיה</TargetName>
+</Name>
+<Name ID="245">
+<SourceName>Kakapo</SourceName>
+<TargetName ID="1">קאקאפו</TargetName>
+</Name>
+<Name ID="246">
+<SourceName>Akinnuoye</SourceName>
+<TargetName ID="1">אקינויה</TargetName>
+</Name>
+<Name ID="247">
+<SourceName>Huberman</SourceName>
+<TargetName ID="1">הוברמנ</TargetName>
+</Name>
+<Name ID="248">
+<SourceName>Broca</SourceName>
+<TargetName ID="1">ברוקה</TargetName>
+</Name>
+<Name ID="249">
+<SourceName>Redstone</SourceName>
+<TargetName ID="1">רדסטונ</TargetName>
+</Name>
+<Name ID="250">
+<SourceName>Transposition</SourceName>
+<TargetName ID="1">טרנספוזיציה</TargetName>
+</Name>
+<Name ID="251">
+<SourceName>Taiko</SourceName>
+<TargetName ID="1">טאיקו</TargetName>
+</Name>
+<Name ID="252">
+<SourceName>Trappists</SourceName>
+<TargetName ID="1">טראפיסטימ</TargetName>
+</Name>
+<Name ID="253">
+<SourceName>Muscle</SourceName>
+<TargetName ID="1">שוק</TargetName>
+</Name>
+<Name ID="254">
+<SourceName>Hawn</SourceName>
+<TargetName ID="1">הונ</TargetName>
+</Name>
+<Name ID="255">
+<SourceName>Koltur</SourceName>
+<TargetName ID="1">קולטור</TargetName>
+</Name>
+<Name ID="256">
+<SourceName>Zoroaster</SourceName>
+<TargetName ID="1">זרתוסטרה</TargetName>
+</Name>
+<Name ID="257">
+<SourceName>Toblerone</SourceName>
+<TargetName ID="1">טובלרונ</TargetName>
+</Name>
+<Name ID="258">
+<SourceName>Omnipotence</SourceName>
+<TargetName ID="1">אומניפוטנטיות</TargetName>
+</Name>
+<Name ID="259">
+<SourceName>Rowecki</SourceName>
+<TargetName ID="1">רובצקי</TargetName>
+</Name>
+<Name ID="260">
+<SourceName>Cutler</SourceName>
+<TargetName ID="1">קאטלר</TargetName>
+</Name>
+<Name ID="261">
+<SourceName>Kaniuk</SourceName>
+<TargetName ID="1">קניוק</TargetName>
+</Name>
+<Name ID="262">
+<SourceName>Caliph</SourceName>
+<TargetName ID="1">ח'ליפ</TargetName>
+</Name>
+<Name ID="263">
+<SourceName>Berlitz</SourceName>
+<TargetName ID="1">ברליצ</TargetName>
+</Name>
+<Name ID="264">
+<SourceName>Traudl</SourceName>
+<TargetName ID="1">טראודל</TargetName>
+</Name>
+<Name ID="265">
+<SourceName>Coenraad</SourceName>
+<TargetName ID="1">קונרד</TargetName>
+</Name>
+<Name ID="266">
+<SourceName>Pauli</SourceName>
+<TargetName ID="1">פאולי</TargetName>
+</Name>
+<Name ID="267">
+<SourceName>Boker</SourceName>
+<TargetName ID="1">בוקר</TargetName>
+</Name>
+<Name ID="268">
+<SourceName>Ringelnatz</SourceName>
+<TargetName ID="1">רינגלנצ</TargetName>
+</Name>
+<Name ID="269">
+<SourceName>Genizah</SourceName>
+<TargetName ID="1">גניזה</TargetName>
+</Name>
+<Name ID="270">
+<SourceName>Pavlova</SourceName>
+<TargetName ID="1">פבלובה</TargetName>
+</Name>
+<Name ID="271">
+<SourceName>Arno</SourceName>
+<TargetName ID="1">ארנו</TargetName>
+</Name>
+<Name ID="272">
+<SourceName>Aelia</SourceName>
+<TargetName ID="1">איליה</TargetName>
+<TargetName ID="2">אאליה</TargetName>
+</Name>
+<Name ID="273">
+<SourceName>Blind</SourceName>
+<TargetName ID="1">בליינד</TargetName>
+</Name>
+<Name ID="274">
+<SourceName>Lipopolysaccharide</SourceName>
+<TargetName ID="1">ליפופוליסכריד</TargetName>
+</Name>
+<Name ID="275">
+<SourceName>Velites</SourceName>
+<TargetName ID="1">וליטס</TargetName>
+</Name>
+<Name ID="276">
+<SourceName>Philolaus</SourceName>
+<TargetName ID="1">פילולאוס</TargetName>
+</Name>
+<Name ID="277">
+<SourceName>Leghorn</SourceName>
+<TargetName ID="1">לגהורנ</TargetName>
+</Name>
+<Name ID="278">
+<SourceName>Jive</SourceName>
+<TargetName ID="1">ג'ייב</TargetName>
+</Name>
+<Name ID="279">
+<SourceName>Live</SourceName>
+<TargetName ID="1">לייב</TargetName>
+</Name>
+<Name ID="280">
+<SourceName>Blog</SourceName>
+<TargetName ID="1">בלוג</TargetName>
+</Name>
+<Name ID="281">
+<SourceName>Ununquadium</SourceName>
+<TargetName ID="1">אונונקוודיומ</TargetName>
+</Name>
+<Name ID="282">
+<SourceName>Ornithology</SourceName>
+<TargetName ID="1">אורניתולוגיה</TargetName>
+</Name>
+<Name ID="283">
+<SourceName>Tuchman</SourceName>
+<TargetName ID="1">טוכמנ</TargetName>
+</Name>
+<Name ID="284">
+<SourceName>Bayit</SourceName>
+<TargetName ID="1">בית</TargetName>
+</Name>
+<Name ID="285">
+<SourceName>Sture</SourceName>
+<TargetName ID="1">סטור</TargetName>
+</Name>
+<Name ID="286">
+<SourceName>Imide</SourceName>
+<TargetName ID="1">אימיד</TargetName>
+</Name>
+<Name ID="287">
+<SourceName>Weininger</SourceName>
+<TargetName ID="1">ויינינגר</TargetName>
+</Name>
+<Name ID="288">
+<SourceName>Wales</SourceName>
+<TargetName ID="1">ויילס</TargetName>
+</Name>
+<Name ID="289">
+<SourceName>Tonic</SourceName>
+<TargetName ID="1">טוניקה</TargetName>
+</Name>
+<Name ID="290">
+<SourceName>Twist</SourceName>
+<TargetName ID="1">טוויסט</TargetName>
+</Name>
+<Name ID="291">
+<SourceName>Zappa</SourceName>
+<TargetName ID="1">זאפה</TargetName>
+</Name>
+<Name ID="292">
+<SourceName>Lindgren</SourceName>
+<TargetName ID="1">לינדגרנ</TargetName>
+</Name>
+<Name ID="293">
+<SourceName>Brandy</SourceName>
+<TargetName ID="1">ברנדי</TargetName>
+</Name>
+<Name ID="294">
+<SourceName>Zulu</SourceName>
+<TargetName ID="1">זולו</TargetName>
+</Name>
+<Name ID="295">
+<SourceName>Tragedy</SourceName>
+<TargetName ID="1">טרגדיה</TargetName>
+</Name>
+<Name ID="296">
+<SourceName>Rozhdestvensky</SourceName>
+<TargetName ID="1">רוז'דסטוונסקי</TargetName>
+</Name>
+<Name ID="297">
+<SourceName>Meghalaya</SourceName>
+<TargetName ID="1">מגהלאיה</TargetName>
+</Name>
+<Name ID="298">
+<SourceName>Katyusha</SourceName>
+<TargetName ID="1">קטיושה</TargetName>
+</Name>
+<Name ID="299">
+<SourceName>Hanikra</SourceName>
+<TargetName ID="1">הנקרה</TargetName>
+</Name>
+<Name ID="300">
+<SourceName>Trittico</SourceName>
+<TargetName ID="1">טריטיקו</TargetName>
+</Name>
+<Name ID="301">
+<SourceName>Premier</SourceName>
+<TargetName ID="1">פרמייר</TargetName>
+</Name>
+<Name ID="302">
+<SourceName>Alessandria</SourceName>
+<TargetName ID="1">אלסנדריה</TargetName>
+</Name>
+<Name ID="303">
+<SourceName>Mitrevski</SourceName>
+<TargetName ID="1">מיטרבסקי</TargetName>
+</Name>
+<Name ID="304">
+<SourceName>Westlife</SourceName>
+<TargetName ID="1">וסטלייפ</TargetName>
+</Name>
+<Name ID="305">
+<SourceName>Luntschitz</SourceName>
+<TargetName ID="1">מלונטשיצ</TargetName>
+</Name>
+<Name ID="306">
+<SourceName>Rosie</SourceName>
+<TargetName ID="1">רוזי</TargetName>
+</Name>
+<Name ID="307">
+<SourceName>Swiss</SourceName>
+<TargetName ID="1">סוויס</TargetName>
+</Name>
+<Name ID="308">
+<SourceName>Agoracritus</SourceName>
+<TargetName ID="1">אגורקריטוס</TargetName>
+</Name>
+<Name ID="309">
+<SourceName>Elite</SourceName>
+<TargetName ID="1">אליטה</TargetName>
+</Name>
+<Name ID="310">
+<SourceName>Fiordland</SourceName>
+<TargetName ID="1">פיורדלנד</TargetName>
+</Name>
+<Name ID="311">
+<SourceName>Osasuna</SourceName>
+<TargetName ID="1">אוסאסונה</TargetName>
+</Name>
+<Name ID="312">
+<SourceName>Wine</SourceName>
+<TargetName ID="1">יינ</TargetName>
+</Name>
+<Name ID="313">
+<SourceName>Helminthology</SourceName>
+<TargetName ID="1">הלמינתולוגיה</TargetName>
+</Name>
+<Name ID="314">
+<SourceName>Kimono</SourceName>
+<TargetName ID="1">קימונו</TargetName>
+</Name>
+<Name ID="315">
+<SourceName>Festival</SourceName>
+<TargetName ID="1">פסטיבל</TargetName>
+</Name>
+<Name ID="316">
+<SourceName>Supertonic</SourceName>
+<TargetName ID="1">סופרטוניקה</TargetName>
+</Name>
+<Name ID="317">
+<SourceName>Nargis</SourceName>
+<TargetName ID="1">נרגיס</TargetName>
+</Name>
+<Name ID="318">
+<SourceName>Enthroned</SourceName>
+<TargetName ID="1">אנת'רונד</TargetName>
+</Name>
+<Name ID="319">
+<SourceName>Maus</SourceName>
+<TargetName ID="1">מאוס</TargetName>
+</Name>
+<Name ID="320">
+<SourceName>Reinickendorf</SourceName>
+<TargetName ID="1">רייניקנדורפ</TargetName>
+</Name>
+<Name ID="321">
+<SourceName>Druid</SourceName>
+<TargetName ID="1">דרואיד</TargetName>
+</Name>
+<Name ID="322">
+<SourceName>Malt</SourceName>
+<TargetName ID="1">מאלט</TargetName>
+</Name>
+<Name ID="323">
+<SourceName>Karenina</SourceName>
+<TargetName ID="1">קרנינה</TargetName>
+</Name>
+<Name ID="324">
+<SourceName>Fantastique</SourceName>
+<TargetName ID="1">הפנטסטית</TargetName>
+</Name>
+<Name ID="325">
+<SourceName>Verhoeven</SourceName>
+<TargetName ID="1">ורהובנ</TargetName>
+</Name>
+<Name ID="326">
+<SourceName>Sagoth</SourceName>
+<TargetName ID="1">סאגות'</TargetName>
+</Name>
+<Name ID="327">
+<SourceName>Obote</SourceName>
+<TargetName ID="1">אובוטה</TargetName>
+</Name>
+<Name ID="328">
+<SourceName>Pompeius</SourceName>
+<TargetName ID="1">פומפיוס</TargetName>
+</Name>
+<Name ID="329">
+<SourceName>Hallein</SourceName>
+<TargetName ID="1">האליינ</TargetName>
+</Name>
+<Name ID="330">
+<SourceName>Ribosome</SourceName>
+<TargetName ID="1">ריבוזומ</TargetName>
+</Name>
+<Name ID="331">
+<SourceName>Vanir</SourceName>
+<TargetName ID="1">ואניר</TargetName>
+</Name>
+<Name ID="332">
+<SourceName>Archosaur</SourceName>
+<TargetName ID="1">ארכוזאוריה</TargetName>
+</Name>
+<Name ID="333">
+<SourceName>Eniac</SourceName>
+<TargetName ID="1">אניאק</TargetName>
+</Name>
+<Name ID="334">
+<SourceName>Perseus</SourceName>
+<TargetName ID="1">פרסאוס</TargetName>
+</Name>
+<Name ID="335">
+<SourceName>Limnology</SourceName>
+<TargetName ID="1">לימנולוגיה</TargetName>
+</Name>
+<Name ID="336">
+<SourceName>Inquisition</SourceName>
+<TargetName ID="1">אינקוויזיציה</TargetName>
+<TargetName ID="2">האינקוויזיציה</TargetName>
+</Name>
+<Name ID="337">
+<SourceName>Dartmouth</SourceName>
+<TargetName ID="1">דרטמות</TargetName>
+</Name>
+<Name ID="338">
+<SourceName>Mazuwa</SourceName>
+<TargetName ID="1">מזואה</TargetName>
+</Name>
+<Name ID="339">
+<SourceName>Yigael</SourceName>
+<TargetName ID="1">יגאל</TargetName>
+</Name>
+<Name ID="340">
+<SourceName>Middlesbrough</SourceName>
+<TargetName ID="1">מידלסברו</TargetName>
+</Name>
+<Name ID="341">
+<SourceName>Adrien</SourceName>
+<TargetName ID="1">אדריאנ</TargetName>
+</Name>
+<Name ID="342">
+<SourceName>Confuciusornis</SourceName>
+<TargetName ID="1">קונפוציוסאורניס</TargetName>
+</Name>
+<Name ID="343">
+<SourceName>Alterman</SourceName>
+<TargetName ID="1">אלתרמנ</TargetName>
+</Name>
+<Name ID="344">
+<SourceName>Bacteriophage</SourceName>
+<TargetName ID="1">בקטריופאג'</TargetName>
+</Name>
+<Name ID="345">
+<SourceName>Berekhat</SourceName>
+<TargetName ID="1">מברכת</TargetName>
+</Name>
+<Name ID="346">
+<SourceName>Tallit</SourceName>
+<TargetName ID="1">טלית</TargetName>
+</Name>
+<Name ID="347">
+<SourceName>Zisling</SourceName>
+<TargetName ID="1">ציזלינג</TargetName>
+</Name>
+<Name ID="348">
+<SourceName>Bischofswerda</SourceName>
+<TargetName ID="1">בישופסוורדה</TargetName>
+</Name>
+<Name ID="349">
+<SourceName>Catalan</SourceName>
+<TargetName ID="1">קטלנ</TargetName>
+<TargetName ID="2">קטלאנית</TargetName>
+</Name>
+<Name ID="350">
+<SourceName>Manifesto</SourceName>
+<TargetName ID="1">מניפסט</TargetName>
+<TargetName ID="2">המניפסט</TargetName>
+</Name>
+<Name ID="351">
+<SourceName>Zilpah</SourceName>
+<TargetName ID="1">זלפה</TargetName>
+</Name>
+<Name ID="352">
+<SourceName>Mantle</SourceName>
+<TargetName ID="1">מנטל</TargetName>
+</Name>
+<Name ID="353">
+<SourceName>Urbino</SourceName>
+<TargetName ID="1">אורבינו</TargetName>
+</Name>
+<Name ID="354">
+<SourceName>Hitlerum</SourceName>
+<TargetName ID="1">היטלרומ</TargetName>
+</Name>
+<Name ID="355">
+<SourceName>Negev</SourceName>
+<TargetName ID="1">הנגב</TargetName>
+</Name>
+<Name ID="356">
+<SourceName>Ramek</SourceName>
+<TargetName ID="1">רמק</TargetName>
+</Name>
+<Name ID="357">
+<SourceName>Bolivian</SourceName>
+<TargetName ID="1">בוליביאנו</TargetName>
+</Name>
+<Name ID="358">
+<SourceName>Steric</SourceName>
+<TargetName ID="1">סטרי</TargetName>
+</Name>
+<Name ID="359">
+<SourceName>Egyptology</SourceName>
+<TargetName ID="1">אגיפטולוגיה</TargetName>
+</Name>
+<Name ID="360">
+<SourceName>Chlamydia</SourceName>
+<TargetName ID="1">כלמידיה</TargetName>
+</Name>
+<Name ID="361">
+<SourceName>Odalisque</SourceName>
+<TargetName ID="1">אודליסק</TargetName>
+</Name>
+<Name ID="362">
+<SourceName>Choreography</SourceName>
+<TargetName ID="1">כוריאוגרפיה</TargetName>
+</Name>
+<Name ID="363">
+<SourceName>Royale</SourceName>
+<TargetName ID="1">רויאל</TargetName>
+</Name>
+<Name ID="364">
+<SourceName>Mayonnaise</SourceName>
+<TargetName ID="1">מיונז</TargetName>
+</Name>
+<Name ID="365">
+<SourceName>Balili</SourceName>
+<TargetName ID="1">בלילי</TargetName>
+</Name>
+<Name ID="366">
+<SourceName>Coalition</SourceName>
+<TargetName ID="1">קואליציה</TargetName>
+</Name>
+<Name ID="367">
+<SourceName>Godsmack</SourceName>
+<TargetName ID="1">גודסמאק</TargetName>
+</Name>
+<Name ID="368">
+<SourceName>Winters</SourceName>
+<TargetName ID="1">וינטרס</TargetName>
+</Name>
+<Name ID="369">
+<SourceName>Alcatraz</SourceName>
+<TargetName ID="1">אלקטרז</TargetName>
+</Name>
+<Name ID="370">
+<SourceName>Tweed</SourceName>
+<TargetName ID="1">טוויד</TargetName>
+</Name>
+<Name ID="371">
+<SourceName>Bitlis</SourceName>
+<TargetName ID="1">ביטליס</TargetName>
+</Name>
+<Name ID="372">
+<SourceName>Riyadh</SourceName>
+<TargetName ID="1">ריאד</TargetName>
+</Name>
+<Name ID="373">
+<SourceName>Kabir</SourceName>
+<TargetName ID="1">כביר</TargetName>
+</Name>
+<Name ID="374">
+<SourceName>Gilgal</SourceName>
+<TargetName ID="1">גלגל</TargetName>
+</Name>
+<Name ID="375">
+<SourceName>Chips</SourceName>
+<TargetName ID="1">צ'יפס</TargetName>
+</Name>
+<Name ID="376">
+<SourceName>Andalus</SourceName>
+<TargetName ID="1">אנדלוס</TargetName>
+</Name>
+<Name ID="377">
+<SourceName>Dybbuk</SourceName>
+<TargetName ID="1">דיבוק</TargetName>
+<TargetName ID="2">הדיבוק</TargetName>
+</Name>
+<Name ID="378">
+<SourceName>Xinjiang</SourceName>
+<TargetName ID="1">שינג'יאנג</TargetName>
+</Name>
+<Name ID="379">
+<SourceName>Vincennes</SourceName>
+<TargetName ID="1">ונסנ</TargetName>
+</Name>
+<Name ID="380">
+<SourceName>Shuriken</SourceName>
+<TargetName ID="1">שוריקנ</TargetName>
+</Name>
+<Name ID="381">
+<SourceName>Escudo</SourceName>
+<TargetName ID="1">אסקודו</TargetName>
+</Name>
+<Name ID="382">
+<SourceName>Hammerfall</SourceName>
+<TargetName ID="1">האמרפול</TargetName>
+</Name>
+<Name ID="383">
+<SourceName>Kaosayananda</SourceName>
+<TargetName ID="1">קאוס</TargetName>
+</Name>
+<Name ID="384">
+<SourceName>Optimization</SourceName>
+<TargetName ID="1">אופטימיזציה</TargetName>
+</Name>
+<Name ID="385">
+<SourceName>Geoglyph</SourceName>
+<TargetName ID="1">גאוגליפ</TargetName>
+</Name>
+<Name ID="386">
+<SourceName>Boleslav</SourceName>
+<TargetName ID="1">בולסלאב</TargetName>
+</Name>
+<Name ID="387">
+<SourceName>Nietzsche</SourceName>
+<TargetName ID="1">ניטשה</TargetName>
+</Name>
+<Name ID="388">
+<SourceName>Methamphetamine</SourceName>
+<TargetName ID="1">מתאמפטמינ</TargetName>
+</Name>
+<Name ID="389">
+<SourceName>Volynskyi</SourceName>
+<TargetName ID="1">וולינסקי</TargetName>
+</Name>
+<Name ID="390">
+<SourceName>Dionysios</SourceName>
+<TargetName ID="1">דיוניסיוס</TargetName>
+</Name>
+<Name ID="391">
+<SourceName>Control</SourceName>
+<TargetName ID="1">קונטרול</TargetName>
+</Name>
+<Name ID="392">
+<SourceName>Ununbium</SourceName>
+<TargetName ID="1">אונונביומ</TargetName>
+</Name>
+<Name ID="393">
+<SourceName>Siegel</SourceName>
+<TargetName ID="1">סיגל</TargetName>
+</Name>
+<Name ID="394">
+<SourceName>Roald</SourceName>
+<TargetName ID="1">רואלד</TargetName>
+</Name>
+<Name ID="395">
+<SourceName>September</SourceName>
+<TargetName ID="1">ספטמבר</TargetName>
+<TargetName ID="2">בספטמבר</TargetName>
+</Name>
+<Name ID="396">
+<SourceName>Sorel</SourceName>
+<TargetName ID="1">סורל</TargetName>
+</Name>
+<Name ID="397">
+<SourceName>Frangelico</SourceName>
+<TargetName ID="1">פרנג'ליקו</TargetName>
+</Name>
+<Name ID="398">
+<SourceName>Gothic</SourceName>
+<TargetName ID="1">גותי</TargetName>
+</Name>
+<Name ID="399">
+<SourceName>Iscar</SourceName>
+<TargetName ID="1">ישקר</TargetName>
+</Name>
+<Name ID="400">
+<SourceName>Fireworks</SourceName>
+<TargetName ID="1">פיירוורקס</TargetName>
+</Name>
+<Name ID="401">
+<SourceName>Shatner</SourceName>
+<TargetName ID="1">שאטנר</TargetName>
+</Name>
+<Name ID="402">
+<SourceName>Scud</SourceName>
+<TargetName ID="1">סקאד</TargetName>
+</Name>
+<Name ID="403">
+<SourceName>Poodle</SourceName>
+<TargetName ID="1">פודל</TargetName>
+</Name>
+<Name ID="404">
+<SourceName>Groningen</SourceName>
+<TargetName ID="1">חרונינגנ</TargetName>
+</Name>
+<Name ID="405">
+<SourceName>Alendronate</SourceName>
+<TargetName ID="1">אלנדרונט</TargetName>
+</Name>
+<Name ID="406">
+<SourceName>Snoezelen</SourceName>
+<TargetName ID="1">סנוזלנ</TargetName>
+</Name>
+<Name ID="407">
+<SourceName>Astrobiology</SourceName>
+<TargetName ID="1">אסטרוביולוגיה</TargetName>
+</Name>
+<Name ID="408">
+<SourceName>Siren</SourceName>
+<TargetName ID="1">סירנה</TargetName>
+</Name>
+<Name ID="409">
+<SourceName>Placebo</SourceName>
+<TargetName ID="1">פלסיבו</TargetName>
+<TargetName ID="2">פלסבו</TargetName>
+</Name>
+<Name ID="410">
+<SourceName>Eliyashiv</SourceName>
+<TargetName ID="1">אלישיב</TargetName>
+</Name>
+<Name ID="411">
+<SourceName>Cournot</SourceName>
+<TargetName ID="1">קורנו</TargetName>
+</Name>
+<Name ID="412">
+<SourceName>Smash</SourceName>
+<TargetName ID="1">סמאש</TargetName>
+</Name>
+<Name ID="413">
+<SourceName>Malayalam</SourceName>
+<TargetName ID="1">מליילמ</TargetName>
+</Name>
+<Name ID="414">
+<SourceName>Refraction</SourceName>
+<TargetName ID="1">השתברות</TargetName>
+</Name>
+<Name ID="415">
+<SourceName>Urartu</SourceName>
+<TargetName ID="1">אוררטו</TargetName>
+</Name>
+<Name ID="416">
+<SourceName>Bourguiba</SourceName>
+<TargetName ID="1">בורגיבה</TargetName>
+</Name>
+<Name ID="417">
+<SourceName>Accent</SourceName>
+<TargetName ID="1">אקסנט</TargetName>
+</Name>
+<Name ID="418">
+<SourceName>Point</SourceName>
+<TargetName ID="1">פוינט</TargetName>
+<TargetName ID="2">פואנ</TargetName>
+</Name>
+<Name ID="419">
+<SourceName>Kershaw</SourceName>
+<TargetName ID="1">קרשו</TargetName>
+</Name>
+<Name ID="420">
+<SourceName>Sportsperson</SourceName>
+<TargetName ID="1">ספורטאי</TargetName>
+</Name>
+<Name ID="421">
+<SourceName>Rimsky</SourceName>
+<TargetName ID="1">רימסקי</TargetName>
+</Name>
+<Name ID="422">
+<SourceName>Biotin</SourceName>
+<TargetName ID="1">ביוטינ</TargetName>
+</Name>
+<Name ID="423">
+<SourceName>Abuja</SourceName>
+<TargetName ID="1">אבוג'ה</TargetName>
+</Name>
+<Name ID="424">
+<SourceName>Essequibo</SourceName>
+<TargetName ID="1">אסקיבו</TargetName>
+</Name>
+<Name ID="425">
+<SourceName>Toledot</SourceName>
+<TargetName ID="1">תולדות</TargetName>
+</Name>
+<Name ID="426">
+<SourceName>Curia</SourceName>
+<TargetName ID="1">קוריה</TargetName>
+</Name>
+<Name ID="427">
+<SourceName>Taoism</SourceName>
+<TargetName ID="1">טאואיזמ</TargetName>
+</Name>
+<Name ID="428">
+<SourceName>Emulator</SourceName>
+<TargetName ID="1">אמולציה</TargetName>
+</Name>
+<Name ID="429">
+<SourceName>Wolfgang</SourceName>
+<TargetName ID="1">וולפגנג</TargetName>
+</Name>
+<Name ID="430">
+<SourceName>Oldesloe</SourceName>
+<TargetName ID="1">אולדסלו</TargetName>
+</Name>
+<Name ID="431">
+<SourceName>Italo</SourceName>
+<TargetName ID="1">איטלו</TargetName>
+<TargetName ID="2">איטאלו</TargetName>
+</Name>
+<Name ID="432">
+<SourceName>Unterwalden</SourceName>
+<TargetName ID="1">אונטרוולדנ</TargetName>
+</Name>
+<Name ID="433">
+<SourceName>Pimp</SourceName>
+<TargetName ID="1">פימפ</TargetName>
+</Name>
+<Name ID="434">
+<SourceName>Mandate</SourceName>
+<TargetName ID="1">המנדט</TargetName>
+<TargetName ID="2">מנדט</TargetName>
+</Name>
+<Name ID="435">
+<SourceName>Monism</SourceName>
+<TargetName ID="1">מוניזמ</TargetName>
+</Name>
+<Name ID="436">
+<SourceName>River</SourceName>
+<TargetName ID="1">אוב</TargetName>
+<TargetName ID="2">ריבר</TargetName>
+</Name>
+<Name ID="437">
+<SourceName>Fontane</SourceName>
+<TargetName ID="1">פונטאנה</TargetName>
+</Name>
+<Name ID="438">
+<SourceName>Wedekind</SourceName>
+<TargetName ID="1">ודקינד</TargetName>
+</Name>
+<Name ID="439">
+<SourceName>Dyskinesia</SourceName>
+<TargetName ID="1">דיסקינזיה</TargetName>
+</Name>
+<Name ID="440">
+<SourceName>Bructeri</SourceName>
+<TargetName ID="1">ברוקטרימ</TargetName>
+</Name>
+<Name ID="441">
+<SourceName>Isotope</SourceName>
+<TargetName ID="1">איזוטופ</TargetName>
+</Name>
+<Name ID="442">
+<SourceName>Paradinas</SourceName>
+<TargetName ID="1">פרדינס</TargetName>
+</Name>
+<Name ID="443">
+<SourceName>Moreira</SourceName>
+<TargetName ID="1">מוריירה</TargetName>
+</Name>
+<Name ID="444">
+<SourceName>Shishman</SourceName>
+<TargetName ID="1">שישמנ</TargetName>
+</Name>
+<Name ID="445">
+<SourceName>Standard</SourceName>
+<TargetName ID="1">הסטנדרטי</TargetName>
+<TargetName ID="2">סטנדרט</TargetName>
+</Name>
+<Name ID="446">
+<SourceName>Corpse</SourceName>
+<TargetName ID="1">קורפס</TargetName>
+</Name>
+<Name ID="447">
+<SourceName>Dadra</SourceName>
+<TargetName ID="1">דאדרה</TargetName>
+</Name>
+<Name ID="448">
+<SourceName>Nucleosome</SourceName>
+<TargetName ID="1">נוקלאוזומ</TargetName>
+</Name>
+<Name ID="449">
+<SourceName>Eemil</SourceName>
+<TargetName ID="1">אמיל</TargetName>
+</Name>
+<Name ID="450">
+<SourceName>Pneumatic</SourceName>
+<TargetName ID="1">פנאומטיקה</TargetName>
+</Name>
+<Name ID="451">
+<SourceName>Nasserism</SourceName>
+<TargetName ID="1">נאצריזמ</TargetName>
+</Name>
+<Name ID="452">
+<SourceName>Berserk</SourceName>
+<TargetName ID="1">ברזרק</TargetName>
+</Name>
+<Name ID="453">
+<SourceName>Xerophyte</SourceName>
+<TargetName ID="1">קסרופיט</TargetName>
+</Name>
+<Name ID="454">
+<SourceName>Necropolis</SourceName>
+<TargetName ID="1">נקרופוליס</TargetName>
+</Name>
+<Name ID="455">
+<SourceName>Ascension</SourceName>
+<TargetName ID="1">אסנשנ</TargetName>
+</Name>
+<Name ID="456">
+<SourceName>Ostinato</SourceName>
+<TargetName ID="1">אוסטינטו</TargetName>
+</Name>
+<Name ID="457">
+<SourceName>Hevel</SourceName>
+<TargetName ID="1">חבל</TargetName>
+</Name>
+<Name ID="458">
+<SourceName>Bardejov</SourceName>
+<TargetName ID="1">ברדיוב</TargetName>
+</Name>
+<Name ID="459">
+<SourceName>Pisseleu</SourceName>
+<TargetName ID="1">פיסלה</TargetName>
+</Name>
+<Name ID="460">
+<SourceName>Tutong</SourceName>
+<TargetName ID="1">טוטונג</TargetName>
+</Name>
+<Name ID="461">
+<SourceName>Depardieu</SourceName>
+<TargetName ID="1">דפארדיה</TargetName>
+</Name>
+<Name ID="462">
+<SourceName>Kantele</SourceName>
+<TargetName ID="1">קנטלה</TargetName>
+</Name>
+<Name ID="463">
+<SourceName>Engelbart</SourceName>
+<TargetName ID="1">אנגלברט</TargetName>
+</Name>
+<Name ID="464">
+<SourceName>Lumen</SourceName>
+<TargetName ID="1">לומנ</TargetName>
+</Name>
+<Name ID="465">
+<SourceName>Norwegian</SourceName>
+<TargetName ID="1">נורבגית</TargetName>
+</Name>
+<Name ID="466">
+<SourceName>Oreiro</SourceName>
+<TargetName ID="1">אוריירו</TargetName>
+</Name>
+<Name ID="467">
+<SourceName>Rashidun</SourceName>
+<TargetName ID="1">ראשידונ</TargetName>
+</Name>
+<Name ID="468">
+<SourceName>Dinar</SourceName>
+<TargetName ID="1">דינר</TargetName>
+</Name>
+<Name ID="469">
+<SourceName>Savimbi</SourceName>
+<TargetName ID="1">סאווימבי</TargetName>
+</Name>
+<Name ID="470">
+<SourceName>Dysplasia</SourceName>
+<TargetName ID="1">דיספלסיה</TargetName>
+<TargetName ID="2">דיספלזיה</TargetName>
+</Name>
+<Name ID="471">
+<SourceName>Hahiver</SourceName>
+<TargetName ID="1">החיוור</TargetName>
+</Name>
+<Name ID="472">
+<SourceName>Ragtime</SourceName>
+<TargetName ID="1">רגטיימ</TargetName>
+</Name>
+<Name ID="473">
+<SourceName>Sporophyte</SourceName>
+<TargetName ID="1">ספורופיט</TargetName>
+</Name>
+<Name ID="474">
+<SourceName>Degeneres</SourceName>
+<TargetName ID="1">דג'נרס</TargetName>
+</Name>
+<Name ID="475">
+<SourceName>Noyon</SourceName>
+<TargetName ID="1">נואיונ</TargetName>
+</Name>
+<Name ID="476">
+<SourceName>Cyanide</SourceName>
+<TargetName ID="1">ציאניד</TargetName>
+</Name>
+<Name ID="477">
+<SourceName>Adjika</SourceName>
+<TargetName ID="1">אג'יקה</TargetName>
+</Name>
+<Name ID="478">
+<SourceName>Nuweiba</SourceName>
+<TargetName ID="1">נואיבה</TargetName>
+</Name>
+<Name ID="479">
+<SourceName>Kokhba</SourceName>
+<TargetName ID="1">כוכבא</TargetName>
+</Name>
+<Name ID="480">
+<SourceName>Etiquette</SourceName>
+<TargetName ID="1">אטיקט</TargetName>
+</Name>
+<Name ID="481">
+<SourceName>Dunedin</SourceName>
+<TargetName ID="1">דונדינ</TargetName>
+</Name>
+<Name ID="482">
+<SourceName>Maxentius</SourceName>
+<TargetName ID="1">מקסנטיוס</TargetName>
+</Name>
+<Name ID="483">
+<SourceName>Kirkby</SourceName>
+<TargetName ID="1">קרקבי</TargetName>
+</Name>
+<Name ID="484">
+<SourceName>Keeshond</SourceName>
+<TargetName ID="1">קיסהאונד</TargetName>
+</Name>
+<Name ID="485">
+<SourceName>Alberstein</SourceName>
+<TargetName ID="1">אלברשטיינ</TargetName>
+</Name>
+<Name ID="486">
+<SourceName>Teledyne</SourceName>
+<TargetName ID="1">טלדיינ</TargetName>
+</Name>
+<Name ID="487">
+<SourceName>Samsung</SourceName>
+<TargetName ID="1">סמסונג</TargetName>
+</Name>
+<Name ID="488">
+<SourceName>Moldavian</SourceName>
+<TargetName ID="1">מולדובה</TargetName>
+</Name>
+<Name ID="489">
+<SourceName>Pyatigorsk</SourceName>
+<TargetName ID="1">פיאטיגורסק</TargetName>
+</Name>
+<Name ID="490">
+<SourceName>Großglockner</SourceName>
+<TargetName ID="1">גרוסגלוקנר</TargetName>
+</Name>
+<Name ID="491">
+<SourceName>Rust</SourceName>
+<TargetName ID="1">רוסט</TargetName>
+</Name>
+<Name ID="492">
+<SourceName>Photon</SourceName>
+<TargetName ID="1">פוטונ</TargetName>
+</Name>
+<Name ID="493">
+<SourceName>Sargent</SourceName>
+<TargetName ID="1">סרג'נט</TargetName>
+</Name>
+<Name ID="494">
+<SourceName>Nahash</SourceName>
+<TargetName ID="1">נחש</TargetName>
+</Name>
+<Name ID="495">
+<SourceName>Hauptbahnhof</SourceName>
+<TargetName ID="1">האופטבנהופ</TargetName>
+</Name>
+<Name ID="496">
+<SourceName>Amoeba</SourceName>
+<TargetName ID="1">אמבה</TargetName>
+</Name>
+<Name ID="497">
+<SourceName>Glissando</SourceName>
+<TargetName ID="1">גליסנדו</TargetName>
+</Name>
+<Name ID="498">
+<SourceName>Hypertext</SourceName>
+<TargetName ID="1">היפרטקסט</TargetName>
+</Name>
+<Name ID="499">
+<SourceName>Baktus</SourceName>
+<TargetName ID="1">ובקטוס</TargetName>
+</Name>
+<Name ID="500">
+<SourceName>Tachometer</SourceName>
+<TargetName ID="1">טכומטר</TargetName>
+</Name>
+<Name ID="501">
+<SourceName>Gambit</SourceName>
+<TargetName ID="1">גמביט</TargetName>
+</Name>
+<Name ID="502">
+<SourceName>Yehiel</SourceName>
+<TargetName ID="1">יחיאל</TargetName>
+</Name>
+<Name ID="503">
+<SourceName>Champloo</SourceName>
+<TargetName ID="1">צ'מפלו</TargetName>
+</Name>
+<Name ID="504">
+<SourceName>Drachma</SourceName>
+<TargetName ID="1">דרכמה</TargetName>
+</Name>
+<Name ID="505">
+<SourceName>Court</SourceName>
+<TargetName ID="1">קורט</TargetName>
+</Name>
+<Name ID="506">
+<SourceName>Alternative</SourceName>
+<TargetName ID="1">אלטרנטיבי</TargetName>
+<TargetName ID="2">אלטרנטיבית</TargetName>
+<TargetName ID="3">אלטרנטיב</TargetName>
+</Name>
+<Name ID="507">
+<SourceName>Bazargan</SourceName>
+<TargetName ID="1">באזרגאנ</TargetName>
+</Name>
+<Name ID="508">
+<SourceName>Lanka</SourceName>
+<TargetName ID="1">לנקה</TargetName>
+</Name>
+<Name ID="509">
+<SourceName>Sachertorte</SourceName>
+<TargetName ID="1">זאכרטורטה</TargetName>
+</Name>
+<Name ID="510">
+<SourceName>Kerem</SourceName>
+<TargetName ID="1">כרמ</TargetName>
+</Name>
+<Name ID="511">
+<SourceName>Lactamase</SourceName>
+<TargetName ID="1">לקטמאז</TargetName>
+</Name>
+<Name ID="512">
+<SourceName>Inheritance</SourceName>
+<TargetName ID="1">ירושה</TargetName>
+</Name>
+<Name ID="513">
+<SourceName>Glatzer</SourceName>
+<TargetName ID="1">גלאצר</TargetName>
+</Name>
+<Name ID="514">
+<SourceName>Sirtaki</SourceName>
+<TargetName ID="1">סירטאקי</TargetName>
+</Name>
+<Name ID="515">
+<SourceName>Scheel</SourceName>
+<TargetName ID="1">של</TargetName>
+</Name>
+<Name ID="516">
+<SourceName>Pakarinen</SourceName>
+<TargetName ID="1">פאקאריננ</TargetName>
+</Name>
+<Name ID="517">
+<SourceName>Eugen</SourceName>
+<TargetName ID="1">אויגנ</TargetName>
+</Name>
+<Name ID="518">
+<SourceName>Federalism</SourceName>
+<TargetName ID="1">פדרליסטימ</TargetName>
+</Name>
+<Name ID="519">
+<SourceName>Paparuda</SourceName>
+<TargetName ID="1">פפרודה</TargetName>
+</Name>
+<Name ID="520">
+<SourceName>Winnipeg</SourceName>
+<TargetName ID="1">ויניפג</TargetName>
+</Name>
+<Name ID="521">
+<SourceName>Revava</SourceName>
+<TargetName ID="1">רבבה</TargetName>
+</Name>
+<Name ID="522">
+<SourceName>Mariotte</SourceName>
+<TargetName ID="1">מריוט</TargetName>
+</Name>
+<Name ID="523">
+<SourceName>Magnetron</SourceName>
+<TargetName ID="1">מגנטרונ</TargetName>
+</Name>
+<Name ID="524">
+<SourceName>Aegyptopithecus</SourceName>
+<TargetName ID="1">אגיפטופיתקוס</TargetName>
+</Name>
+<Name ID="525">
+<SourceName>Mechanics</SourceName>
+<TargetName ID="1">מכניקת</TargetName>
+<TargetName ID="2">מכניקה</TargetName>
+</Name>
+<Name ID="526">
+<SourceName>Poltergeist</SourceName>
+<TargetName ID="1">פולטרגייסט</TargetName>
+</Name>
+<Name ID="527">
+<SourceName>Polymorphism</SourceName>
+<TargetName ID="1">פולימורפיזמ</TargetName>
+</Name>
+<Name ID="528">
+<SourceName>Magnetosphere</SourceName>
+<TargetName ID="1">מגנטוספירה</TargetName>
+</Name>
+<Name ID="529">
+<SourceName>Hadean</SourceName>
+<TargetName ID="1">האדנ</TargetName>
+</Name>
+<Name ID="530">
+<SourceName>Edom</SourceName>
+<TargetName ID="1">אדומ</TargetName>
+</Name>
+<Name ID="531">
+<SourceName>Braudel</SourceName>
+<TargetName ID="1">ברודל</TargetName>
+</Name>
+<Name ID="532">
+<SourceName>Elvin</SourceName>
+<TargetName ID="1">אלווינ</TargetName>
+</Name>
+<Name ID="533">
+<SourceName>Pyroxene</SourceName>
+<TargetName ID="1">פירוקסנ</TargetName>
+</Name>
+<Name ID="534">
+<SourceName>Caridis</SourceName>
+<TargetName ID="1">קארידיס</TargetName>
+</Name>
+<Name ID="535">
+<SourceName>Teena</SourceName>
+<TargetName ID="1">טינה</TargetName>
+</Name>
+<Name ID="536">
+<SourceName>Summerslam</SourceName>
+<TargetName ID="1">סאמרסלאמ</TargetName>
+</Name>
+<Name ID="537">
+<SourceName>Symphony</SourceName>
+<TargetName ID="1">סימפוניה</TargetName>
+</Name>
+<Name ID="538">
+<SourceName>Insei</SourceName>
+<TargetName ID="1">אינסיי</TargetName>
+</Name>
+<Name ID="539">
+<SourceName>Professor</SourceName>
+<TargetName ID="1">פרופסורת</TargetName>
+<TargetName ID="2">פרופסור</TargetName>
+</Name>
+<Name ID="540">
+<SourceName>Albano</SourceName>
+<TargetName ID="1">אלבנו</TargetName>
+</Name>
+<Name ID="541">
+<SourceName>Goulash</SourceName>
+<TargetName ID="1">גולאש</TargetName>
+</Name>
+<Name ID="542">
+<SourceName>Carbide</SourceName>
+<TargetName ID="1">קרביד</TargetName>
+</Name>
+<Name ID="543">
+<SourceName>Trampolining</SourceName>
+<TargetName ID="1">טרמפולינה</TargetName>
+</Name>
+<Name ID="544">
+<SourceName>Mahalalel</SourceName>
+<TargetName ID="1">מהללאל</TargetName>
+</Name>
+<Name ID="545">
+<SourceName>Ostracism</SourceName>
+<TargetName ID="1">אוסטרקיזמ</TargetName>
+</Name>
+<Name ID="546">
+<SourceName>Chillul</SourceName>
+<TargetName ID="1">חילול</TargetName>
+</Name>
+<Name ID="547">
+<SourceName>Abendroth</SourceName>
+<TargetName ID="1">אבנדרות</TargetName>
+</Name>
+<Name ID="548">
+<SourceName>Muktzah</SourceName>
+<TargetName ID="1">מוקצה</TargetName>
+</Name>
+<Name ID="549">
+<SourceName>Hippocampus</SourceName>
+<TargetName ID="1">היפוקמפוס</TargetName>
+</Name>
+<Name ID="550">
+<SourceName>Hatserim</SourceName>
+<TargetName ID="1">חצרימ</TargetName>
+</Name>
+<Name ID="551">
+<SourceName>Hufu</SourceName>
+<TargetName ID="1">הופו</TargetName>
+</Name>
+<Name ID="552">
+<SourceName>Clytemnestra</SourceName>
+<TargetName ID="1">קליטמנסטרה</TargetName>
+</Name>
+<Name ID="553">
+<SourceName>Woodstock</SourceName>
+<TargetName ID="1">וודסטוק</TargetName>
+</Name>
+<Name ID="554">
+<SourceName>Brisighella</SourceName>
+<TargetName ID="1">בריזיגלה</TargetName>
+</Name>
+<Name ID="555">
+<SourceName>Jethou</SourceName>
+<TargetName ID="1">ג'ת'ו</TargetName>
+</Name>
+<Name ID="556">
+<SourceName>Antigone</SourceName>
+<TargetName ID="1">אנטיגונה</TargetName>
+</Name>
+<Name ID="557">
+<SourceName>Paderewski</SourceName>
+<TargetName ID="1">פדרבסקי</TargetName>
+</Name>
+<Name ID="558">
+<SourceName>Gleichschaltung</SourceName>
+<TargetName ID="1">גלייכשאלטונג</TargetName>
+</Name>
+<Name ID="559">
+<SourceName>Kittel</SourceName>
+<TargetName ID="1">קיטל</TargetName>
+</Name>
+<Name ID="560">
+<SourceName>Alpi</SourceName>
+<TargetName ID="1">אלפי</TargetName>
+</Name>
+<Name ID="561">
+<SourceName>Tisza</SourceName>
+<TargetName ID="1">טיסה</TargetName>
+</Name>
+<Name ID="562">
+<SourceName>Baddeley</SourceName>
+<TargetName ID="1">באדלי</TargetName>
+</Name>
+<Name ID="563">
+<SourceName>Wyndham</SourceName>
+<TargetName ID="1">וינדהמ</TargetName>
+</Name>
+<Name ID="564">
+<SourceName>Calcite</SourceName>
+<TargetName ID="1">קלציט</TargetName>
+</Name>
+<Name ID="565">
+<SourceName>Beckinsale</SourceName>
+<TargetName ID="1">בקינסייל</TargetName>
+</Name>
+<Name ID="566">
+<SourceName>Photochromism</SourceName>
+<TargetName ID="1">פוטוכרומיזמ</TargetName>
+</Name>
+<Name ID="567">
+<SourceName>Cymric</SourceName>
+<TargetName ID="1">קימריק</TargetName>
+</Name>
+<Name ID="568">
+<SourceName>Mekhilta</SourceName>
+<TargetName ID="1">מכילתא</TargetName>
+</Name>
+<Name ID="569">
+<SourceName>Effector</SourceName>
+<TargetName ID="1">אפקטור</TargetName>
+</Name>
+<Name ID="570">
+<SourceName>Raytheon</SourceName>
+<TargetName ID="1">ריית'אונ</TargetName>
+</Name>
+<Name ID="571">
+<SourceName>Cenozoic</SourceName>
+<TargetName ID="1">קנוזואיקונ</TargetName>
+</Name>
+<Name ID="572">
+<SourceName>Northrop</SourceName>
+<TargetName ID="1">נורת'רופ</TargetName>
+</Name>
+<Name ID="573">
+<SourceName>Xenolith</SourceName>
+<TargetName ID="1">קסנולית</TargetName>
+</Name>
+<Name ID="574">
+<SourceName>Milwaukee</SourceName>
+<TargetName ID="1">מילווקי</TargetName>
+</Name>
+<Name ID="575">
+<SourceName>Frisia</SourceName>
+<TargetName ID="1">פריזיה</TargetName>
+</Name>
+<Name ID="576">
+<SourceName>Muhammad</SourceName>
+<TargetName ID="1">מוחמד</TargetName>
+</Name>
+<Name ID="577">
+<SourceName>Empathogen</SourceName>
+<TargetName ID="1">אמפתוגנ</TargetName>
+</Name>
+<Name ID="578">
+<SourceName>Lebesgue</SourceName>
+<TargetName ID="1">לבג</TargetName>
+</Name>
+<Name ID="579">
+<SourceName>Gatcombe</SourceName>
+<TargetName ID="1">גייטקומב</TargetName>
+</Name>
+<Name ID="580">
+<SourceName>Platonic</SourceName>
+<TargetName ID="1">אפלטונית</TargetName>
+</Name>
+<Name ID="581">
+<SourceName>Steaua</SourceName>
+<TargetName ID="1">סטיאווה</TargetName>
+</Name>
+<Name ID="582">
+<SourceName>Israeli</SourceName>
+<TargetName ID="1">ישראלי</TargetName>
+</Name>
+<Name ID="583">
+<SourceName>Pogrom</SourceName>
+<TargetName ID="1">פוגרומ</TargetName>
+</Name>
+<Name ID="584">
+<SourceName>Jamaal</SourceName>
+<TargetName ID="1">ג'מאל</TargetName>
+</Name>
+<Name ID="585">
+<SourceName>Flames</SourceName>
+<TargetName ID="1">פליימס</TargetName>
+</Name>
+<Name ID="586">
+<SourceName>Samoa</SourceName>
+<TargetName ID="1">סמואה</TargetName>
+</Name>
+<Name ID="587">
+<SourceName>Rhythm</SourceName>
+<TargetName ID="1">רית'מ</TargetName>
+</Name>
+<Name ID="588">
+<SourceName>Eshkol</SourceName>
+<TargetName ID="1">אשכול</TargetName>
+</Name>
+<Name ID="589">
+<SourceName>Geocentric</SourceName>
+<TargetName ID="1">הגאוצנטרי</TargetName>
+</Name>
+<Name ID="590">
+<SourceName>Marada</SourceName>
+<TargetName ID="1">מרדה</TargetName>
+</Name>
+<Name ID="591">
+<SourceName>Elbrus</SourceName>
+<TargetName ID="1">אלברוס</TargetName>
+</Name>
+<Name ID="592">
+<SourceName>Brutus</SourceName>
+<TargetName ID="1">ברוטוס</TargetName>
+</Name>
+<Name ID="593">
+<SourceName>Molotov</SourceName>
+<TargetName ID="1">מולוטוב</TargetName>
+</Name>
+<Name ID="594">
+<SourceName>Reflexology</SourceName>
+<TargetName ID="1">רפלקסולוגיה</TargetName>
+</Name>
+<Name ID="595">
+<SourceName>Dieting</SourceName>
+<TargetName ID="1">דיאטה</TargetName>
+</Name>
+<Name ID="596">
+<SourceName>Chastain</SourceName>
+<TargetName ID="1">צ'סטיינ</TargetName>
+</Name>
+<Name ID="597">
+<SourceName>Mihrab</SourceName>
+<TargetName ID="1">מחראב</TargetName>
+</Name>
+<Name ID="598">
+<SourceName>Archaeopteryx</SourceName>
+<TargetName ID="1">ארכיאופטריקס</TargetName>
+</Name>
+<Name ID="599">
+<SourceName>Symphonie</SourceName>
+<TargetName ID="1">הסימפוניה</TargetName>
+</Name>
+<Name ID="600">
+<SourceName>Categorical</SourceName>
+<TargetName ID="1">הקטגורי</TargetName>
+</Name>
+<Name ID="601">
+<SourceName>Fiefdom</SourceName>
+<TargetName ID="1">פיפ</TargetName>
+</Name>
+<Name ID="602">
+<SourceName>Kermeur</SourceName>
+<TargetName ID="1">קרמר</TargetName>
+</Name>
+<Name ID="603">
+<SourceName>Starbuck</SourceName>
+<TargetName ID="1">סטארבק</TargetName>
+</Name>
+<Name ID="604">
+<SourceName>Magnetic</SourceName>
+<TargetName ID="1">מגנטית</TargetName>
+</Name>
+<Name ID="605">
+<SourceName>Guerrouj</SourceName>
+<TargetName ID="1">גרוז'</TargetName>
+</Name>
+<Name ID="606">
+<SourceName>Spritz</SourceName>
+<TargetName ID="1">שפריצ</TargetName>
+</Name>
+<Name ID="607">
+<SourceName>Phenethylamine</SourceName>
+<TargetName ID="1">פנתילאמינ</TargetName>
+</Name>
+<Name ID="608">
+<SourceName>Kumis</SourceName>
+<TargetName ID="1">קומיס</TargetName>
+</Name>
+<Name ID="609">
+<SourceName>Klaf</SourceName>
+<TargetName ID="1">קלפ</TargetName>
+</Name>
+<Name ID="610">
+<SourceName>Hilberg</SourceName>
+<TargetName ID="1">הילברג</TargetName>
+</Name>
+<Name ID="611">
+<SourceName>Arkhangai</SourceName>
+<TargetName ID="1">ארחאנגאי</TargetName>
+</Name>
+<Name ID="612">
+<SourceName>Eponym</SourceName>
+<TargetName ID="1">אפונימ</TargetName>
+</Name>
+<Name ID="613">
+<SourceName>Krems</SourceName>
+<TargetName ID="1">קרמס</TargetName>
+</Name>
+<Name ID="614">
+<SourceName>Mackensen</SourceName>
+<TargetName ID="1">מקנזנ</TargetName>
+</Name>
+<Name ID="615">
+<SourceName>Whalsay</SourceName>
+<TargetName ID="1">וולסיי</TargetName>
+</Name>
+<Name ID="616">
+<SourceName>Jacksonville</SourceName>
+<TargetName ID="1">ג'קסונוויל</TargetName>
+</Name>
+<Name ID="617">
+<SourceName>Frankenstein</SourceName>
+<TargetName ID="1">פרנקנשטיינ</TargetName>
+</Name>
+<Name ID="618">
+<SourceName>Ignoratio</SourceName>
+<TargetName ID="1">איגנורטיו</TargetName>
+</Name>
+<Name ID="619">
+<SourceName>Vaygach</SourceName>
+<TargetName ID="1">וייגאצ'</TargetName>
+</Name>
+<Name ID="620">
+<SourceName>Berel</SourceName>
+<TargetName ID="1">ברל</TargetName>
+</Name>
+<Name ID="621">
+<SourceName>Browning</SourceName>
+<TargetName ID="1">בראונינג</TargetName>
+</Name>
+<Name ID="622">
+<SourceName>Yonah</SourceName>
+<TargetName ID="1">יונה</TargetName>
+</Name>
+<Name ID="623">
+<SourceName>Panamax</SourceName>
+<TargetName ID="1">פנמקס</TargetName>
+</Name>
+<Name ID="624">
+<SourceName>Bibliotherapy</SourceName>
+<TargetName ID="1">ביבליותרפיה</TargetName>
+</Name>
+<Name ID="625">
+<SourceName>Ravina</SourceName>
+<TargetName ID="1">רבינא</TargetName>
+</Name>
+<Name ID="626">
+<SourceName>Pedy</SourceName>
+<TargetName ID="1">פאדי</TargetName>
+</Name>
+<Name ID="627">
+<SourceName>Photosphere</SourceName>
+<TargetName ID="1">פוטוספירה</TargetName>
+</Name>
+<Name ID="628">
+<SourceName>Genesis</SourceName>
+<TargetName ID="1">ג'נסיס</TargetName>
+</Name>
+<Name ID="629">
+<SourceName>Gamer</SourceName>
+<TargetName ID="1">גיימר</TargetName>
+</Name>
+<Name ID="630">
+<SourceName>Kell</SourceName>
+<TargetName ID="1">קל</TargetName>
+</Name>
+<Name ID="631">
+<SourceName>Caucasus</SourceName>
+<TargetName ID="1">קווקז</TargetName>
+</Name>
+<Name ID="632">
+<SourceName>Mirs</SourceName>
+<TargetName ID="1">מירס</TargetName>
+</Name>
+<Name ID="633">
+<SourceName>Meitnerium</SourceName>
+<TargetName ID="1">מייטנריומ</TargetName>
+</Name>
+<Name ID="634">
+<SourceName>Tenacious</SourceName>
+<TargetName ID="1">טניישס</TargetName>
+</Name>
+<Name ID="635">
+<SourceName>Vayechi</SourceName>
+<TargetName ID="1">ויחי</TargetName>
+</Name>
+<Name ID="636">
+<SourceName>Hayarok</SourceName>
+<TargetName ID="1">הירוק</TargetName>
+</Name>
+<Name ID="637">
+<SourceName>Jannings</SourceName>
+<TargetName ID="1">יאנינגס</TargetName>
+</Name>
+<Name ID="638">
+<SourceName>Pilcomayo</SourceName>
+<TargetName ID="1">פילקומיו</TargetName>
+</Name>
+<Name ID="639">
+<SourceName>Edgard</SourceName>
+<TargetName ID="1">אדגר</TargetName>
+</Name>
+<Name ID="640">
+<SourceName>Jonze</SourceName>
+<TargetName ID="1">ג'ונז</TargetName>
+</Name>
+<Name ID="641">
+<SourceName>Burmese</SourceName>
+<TargetName ID="1">בורמזי</TargetName>
+</Name>
+<Name ID="642">
+<SourceName>Jethro</SourceName>
+<TargetName ID="1">יתרו</TargetName>
+<TargetName ID="2">ג'ת'רו</TargetName>
+</Name>
+<Name ID="643">
+<SourceName>Phytochrome</SourceName>
+<TargetName ID="1">פיטוכרומ</TargetName>
+</Name>
+<Name ID="644">
+<SourceName>Janco</SourceName>
+<TargetName ID="1">ינקו</TargetName>
+</Name>
+<Name ID="645">
+<SourceName>Ahijah</SourceName>
+<TargetName ID="1">אחיה</TargetName>
+</Name>
+<Name ID="646">
+<SourceName>Staatsrat</SourceName>
+<TargetName ID="1">שטאטסראט</TargetName>
+</Name>
+<Name ID="647">
+<SourceName>Anapsid</SourceName>
+<TargetName ID="1">אנאפסידה</TargetName>
+</Name>
+<Name ID="648">
+<SourceName>Preferans</SourceName>
+<TargetName ID="1">פרפראנס</TargetName>
+</Name>
+<Name ID="649">
+<SourceName>Corso</SourceName>
+<TargetName ID="1">קורסו</TargetName>
+</Name>
+<Name ID="650">
+<SourceName>Attack</SourceName>
+<TargetName ID="1">אטאק</TargetName>
+</Name>
+<Name ID="651">
+<SourceName>Energy</SourceName>
+<TargetName ID="1">אנרגיה</TargetName>
+</Name>
+<Name ID="652">
+<SourceName>Herts</SourceName>
+<TargetName ID="1">הרצ</TargetName>
+</Name>
+<Name ID="653">
+<SourceName>Yolanda</SourceName>
+<TargetName ID="1">יולנדה</TargetName>
+</Name>
+<Name ID="654">
+<SourceName>Regalim</SourceName>
+<TargetName ID="1">רגלימ</TargetName>
+</Name>
+<Name ID="655">
+<SourceName>Klagenfurt</SourceName>
+<TargetName ID="1">קלגנפורט</TargetName>
+</Name>
+<Name ID="656">
+<SourceName>Mead</SourceName>
+<TargetName ID="1">מיד</TargetName>
+</Name>
+<Name ID="657">
+<SourceName>Glubb</SourceName>
+<TargetName ID="1">גלאב</TargetName>
+</Name>
+<Name ID="658">
+<SourceName>Ilanit</SourceName>
+<TargetName ID="1">אילנית</TargetName>
+</Name>
+<Name ID="659">
+<SourceName>Sper</SourceName>
+<TargetName ID="1">ספרי</TargetName>
+</Name>
+<Name ID="660">
+<SourceName>Rhin</SourceName>
+<TargetName ID="1">ריינ</TargetName>
+</Name>
+<Name ID="661">
+<SourceName>Fondi</SourceName>
+<TargetName ID="1">פונדי</TargetName>
+</Name>
+<Name ID="662">
+<SourceName>Vlade</SourceName>
+<TargetName ID="1">ולאדה</TargetName>
+</Name>
+<Name ID="663">
+<SourceName>Scotia</SourceName>
+<TargetName ID="1">סקוטיה</TargetName>
+</Name>
+<Name ID="664">
+<SourceName>Tomasson</SourceName>
+<TargetName ID="1">תומסונ</TargetName>
+</Name>
+<Name ID="665">
+<SourceName>Quenya</SourceName>
+<TargetName ID="1">קווניה</TargetName>
+</Name>
+<Name ID="666">
+<SourceName>Lesbos</SourceName>
+<TargetName ID="1">לסבוס</TargetName>
+</Name>
+<Name ID="667">
+<SourceName>Gratian</SourceName>
+<TargetName ID="1">גרטיאנוס</TargetName>
+</Name>
+<Name ID="668">
+<SourceName>Sundhage</SourceName>
+<TargetName ID="1">סונדהאגה</TargetName>
+</Name>
+<Name ID="669">
+<SourceName>Polystyrene</SourceName>
+<TargetName ID="1">פוליסטירנ</TargetName>
+</Name>
+<Name ID="670">
+<SourceName>Lumpur</SourceName>
+<TargetName ID="1">לומפור</TargetName>
+</Name>
+<Name ID="671">
+<SourceName>Rubidium</SourceName>
+<TargetName ID="1">רובידיומ</TargetName>
+</Name>
+<Name ID="672">
+<SourceName>Bias</SourceName>
+<TargetName ID="1">ביאס</TargetName>
+</Name>
+<Name ID="673">
+<SourceName>Frankfurter</SourceName>
+<TargetName ID="1">פרנקפורטר</TargetName>
+</Name>
+<Name ID="674">
+<SourceName>Militia</SourceName>
+<TargetName ID="1">מיליציה</TargetName>
+</Name>
+<Name ID="675">
+<SourceName>Chakraborty</SourceName>
+<TargetName ID="1">צ'קרבורטי</TargetName>
+</Name>
+<Name ID="676">
+<SourceName>Govi</SourceName>
+<TargetName ID="1">גובי</TargetName>
+</Name>
+<Name ID="677">
+<SourceName>Shochat</SourceName>
+<TargetName ID="1">שוחט</TargetName>
+</Name>
+<Name ID="678">
+<SourceName>Ascalon</SourceName>
+<TargetName ID="1">אשקלונ</TargetName>
+</Name>
+<Name ID="679">
+<SourceName>Fleet</SourceName>
+<TargetName ID="1">פליט</TargetName>
+</Name>
+<Name ID="680">
+<SourceName>Dmowski</SourceName>
+<TargetName ID="1">דמובסקי</TargetName>
+</Name>
+<Name ID="681">
+<SourceName>Modica</SourceName>
+<TargetName ID="1">מודיקה</TargetName>
+</Name>
+<Name ID="682">
+<SourceName>Hierarchy</SourceName>
+<TargetName ID="1">ההיררכייה</TargetName>
+<TargetName ID="2">היררכיה</TargetName>
+</Name>
+<Name ID="683">
+<SourceName>Arvydas</SourceName>
+<TargetName ID="1">ארבידאס</TargetName>
+</Name>
+<Name ID="684">
+<SourceName>Thelonious</SourceName>
+<TargetName ID="1">ת'לוניוס</TargetName>
+</Name>
+<Name ID="685">
+<SourceName>Jaana</SourceName>
+<TargetName ID="1">יאנה</TargetName>
+</Name>
+<Name ID="686">
+<SourceName>Physical</SourceName>
+<TargetName ID="1">פיזיקלית</TargetName>
+</Name>
+<Name ID="687">
+<SourceName>Schattenburg</SourceName>
+<TargetName ID="1">שאטנבורג</TargetName>
+</Name>
+<Name ID="688">
+<SourceName>Flash</SourceName>
+<TargetName ID="1">פלאש</TargetName>
+</Name>
+<Name ID="689">
+<SourceName>Sloughi</SourceName>
+<TargetName ID="1">סלוגי</TargetName>
+</Name>
+<Name ID="690">
+<SourceName>Beate</SourceName>
+<TargetName ID="1">ביאטה</TargetName>
+</Name>
+<Name ID="691">
+<SourceName>Arjen</SourceName>
+<TargetName ID="1">אריינ</TargetName>
+</Name>
+<Name ID="692">
+<SourceName>Mchale</SourceName>
+<TargetName ID="1">מקהייל</TargetName>
+</Name>
+<Name ID="693">
+<SourceName>Zerach</SourceName>
+<TargetName ID="1">זרח</TargetName>
+</Name>
+<Name ID="694">
+<SourceName>Skynyrd</SourceName>
+<TargetName ID="1">סקינרד</TargetName>
+</Name>
+<Name ID="695">
+<SourceName>Napoca</SourceName>
+<TargetName ID="1">נאפוקה</TargetName>
+</Name>
+<Name ID="696">
+<SourceName>Scharf</SourceName>
+<TargetName ID="1">שרפ</TargetName>
+</Name>
+<Name ID="697">
+<SourceName>Gilchrist</SourceName>
+<TargetName ID="1">גילכרייסט</TargetName>
+</Name>
+<Name ID="698">
+<SourceName>Director</SourceName>
+<TargetName ID="1">דיירקטור</TargetName>
+</Name>
+<Name ID="699">
+<SourceName>Cassiopeia</SourceName>
+<TargetName ID="1">קסיופאה</TargetName>
+</Name>
+<Name ID="700">
+<SourceName>Sappho</SourceName>
+<TargetName ID="1">סאפפו</TargetName>
+</Name>
+<Name ID="701">
+<SourceName>Gemma</SourceName>
+<TargetName ID="1">ג'מה</TargetName>
+</Name>
+<Name ID="702">
+<SourceName>Orient</SourceName>
+<TargetName ID="1">אוריינט</TargetName>
+</Name>
+<Name ID="703">
+<SourceName>Dangerfield</SourceName>
+<TargetName ID="1">דיינג'רפילד</TargetName>
+</Name>
+<Name ID="704">
+<SourceName>Capitolina</SourceName>
+<TargetName ID="1">קפיטולינה</TargetName>
+</Name>
+<Name ID="705">
+<SourceName>Lieutenant</SourceName>
+<TargetName ID="1">לויטנט</TargetName>
+</Name>
+<Name ID="706">
+<SourceName>Houdini</SourceName>
+<TargetName ID="1">הודיני</TargetName>
+</Name>
+<Name ID="707">
+<SourceName>Labello</SourceName>
+<TargetName ID="1">לבלו</TargetName>
+</Name>
+<Name ID="708">
+<SourceName>Humorului</SourceName>
+<TargetName ID="1">הומורולוי</TargetName>
+</Name>
+<Name ID="709">
+<SourceName>Antithesis</SourceName>
+<TargetName ID="1">אנטיתזה</TargetName>
+</Name>
+<Name ID="710">
+<SourceName>Tahini</SourceName>
+<TargetName ID="1">טחינה</TargetName>
+</Name>
+<Name ID="711">
+<SourceName>Pratitya</SourceName>
+<TargetName ID="1">פראטיטיה</TargetName>
+</Name>
+<Name ID="712">
+<SourceName>Culkin</SourceName>
+<TargetName ID="1">קולקינ</TargetName>
+</Name>
+<Name ID="713">
+<SourceName>Operator</SourceName>
+<TargetName ID="1">אופרטור</TargetName>
+</Name>
+<Name ID="714">
+<SourceName>Gyllene</SourceName>
+<TargetName ID="1">יילנה</TargetName>
+</Name>
+<Name ID="715">
+<SourceName>Hyginus</SourceName>
+<TargetName ID="1">היגינוס</TargetName>
+</Name>
+<Name ID="716">
+<SourceName>Kartlos</SourceName>
+<TargetName ID="1">כרתלוס</TargetName>
+</Name>
+<Name ID="717">
+<SourceName>China</SourceName>
+<TargetName ID="1">סינ</TargetName>
+<TargetName ID="2">צ'יינה</TargetName>
+</Name>
+<Name ID="718">
+<SourceName>Valois</SourceName>
+<TargetName ID="1">ולואה</TargetName>
+</Name>
+<Name ID="719">
+<SourceName>Sirhan</SourceName>
+<TargetName ID="1">סירחאנ</TargetName>
+</Name>
+<Name ID="720">
+<SourceName>Majdanek</SourceName>
+<TargetName ID="1">מיידנק</TargetName>
+</Name>
+<Name ID="721">
+<SourceName>Svetitskhoveli</SourceName>
+<TargetName ID="1">סווטיצחובלי</TargetName>
+</Name>
+<Name ID="722">
+<SourceName>Shakhtar</SourceName>
+<TargetName ID="1">שחטאר</TargetName>
+</Name>
+<Name ID="723">
+<SourceName>Roach</SourceName>
+<TargetName ID="1">רוצ'</TargetName>
+</Name>
+<Name ID="724">
+<SourceName>Melvins</SourceName>
+<TargetName ID="1">מלווינס</TargetName>
+</Name>
+<Name ID="725">
+<SourceName>Moroi</SourceName>
+<TargetName ID="1">מורוי</TargetName>
+</Name>
+<Name ID="726">
+<SourceName>Phlogiston</SourceName>
+<TargetName ID="1">פלוגיסטונ</TargetName>
+</Name>
+<Name ID="727">
+<SourceName>Nitzani</SourceName>
+<TargetName ID="1">ניצני</TargetName>
+</Name>
+<Name ID="728">
+<SourceName>Racha</SourceName>
+<TargetName ID="1">רצ'ה</TargetName>
+</Name>
+<Name ID="729">
+<SourceName>Babruysk</SourceName>
+<TargetName ID="1">בוברויסק</TargetName>
+</Name>
+<Name ID="730">
+<SourceName>Corday</SourceName>
+<TargetName ID="1">קורדיי</TargetName>
+</Name>
+<Name ID="731">
+<SourceName>Mariss</SourceName>
+<TargetName ID="1">מאריס</TargetName>
+</Name>
+<Name ID="732">
+<SourceName>Ununseptium</SourceName>
+<TargetName ID="1">אונונספטיומ</TargetName>
+</Name>
+<Name ID="733">
+<SourceName>Drapetomania</SourceName>
+<TargetName ID="1">דראפטומניה</TargetName>
+</Name>
+<Name ID="734">
+<SourceName>Jenny</SourceName>
+<TargetName ID="1">ג'ני</TargetName>
+</Name>
+<Name ID="735">
+<SourceName>Muezza</SourceName>
+<TargetName ID="1">מואזה</TargetName>
+</Name>
+<Name ID="736">
+<SourceName>Ricimer</SourceName>
+<TargetName ID="1">ריקימר</TargetName>
+</Name>
+<Name ID="737">
+<SourceName>Kanna</SourceName>
+<TargetName ID="1">כנא</TargetName>
+</Name>
+<Name ID="738">
+<SourceName>Manstein</SourceName>
+<TargetName ID="1">מאנשטיינ</TargetName>
+</Name>
+<Name ID="739">
+<SourceName>Khrizantema</SourceName>
+<TargetName ID="1">כריזנטמה</TargetName>
+</Name>
+<Name ID="740">
+<SourceName>Mesika</SourceName>
+<TargetName ID="1">מסיקה</TargetName>
+</Name>
+<Name ID="741">
+<SourceName>Rumkowski</SourceName>
+<TargetName ID="1">רומקובסקי</TargetName>
+</Name>
+<Name ID="742">
+<SourceName>Berthe</SourceName>
+<TargetName ID="1">ברת</TargetName>
+</Name>
+<Name ID="743">
+<SourceName>Benkler</SourceName>
+<TargetName ID="1">בנקלר</TargetName>
+</Name>
+<Name ID="744">
+<SourceName>Ansfelden</SourceName>
+<TargetName ID="1">אנספלדנ</TargetName>
+</Name>
+<Name ID="745">
+<SourceName>Zhovkva</SourceName>
+<TargetName ID="1">ז'ובקבה</TargetName>
+</Name>
+<Name ID="746">
+<SourceName>Chord</SourceName>
+<TargetName ID="1">אקורד</TargetName>
+</Name>
+<Name ID="747">
+<SourceName>Spitz</SourceName>
+<TargetName ID="1">ספיצ</TargetName>
+</Name>
+<Name ID="748">
+<SourceName>Tironut</SourceName>
+<TargetName ID="1">טירונות</TargetName>
+</Name>
+<Name ID="749">
+<SourceName>Sholokhov</SourceName>
+<TargetName ID="1">שולוחוב</TargetName>
+</Name>
+<Name ID="750">
+<SourceName>Hewitt</SourceName>
+<TargetName ID="1">יואיט</TargetName>
+</Name>
+<Name ID="751">
+<SourceName>Robustus</SourceName>
+<TargetName ID="1">רובוסטוס</TargetName>
+</Name>
+<Name ID="752">
+<SourceName>Duani</SourceName>
+<TargetName ID="1">דואני</TargetName>
+</Name>
+<Name ID="753">
+<SourceName>Ansel</SourceName>
+<TargetName ID="1">אנסל</TargetName>
+</Name>
+<Name ID="754">
+<SourceName>Bhubaneswar</SourceName>
+<TargetName ID="1">בובנשוואר</TargetName>
+</Name>
+<Name ID="755">
+<SourceName>Kanun</SourceName>
+<TargetName ID="1">קאנונ</TargetName>
+</Name>
+<Name ID="756">
+<SourceName>Hawk</SourceName>
+<TargetName ID="1">הוק</TargetName>
+</Name>
+<Name ID="757">
+<SourceName>Halmstad</SourceName>
+<TargetName ID="1">האלמסטאד</TargetName>
+</Name>
+<Name ID="758">
+<SourceName>Shamosh</SourceName>
+<TargetName ID="1">שמוש</TargetName>
+</Name>
+<Name ID="759">
+<SourceName>Holtzberg</SourceName>
+<TargetName ID="1">הולצברג</TargetName>
+</Name>
+<Name ID="760">
+<SourceName>Phobia</SourceName>
+<TargetName ID="1">פוביה</TargetName>
+</Name>
+<Name ID="761">
+<SourceName>Kharkiv</SourceName>
+<TargetName ID="1">חרקוב</TargetName>
+</Name>
+<Name ID="762">
+<SourceName>Buffon</SourceName>
+<TargetName ID="1">בופונ</TargetName>
+</Name>
+<Name ID="763">
+<SourceName>Mapping</SourceName>
+<TargetName ID="1">מיפוי</TargetName>
+</Name>
+<Name ID="764">
+<SourceName>Lughnasadh</SourceName>
+<TargetName ID="1">לונאסה</TargetName>
+</Name>
+<Name ID="765">
+<SourceName>Galway</SourceName>
+<TargetName ID="1">גולוויי</TargetName>
+</Name>
+<Name ID="766">
+<SourceName>Gallico</SourceName>
+<TargetName ID="1">גאליקו</TargetName>
+</Name>
+<Name ID="767">
+<SourceName>Girl</SourceName>
+<TargetName ID="1">גירל</TargetName>
+</Name>
+<Name ID="768">
+<SourceName>Ornithopod</SourceName>
+<TargetName ID="1">אורניתופודה</TargetName>
+</Name>
+<Name ID="769">
+<SourceName>Statistics</SourceName>
+<TargetName ID="1">סטטיסטיקה</TargetName>
+</Name>
+<Name ID="770">
+<SourceName>Agreste</SourceName>
+<TargetName ID="1">אגרסטה</TargetName>
+</Name>
+<Name ID="771">
+<SourceName>Norther</SourceName>
+<TargetName ID="1">נורת'ר</TargetName>
+</Name>
+<Name ID="772">
+<SourceName>Darnah</SourceName>
+<TargetName ID="1">דרנה</TargetName>
+</Name>
+<Name ID="773">
+<SourceName>Kartl</SourceName>
+<TargetName ID="1">כארתלי</TargetName>
+</Name>
+<Name ID="774">
+<SourceName>Benzema</SourceName>
+<TargetName ID="1">בנזמה</TargetName>
+</Name>
+<Name ID="775">
+<SourceName>Barkan</SourceName>
+<TargetName ID="1">ברקנ</TargetName>
+</Name>
+<Name ID="776">
+<SourceName>Masur</SourceName>
+<TargetName ID="1">מאזור</TargetName>
+</Name>
+<Name ID="777">
+<SourceName>Yzerman</SourceName>
+<TargetName ID="1">אייזרמנ</TargetName>
+</Name>
+<Name ID="778">
+<SourceName>Chitin</SourceName>
+<TargetName ID="1">כיטינ</TargetName>
+</Name>
+<Name ID="779">
+<SourceName>Sandman</SourceName>
+<TargetName ID="1">סאנדמנ</TargetName>
+</Name>
+<Name ID="780">
+<SourceName>Hudaydah</SourceName>
+<TargetName ID="1">חודיידה</TargetName>
+</Name>
+<Name ID="781">
+<SourceName>Cubism</SourceName>
+<TargetName ID="1">קוביזמ</TargetName>
+</Name>
+<Name ID="782">
+<SourceName>Guillotine</SourceName>
+<TargetName ID="1">גיליוטינה</TargetName>
+</Name>
+<Name ID="783">
+<SourceName>Hava</SourceName>
+<TargetName ID="1">הבה</TargetName>
+</Name>
+<Name ID="784">
+<SourceName>Cobalt</SourceName>
+<TargetName ID="1">קובלט</TargetName>
+</Name>
+<Name ID="785">
+<SourceName>Thermodynamics</SourceName>
+<TargetName ID="1">תרמודינמיקה</TargetName>
+</Name>
+<Name ID="786">
+<SourceName>Racine</SourceName>
+<TargetName ID="1">רסינ</TargetName>
+</Name>
+<Name ID="787">
+<SourceName>Stardust</SourceName>
+<TargetName ID="1">סטארדאסט</TargetName>
+</Name>
+<Name ID="788">
+<SourceName>Novus</SourceName>
+<TargetName ID="1">נובוס</TargetName>
+</Name>
+<Name ID="789">
+<SourceName>Eino</SourceName>
+<TargetName ID="1">אינו</TargetName>
+</Name>
+<Name ID="790">
+<SourceName>Gebirtig</SourceName>
+<TargetName ID="1">גבירטיג</TargetName>
+</Name>
+<Name ID="791">
+<SourceName>Dogville</SourceName>
+<TargetName ID="1">דוגוויל</TargetName>
+</Name>
+<Name ID="792">
+<SourceName>Agenda</SourceName>
+<TargetName ID="1">אג'נדה</TargetName>
+</Name>
+<Name ID="793">
+<SourceName>Mongolia</SourceName>
+<TargetName ID="1">מונגוליה</TargetName>
+</Name>
+<Name ID="794">
+<SourceName>Gurbanguly</SourceName>
+<TargetName ID="1">גורבנגולי</TargetName>
+</Name>
+<Name ID="795">
+<SourceName>Individualist</SourceName>
+<TargetName ID="1">אינדיבידואליסטי</TargetName>
+</Name>
+<Name ID="796">
+<SourceName>Chrysoberyl</SourceName>
+<TargetName ID="1">כריזובריל</TargetName>
+</Name>
+<Name ID="797">
+<SourceName>Condon</SourceName>
+<TargetName ID="1">קונדונ</TargetName>
+</Name>
+<Name ID="798">
+<SourceName>Ecotope</SourceName>
+<TargetName ID="1">אקוטופ</TargetName>
+</Name>
+<Name ID="799">
+<SourceName>Tulchyn</SourceName>
+<TargetName ID="1">טולצ'ינ</TargetName>
+</Name>
+<Name ID="800">
+<SourceName>Akon</SourceName>
+<TargetName ID="1">אקונ</TargetName>
+</Name>
+<Name ID="801">
+<SourceName>Nezval</SourceName>
+<TargetName ID="1">נזוול</TargetName>
+</Name>
+<Name ID="802">
+<SourceName>Skandha</SourceName>
+<TargetName ID="1">סקנדה</TargetName>
+</Name>
+<Name ID="803">
+<SourceName>Melanin</SourceName>
+<TargetName ID="1">מלנינ</TargetName>
+</Name>
+<Name ID="804">
+<SourceName>Gether</SourceName>
+<TargetName ID="1">גתר</TargetName>
+</Name>
+<Name ID="805">
+<SourceName>Hispania</SourceName>
+<TargetName ID="1">היספניה</TargetName>
+</Name>
+<Name ID="806">
+<SourceName>Rize</SourceName>
+<TargetName ID="1">ריזה</TargetName>
+</Name>
+<Name ID="807">
+<SourceName>Tarvisio</SourceName>
+<TargetName ID="1">טרוויזיו</TargetName>
+</Name>
+<Name ID="808">
+<SourceName>Berkovic</SourceName>
+<TargetName ID="1">ברקוביצ'</TargetName>
+</Name>
+<Name ID="809">
+<SourceName>Vian</SourceName>
+<TargetName ID="1">ויאנ</TargetName>
+</Name>
+<Name ID="810">
+<SourceName>Schur</SourceName>
+<TargetName ID="1">שור</TargetName>
+</Name>
+<Name ID="811">
+<SourceName>Therapsida</SourceName>
+<TargetName ID="1">תראפסידה</TargetName>
+</Name>
+<Name ID="812">
+<SourceName>Buffalo</SourceName>
+<TargetName ID="1">באפלו</TargetName>
+</Name>
+<Name ID="813">
+<SourceName>Borzage</SourceName>
+<TargetName ID="1">בורזאג'</TargetName>
+</Name>
+<Name ID="814">
+<SourceName>Freak</SourceName>
+<TargetName ID="1">פריק</TargetName>
+</Name>
+<Name ID="815">
+<SourceName>Immortal</SourceName>
+<TargetName ID="1">אימורטל</TargetName>
+</Name>
+<Name ID="816">
+<SourceName>Gaudio</SourceName>
+<TargetName ID="1">גאודיו</TargetName>
+</Name>
+<Name ID="817">
+<SourceName>Zilber</SourceName>
+<TargetName ID="1">זילבר</TargetName>
+</Name>
+<Name ID="818">
+<SourceName>Mcdyess</SourceName>
+<TargetName ID="1">מקדייס</TargetName>
+</Name>
+<Name ID="819">
+<SourceName>Cosmogony</SourceName>
+<TargetName ID="1">קוסמוגוניה</TargetName>
+</Name>
+<Name ID="820">
+<SourceName>Membrane</SourceName>
+<TargetName ID="1">ממברנה</TargetName>
+</Name>
+<Name ID="821">
+<SourceName>Kiss</SourceName>
+<TargetName ID="1">קיס</TargetName>
+</Name>
+<Name ID="822">
+<SourceName>Miss</SourceName>
+<TargetName ID="1">מיס</TargetName>
+</Name>
+<Name ID="823">
+<SourceName>Dunga</SourceName>
+<TargetName ID="1">דונגה</TargetName>
+</Name>
+<Name ID="824">
+<SourceName>Pytheas</SourceName>
+<TargetName ID="1">פיתאס</TargetName>
+</Name>
+<Name ID="825">
+<SourceName>Achilles</SourceName>
+<TargetName ID="1">אכילס</TargetName>
+</Name>
+<Name ID="826">
+<SourceName>Cormorant</SourceName>
+<TargetName ID="1">קורמורנימ</TargetName>
+</Name>
+<Name ID="827">
+<SourceName>Marocchinate</SourceName>
+<TargetName ID="1">מארוקינאטה</TargetName>
+</Name>
+<Name ID="828">
+<SourceName>Grechko</SourceName>
+<TargetName ID="1">גרצ'קו</TargetName>
+</Name>
+<Name ID="829">
+<SourceName>Wien</SourceName>
+<TargetName ID="1">וינה</TargetName>
+</Name>
+<Name ID="830">
+<SourceName>Elser</SourceName>
+<TargetName ID="1">אלזר</TargetName>
+</Name>
+<Name ID="831">
+<SourceName>Gere</SourceName>
+<TargetName ID="1">גיר</TargetName>
+</Name>
+<Name ID="832">
+<SourceName>Evergrey</SourceName>
+<TargetName ID="1">אברגריי</TargetName>
+</Name>
+<Name ID="833">
+<SourceName>Bordeaux</SourceName>
+<TargetName ID="1">בורדו</TargetName>
+</Name>
+<Name ID="834">
+<SourceName>Nirenberg</SourceName>
+<TargetName ID="1">נירנברג</TargetName>
+</Name>
+<Name ID="835">
+<SourceName>Arbeitman</SourceName>
+<TargetName ID="1">ארבייטמנ</TargetName>
+</Name>
+<Name ID="836">
+<SourceName>Origami</SourceName>
+<TargetName ID="1">אוריגמי</TargetName>
+</Name>
+<Name ID="837">
+<SourceName>Microtome</SourceName>
+<TargetName ID="1">מיקרוטומ</TargetName>
+</Name>
+<Name ID="838">
+<SourceName>Orff</SourceName>
+<TargetName ID="1">אורפ</TargetName>
+</Name>
+<Name ID="839">
+<SourceName>Tauber</SourceName>
+<TargetName ID="1">טאובר</TargetName>
+</Name>
+<Name ID="840">
+<SourceName>Optics</SourceName>
+<TargetName ID="1">אופטיקה</TargetName>
+</Name>
+<Name ID="841">
+<SourceName>Effects</SourceName>
+<TargetName ID="1">אפקטס</TargetName>
+<TargetName ID="2">אפקט</TargetName>
+</Name>
+<Name ID="842">
+<SourceName>Filiki</SourceName>
+<TargetName ID="1">פיליקי</TargetName>
+</Name>
+<Name ID="843">
+<SourceName>Shiratori</SourceName>
+<TargetName ID="1">שירטורי</TargetName>
+</Name>
+<Name ID="844">
+<SourceName>Gentle</SourceName>
+<TargetName ID="1">ג'נטל</TargetName>
+</Name>
+<Name ID="845">
+<SourceName>Chancellors</SourceName>
+<TargetName ID="1">קאנצלר</TargetName>
+</Name>
+<Name ID="846">
+<SourceName>Krishnamurti</SourceName>
+<TargetName ID="1">קרישנמורטי</TargetName>
+</Name>
+<Name ID="847">
+<SourceName>Bingo</SourceName>
+<TargetName ID="1">בינגו</TargetName>
+</Name>
+<Name ID="848">
+<SourceName>Shafaq</SourceName>
+<TargetName ID="1">שאפאק</TargetName>
+</Name>
+<Name ID="849">
+<SourceName>Almon</SourceName>
+<TargetName ID="1">אלמונ</TargetName>
+</Name>
+<Name ID="850">
+<SourceName>Samoyed</SourceName>
+<TargetName ID="1">סמוייד</TargetName>
+</Name>
+<Name ID="851">
+<SourceName>Cratylus</SourceName>
+<TargetName ID="1">קראטילוס</TargetName>
+</Name>
+<Name ID="852">
+<SourceName>Paliashvili</SourceName>
+<TargetName ID="1">פליאשווילי</TargetName>
+</Name>
+<Name ID="853">
+<SourceName>Majdal</SourceName>
+<TargetName ID="1">מג'דל</TargetName>
+</Name>
+<Name ID="854">
+<SourceName>Conforte</SourceName>
+<TargetName ID="1">קונפורטי</TargetName>
+</Name>
+<Name ID="855">
+<SourceName>Magna</SourceName>
+<TargetName ID="1">מגנה</TargetName>
+</Name>
+<Name ID="856">
+<SourceName>Ampoule</SourceName>
+<TargetName ID="1">אמפולה</TargetName>
+</Name>
+<Name ID="857">
+<SourceName>Manhigut</SourceName>
+<TargetName ID="1">מנהיגות</TargetName>
+</Name>
+<Name ID="858">
+<SourceName>Mortara</SourceName>
+<TargetName ID="1">מורטארה</TargetName>
+</Name>
+<Name ID="859">
+<SourceName>Tucholsky</SourceName>
+<TargetName ID="1">טוכולסקי</TargetName>
+</Name>
+<Name ID="860">
+<SourceName>Netiquette</SourceName>
+<TargetName ID="1">נטיקה</TargetName>
+</Name>
+<Name ID="861">
+<SourceName>Mesudarim</SourceName>
+<TargetName ID="1">מסודרימ</TargetName>
+</Name>
+<Name ID="862">
+<SourceName>Hell</SourceName>
+<TargetName ID="1">הל</TargetName>
+</Name>
+<Name ID="863">
+<SourceName>Fuad</SourceName>
+<TargetName ID="1">פואד</TargetName>
+</Name>
+<Name ID="864">
+<SourceName>Teratogenesis</SourceName>
+<TargetName ID="1">טרטוגנ</TargetName>
+</Name>
+<Name ID="865">
+<SourceName>Ratosh</SourceName>
+<TargetName ID="1">רטוש</TargetName>
+</Name>
+<Name ID="866">
+<SourceName>Juhuri</SourceName>
+<TargetName ID="1">ג'והורי</TargetName>
+</Name>
+<Name ID="867">
+<SourceName>Tribune</SourceName>
+<TargetName ID="1">טריבונ</TargetName>
+</Name>
+<Name ID="868">
+<SourceName>Zoroastrianism</SourceName>
+<TargetName ID="1">זורואסטריות</TargetName>
+</Name>
+<Name ID="869">
+<SourceName>Amasya</SourceName>
+<TargetName ID="1">אמסיה</TargetName>
+</Name>
+<Name ID="870">
+<SourceName>Borsec</SourceName>
+<TargetName ID="1">בורסק</TargetName>
+</Name>
+<Name ID="871">
+<SourceName>Khaldei</SourceName>
+<TargetName ID="1">חאלדיי</TargetName>
+</Name>
+<Name ID="872">
+<SourceName>Albright</SourceName>
+<TargetName ID="1">אולברייט</TargetName>
+</Name>
+<Name ID="873">
+<SourceName>Broza</SourceName>
+<TargetName ID="1">ברוזה</TargetName>
+</Name>
+<Name ID="874">
+<SourceName>Dumars</SourceName>
+<TargetName ID="1">דיומרס</TargetName>
+</Name>
+<Name ID="875">
+<SourceName>Castaway</SourceName>
+<TargetName ID="1">קאסטאווי</TargetName>
+</Name>
+<Name ID="876">
+<SourceName>Panait</SourceName>
+<TargetName ID="1">פנאיט</TargetName>
+</Name>
+<Name ID="877">
+<SourceName>Baron</SourceName>
+<TargetName ID="1">וב</TargetName>
+<TargetName ID="2">ברונ</TargetName>
+<TargetName ID="3">ביירונ</TargetName>
+<TargetName ID="4">הברונ</TargetName>
+</Name>
+<Name ID="878">
+<SourceName>Bagshot</SourceName>
+<TargetName ID="1">באגשוט</TargetName>
+</Name>
+<Name ID="879">
+<SourceName>Cytogenetics</SourceName>
+<TargetName ID="1">ציטוגנטיקה</TargetName>
+</Name>
+<Name ID="880">
+<SourceName>Desperation</SourceName>
+<TargetName ID="1">דספריישנ</TargetName>
+</Name>
+<Name ID="881">
+<SourceName>Andropov</SourceName>
+<TargetName ID="1">אנדרופוב</TargetName>
+</Name>
+<Name ID="882">
+<SourceName>Eileithyia</SourceName>
+<TargetName ID="1">איליתיה</TargetName>
+</Name>
+<Name ID="883">
+<SourceName>Ochamchire</SourceName>
+<TargetName ID="1">אוצ'מצ'ירה</TargetName>
+</Name>
+<Name ID="884">
+<SourceName>Epigoni</SourceName>
+<TargetName ID="1">אפיגוני</TargetName>
+</Name>
+<Name ID="885">
+<SourceName>Myrtilus</SourceName>
+<TargetName ID="1">מירטילוס</TargetName>
+</Name>
+<Name ID="886">
+<SourceName>Lysol</SourceName>
+<TargetName ID="1">ליזול</TargetName>
+</Name>
+<Name ID="887">
+<SourceName>Elbegdorj</SourceName>
+<TargetName ID="1">אלבגדורג'</TargetName>
+</Name>
+<Name ID="888">
+<SourceName>Averbukh</SourceName>
+<TargetName ID="1">אברבוכ</TargetName>
+</Name>
+<Name ID="889">
+<SourceName>Marais</SourceName>
+<TargetName ID="1">המארה</TargetName>
+<TargetName ID="2">מארה</TargetName>
+</Name>
+<Name ID="890">
+<SourceName>Smirnoff</SourceName>
+<TargetName ID="1">סמירנופ</TargetName>
+</Name>
+<Name ID="891">
+<SourceName>Postnik</SourceName>
+<TargetName ID="1">פוסטניק</TargetName>
+</Name>
+<Name ID="892">
+<SourceName>Masmuda</SourceName>
+<TargetName ID="1">מסמודה</TargetName>
+</Name>
+<Name ID="893">
+<SourceName>Electrode</SourceName>
+<TargetName ID="1">אלקטרודה</TargetName>
+</Name>
+<Name ID="894">
+<SourceName>Asulin</SourceName>
+<TargetName ID="1">אסולינ</TargetName>
+</Name>
+<Name ID="895">
+<SourceName>Jinn</SourceName>
+<TargetName ID="1">ג'ינ</TargetName>
+</Name>
+<Name ID="896">
+<SourceName>Bazaar</SourceName>
+<TargetName ID="1">והבזאר</TargetName>
+</Name>
+<Name ID="897">
+<SourceName>Babur</SourceName>
+<TargetName ID="1">באבור</TargetName>
+</Name>
+<Name ID="898">
+<SourceName>Velociraptor</SourceName>
+<TargetName ID="1">ולוצירפטור</TargetName>
+</Name>
+<Name ID="899">
+<SourceName>Troposphere</SourceName>
+<TargetName ID="1">טרופוספירה</TargetName>
+</Name>
+<Name ID="900">
+<SourceName>Pekahiah</SourceName>
+<TargetName ID="1">פקחיה</TargetName>
+</Name>
+<Name ID="901">
+<SourceName>Guth</SourceName>
+<TargetName ID="1">גות'</TargetName>
+</Name>
+<Name ID="902">
+<SourceName>Ramones</SourceName>
+<TargetName ID="1">ראמונס</TargetName>
+</Name>
+<Name ID="903">
+<SourceName>Killers</SourceName>
+<TargetName ID="1">הקילרס</TargetName>
+</Name>
+<Name ID="904">
+<SourceName>Sashimi</SourceName>
+<TargetName ID="1">סשימי</TargetName>
+</Name>
+<Name ID="905">
+<SourceName>Brynner</SourceName>
+<TargetName ID="1">ברינר</TargetName>
+</Name>
+<Name ID="906">
+<SourceName>Potocki</SourceName>
+<TargetName ID="1">פוטוצקי</TargetName>
+</Name>
+<Name ID="907">
+<SourceName>Mishmar</SourceName>
+<TargetName ID="1">משמר</TargetName>
+</Name>
+<Name ID="908">
+<SourceName>Elementary</SourceName>
+<TargetName ID="1">אלמנטרית</TargetName>
+</Name>
+<Name ID="909">
+<SourceName>Valine</SourceName>
+<TargetName ID="1">ולינ</TargetName>
+</Name>
+<Name ID="910">
+<SourceName>Sarabande</SourceName>
+<TargetName ID="1">סרבנד</TargetName>
+</Name>
+<Name ID="911">
+<SourceName>Ginny</SourceName>
+<TargetName ID="1">ג'יני</TargetName>
+</Name>
+<Name ID="912">
+<SourceName>Salinometer</SourceName>
+<TargetName ID="1">סלינומטר</TargetName>
+</Name>
+<Name ID="913">
+<SourceName>Periscope</SourceName>
+<TargetName ID="1">פריסקופ</TargetName>
+</Name>
+<Name ID="914">
+<SourceName>Kenobi</SourceName>
+<TargetName ID="1">קנובי</TargetName>
+</Name>
+<Name ID="915">
+<SourceName>Građanski</SourceName>
+<TargetName ID="1">גראדאנסקי</TargetName>
+</Name>
+<Name ID="916">
+<SourceName>Chase</SourceName>
+<TargetName ID="1">צ'ייס</TargetName>
+</Name>
+<Name ID="917">
+<SourceName>Bone</SourceName>
+<TargetName ID="1">בונ</TargetName>
+</Name>
+<Name ID="918">
+<SourceName>Hemoglobin</SourceName>
+<TargetName ID="1">המוגלובינ</TargetName>
+</Name>
+<Name ID="919">
+<SourceName>Akhaltsikhe</SourceName>
+<TargetName ID="1">אחלציחה</TargetName>
+</Name>
+<Name ID="920">
+<SourceName>Berenice</SourceName>
+<TargetName ID="1">ברניקי</TargetName>
+</Name>
+<Name ID="921">
+<SourceName>Etoumbi</SourceName>
+<TargetName ID="1">אטומבי</TargetName>
+</Name>
+<Name ID="922">
+<SourceName>Benkow</SourceName>
+<TargetName ID="1">בנקוב</TargetName>
+</Name>
+<Name ID="923">
+<SourceName>Czerniak</SourceName>
+<TargetName ID="1">צ'רניאק</TargetName>
+</Name>
+<Name ID="924">
+<SourceName>Krupp</SourceName>
+<TargetName ID="1">קרופ</TargetName>
+</Name>
+<Name ID="925">
+<SourceName>Arsenide</SourceName>
+<TargetName ID="1">ארסניד</TargetName>
+</Name>
+<Name ID="926">
+<SourceName>Moor</SourceName>
+<TargetName ID="1">מור</TargetName>
+</Name>
+<Name ID="927">
+<SourceName>Westerweel</SourceName>
+<TargetName ID="1">וסטרויל</TargetName>
+</Name>
+<Name ID="928">
+<SourceName>Nuremberg</SourceName>
+<TargetName ID="1">נירנברג</TargetName>
+</Name>
+<Name ID="929">
+<SourceName>Amotz</SourceName>
+<TargetName ID="1">אמוצ</TargetName>
+</Name>
+<Name ID="930">
+<SourceName>Frazier</SourceName>
+<TargetName ID="1">פרייזר</TargetName>
+</Name>
+<Name ID="931">
+<SourceName>Brezhneva</SourceName>
+<TargetName ID="1">ברז'נייבה</TargetName>
+</Name>
+<Name ID="932">
+<SourceName>Bodel</SourceName>
+<TargetName ID="1">בודל</TargetName>
+</Name>
+<Name ID="933">
+<SourceName>Somua</SourceName>
+<TargetName ID="1">סומואה</TargetName>
+</Name>
+<Name ID="934">
+<SourceName>Yukawa</SourceName>
+<TargetName ID="1">יוקאווה</TargetName>
+</Name>
+<Name ID="935">
+<SourceName>Southern</SourceName>
+<TargetName ID="1">סאת'רנ</TargetName>
+</Name>
+<Name ID="936">
+<SourceName>Husayni</SourceName>
+<TargetName ID="1">חוסייני</TargetName>
+</Name>
+<Name ID="937">
+<SourceName>Cuvier</SourceName>
+<TargetName ID="1">קובייה</TargetName>
+</Name>
+<Name ID="938">
+<SourceName>Orot</SourceName>
+<TargetName ID="1">אורות</TargetName>
+</Name>
+<Name ID="939">
+<SourceName>Parapsychology</SourceName>
+<TargetName ID="1">פאראפסיכולוגיה</TargetName>
+</Name>
+<Name ID="940">
+<SourceName>Sparrow</SourceName>
+<TargetName ID="1">ספארו</TargetName>
+</Name>
+<Name ID="941">
+<SourceName>Thrombosis</SourceName>
+<TargetName ID="1">תרומבוס</TargetName>
+</Name>
+<Name ID="942">
+<SourceName>Galante</SourceName>
+<TargetName ID="1">גאלאנט</TargetName>
+</Name>
+<Name ID="943">
+<SourceName>Elis</SourceName>
+<TargetName ID="1">אליס</TargetName>
+</Name>
+<Name ID="944">
+<SourceName>Pardes</SourceName>
+<TargetName ID="1">פרדס</TargetName>
+</Name>
+<Name ID="945">
+<SourceName>Union</SourceName>
+<TargetName ID="1">אוניה</TargetName>
+</Name>
+<Name ID="946">
+<SourceName>Sailor</SourceName>
+<TargetName ID="1">סיילור</TargetName>
+</Name>
+<Name ID="947">
+<SourceName>Haayal</SourceName>
+<TargetName ID="1">האייל</TargetName>
+</Name>
+<Name ID="948">
+<SourceName>Shaprut</SourceName>
+<TargetName ID="1">שפרוט</TargetName>
+</Name>
+<Name ID="949">
+<SourceName>Tehomi</SourceName>
+<TargetName ID="1">תהומי</TargetName>
+</Name>
+<Name ID="950">
+<SourceName>Lanier</SourceName>
+<TargetName ID="1">לנייר</TargetName>
+</Name>
+<Name ID="951">
+<SourceName>Yetzirah</SourceName>
+<TargetName ID="1">יצירה</TargetName>
+</Name>
+<Name ID="952">
+<SourceName>Delta</SourceName>
+<TargetName ID="1">דלתא</TargetName>
+<TargetName ID="2">דלתה</TargetName>
+</Name>
+<Name ID="953">
+<SourceName>Yerushalayim</SourceName>
+<TargetName ID="1">ירושלימ</TargetName>
+</Name>
+<Name ID="954">
+<SourceName>Euryapsida</SourceName>
+<TargetName ID="1">פראפסידה</TargetName>
+</Name>
+<Name ID="955">
+<SourceName>Mithras</SourceName>
+<TargetName ID="1">מיתרה</TargetName>
+</Name>
+<Name ID="956">
+<SourceName>Offenbach</SourceName>
+<TargetName ID="1">אופנבכ</TargetName>
+</Name>
+<Name ID="957">
+<SourceName>Captain</SourceName>
+<TargetName ID="1">קפטנ</TargetName>
+</Name>
+<Name ID="958">
+<SourceName>Fermion</SourceName>
+<TargetName ID="1">פרמיונ</TargetName>
+</Name>
+<Name ID="959">
+<SourceName>Conglomerate</SourceName>
+<TargetName ID="1">קונגלומרט</TargetName>
+</Name>
+<Name ID="960">
+<SourceName>Cement</SourceName>
+<TargetName ID="1">צמנט</TargetName>
+</Name>
+<Name ID="961">
+<SourceName>Traun</SourceName>
+<TargetName ID="1">טראונ</TargetName>
+</Name>
+<Name ID="962">
+<SourceName>Goblin</SourceName>
+<TargetName ID="1">גובלינ</TargetName>
+</Name>
+<Name ID="963">
+<SourceName>Messenia</SourceName>
+<TargetName ID="1">מסניה</TargetName>
+</Name>
+<Name ID="964">
+<SourceName>Anderlecht</SourceName>
+<TargetName ID="1">אנדרלכט</TargetName>
+</Name>
+<Name ID="965">
+<SourceName>Chlorus</SourceName>
+<TargetName ID="1">כלורוס</TargetName>
+</Name>
+<Name ID="966">
+<SourceName>Tnuva</SourceName>
+<TargetName ID="1">תנובה</TargetName>
+</Name>
+<Name ID="967">
+<SourceName>Megumi</SourceName>
+<TargetName ID="1">מגומי</TargetName>
+</Name>
+<Name ID="968">
+<SourceName>Deductive</SourceName>
+<TargetName ID="1">דדוקציה</TargetName>
+</Name>
+<Name ID="969">
+<SourceName>Buccaneers</SourceName>
+<TargetName ID="1">באקנירס</TargetName>
+</Name>
+<Name ID="970">
+<SourceName>Agatharchides</SourceName>
+<TargetName ID="1">אגאתרכידס</TargetName>
+</Name>
+<Name ID="971">
+<SourceName>Rayman</SourceName>
+<TargetName ID="1">ריימנ</TargetName>
+</Name>
+<Name ID="972">
+<SourceName>Pilaf</SourceName>
+<TargetName ID="1">פילאפ</TargetName>
+</Name>
+<Name ID="973">
+<SourceName>Gelfand</SourceName>
+<TargetName ID="1">גלפנד</TargetName>
+</Name>
+<Name ID="974">
+<SourceName>Mosquito</SourceName>
+<TargetName ID="1">מוסקיטו</TargetName>
+</Name>
+<Name ID="975">
+<SourceName>Keret</SourceName>
+<TargetName ID="1">קרת</TargetName>
+</Name>
+<Name ID="976">
+<SourceName>Lesseps</SourceName>
+<TargetName ID="1">לספס</TargetName>
+</Name>
+<Name ID="977">
+<SourceName>Browder</SourceName>
+<TargetName ID="1">ברוודר</TargetName>
+</Name>
+<Name ID="978">
+<SourceName>Onassis</SourceName>
+<TargetName ID="1">אונאסיס</TargetName>
+</Name>
+<Name ID="979">
+<SourceName>Yoram</SourceName>
+<TargetName ID="1">יורמ</TargetName>
+</Name>
+<Name ID="980">
+<SourceName>Philby</SourceName>
+<TargetName ID="1">פילבי</TargetName>
+</Name>
+<Name ID="981">
+<SourceName>Saruq</SourceName>
+<TargetName ID="1">סרוק</TargetName>
+</Name>
+<Name ID="982">
+<SourceName>Hipparchia</SourceName>
+<TargetName ID="1">היפרכיה</TargetName>
+</Name>
+<Name ID="983">
+<SourceName>Emil</SourceName>
+<TargetName ID="1">אמיל</TargetName>
+</Name>
+<Name ID="984">
+<SourceName>Silmarillion</SourceName>
+<TargetName ID="1">הסילמריליונ</TargetName>
+</Name>
+<Name ID="985">
+<SourceName>Ulvaeus</SourceName>
+<TargetName ID="1">אולבאוס</TargetName>
+</Name>
+<Name ID="986">
+<SourceName>Elohim</SourceName>
+<TargetName ID="1">אלוהימ</TargetName>
+</Name>
+<Name ID="987">
+<SourceName>Lykhny</SourceName>
+<TargetName ID="1">לוחני</TargetName>
+</Name>
+<Name ID="988">
+<SourceName>Ellipse</SourceName>
+<TargetName ID="1">אליפסה</TargetName>
+</Name>
+<Name ID="989">
+<SourceName>Amarth</SourceName>
+<TargetName ID="1">אמארת'</TargetName>
+</Name>
+<Name ID="990">
+<SourceName>Emmerich</SourceName>
+<TargetName ID="1">אמריכ</TargetName>
+</Name>
+<Name ID="991">
+<SourceName>Hanami</SourceName>
+<TargetName ID="1">האנאמי</TargetName>
+</Name>
+<Name ID="992">
+<SourceName>Lavrentiy</SourceName>
+<TargetName ID="1">לברנטי</TargetName>
+</Name>
+<Name ID="993">
+<SourceName>Vigintisexviri</SourceName>
+<TargetName ID="1">ויגינטיסקסוירי</TargetName>
+</Name>
+<Name ID="994">
+<SourceName>Chromatography</SourceName>
+<TargetName ID="1">כרומטוגרפיה</TargetName>
+</Name>
+<Name ID="995">
+<SourceName>Saparmurat</SourceName>
+<TargetName ID="1">ספרמורט</TargetName>
+</Name>
+<Name ID="996">
+<SourceName>Pseudomorph</SourceName>
+<TargetName ID="1">פסאודומורפיזמ</TargetName>
+</Name>
+<Name ID="997">
+<SourceName>Shirer</SourceName>
+<TargetName ID="1">שיירר</TargetName>
+</Name>
+<Name ID="998">
+<SourceName>Gayatri</SourceName>
+<TargetName ID="1">גאיטרי</TargetName>
+</Name>
+<Name ID="999">
+<SourceName>Binaisa</SourceName>
+<TargetName ID="1">בינייסה</TargetName>
+</Name>
+<Name ID="1000">
+<SourceName>Merlin</SourceName>
+<TargetName ID="1">מרלינ</TargetName>
+</Name>
+<Name ID="1001">
+<SourceName>Barber</SourceName>
+<TargetName ID="1">בארבר</TargetName>
+</Name>
+<Name ID="1002">
+<SourceName>Minimal</SourceName>
+<TargetName ID="1">מינימלי</TargetName>
+<TargetName ID="2">מינימל</TargetName>
+</Name>
+<Name ID="1003">
+<SourceName>Megalopolis</SourceName>
+<TargetName ID="1">מגלופוליס</TargetName>
+</Name>
+<Name ID="1004">
+<SourceName>Hummer</SourceName>
+<TargetName ID="1">האמר</TargetName>
+</Name>
+<Name ID="1005">
+<SourceName>Nepos</SourceName>
+<TargetName ID="1">נפוס</TargetName>
+</Name>
+<Name ID="1006">
+<SourceName>Yuval</SourceName>
+<TargetName ID="1">יובל</TargetName>
+</Name>
+<Name ID="1007">
+<SourceName>Arrigo</SourceName>
+<TargetName ID="1">אריגו</TargetName>
+</Name>
+<Name ID="1008">
+<SourceName>Pune</SourceName>
+<TargetName ID="1">פונה</TargetName>
+</Name>
+<Name ID="1009">
+<SourceName>Goldmark</SourceName>
+<TargetName ID="1">גולדמארק</TargetName>
+</Name>
+<Name ID="1010">
+<SourceName>Midreshet</SourceName>
+<TargetName ID="1">מדרשת</TargetName>
+</Name>
+<Name ID="1011">
+<SourceName>Tadeusz</SourceName>
+<TargetName ID="1">טדאוס</TargetName>
+<TargetName ID="2">תדאוש</TargetName>
+<TargetName ID="3">תדיאוש</TargetName>
+</Name>
+<Name ID="1012">
+<SourceName>Fawzi</SourceName>
+<TargetName ID="1">פאוזי</TargetName>
+</Name>
+<Name ID="1013">
+<SourceName>Thesis</SourceName>
+<TargetName ID="1">תזה</TargetName>
+</Name>
+<Name ID="1014">
+<SourceName>Merce</SourceName>
+<TargetName ID="1">מרס</TargetName>
+</Name>
+<Name ID="1015">
+<SourceName>Rhenium</SourceName>
+<TargetName ID="1">רניומ</TargetName>
+</Name>
+<Name ID="1016">
+<SourceName>Tabbai</SourceName>
+<TargetName ID="1">טבאי</TargetName>
+</Name>
+<Name ID="1017">
+<SourceName>Sakari</SourceName>
+<TargetName ID="1">סאקארי</TargetName>
+</Name>
+<Name ID="1018">
+<SourceName>Moriendi</SourceName>
+<TargetName ID="1">מוריינדי</TargetName>
+</Name>
+<Name ID="1019">
+<SourceName>Vauvenargues</SourceName>
+<TargetName ID="1">וובנארז'</TargetName>
+</Name>
+<Name ID="1020">
+<SourceName>Pennsylvania</SourceName>
+<TargetName ID="1">פנסילבניה</TargetName>
+</Name>
+<Name ID="1021">
+<SourceName>Barrett</SourceName>
+<TargetName ID="1">בארט</TargetName>
+</Name>
+<Name ID="1022">
+<SourceName>Henson</SourceName>
+<TargetName ID="1">הנסונ</TargetName>
+</Name>
+<Name ID="1023">
+<SourceName>Nathans</SourceName>
+<TargetName ID="1">נתנס</TargetName>
+</Name>
+<Name ID="1024">
+<SourceName>Paparizou</SourceName>
+<TargetName ID="1">פפאריזו</TargetName>
+</Name>
+<Name ID="1025">
+<SourceName>Steroid</SourceName>
+<TargetName ID="1">סטרואיד</TargetName>
+</Name>
+<Name ID="1026">
+<SourceName>Purine</SourceName>
+<TargetName ID="1">פורינ</TargetName>
+</Name>
+<Name ID="1027">
+<SourceName>Rawaki</SourceName>
+<TargetName ID="1">ראוואקי</TargetName>
+</Name>
+<Name ID="1028">
+<SourceName>Karavan</SourceName>
+<TargetName ID="1">קרוונ</TargetName>
+</Name>
+<Name ID="1029">
+<SourceName>Gauss</SourceName>
+<TargetName ID="1">גאוס</TargetName>
+</Name>
+<Name ID="1030">
+<SourceName>Phasor</SourceName>
+<TargetName ID="1">פאזור</TargetName>
+</Name>
+<Name ID="1031">
+<SourceName>Wand</SourceName>
+<TargetName ID="1">ואנד</TargetName>
+</Name>
+<Name ID="1032">
+<SourceName>Jabberwocky</SourceName>
+<TargetName ID="1">ג'ברווקי</TargetName>
+</Name>
+<Name ID="1033">
+<SourceName>Gellius</SourceName>
+<TargetName ID="1">גליוס</TargetName>
+</Name>
+<Name ID="1034">
+<SourceName>Sycomorus</SourceName>
+<TargetName ID="1">שקמה</TargetName>
+</Name>
+<Name ID="1035">
+<SourceName>Cajal</SourceName>
+<TargetName ID="1">קאז'אל</TargetName>
+</Name>
+<Name ID="1036">
+<SourceName>Rysanek</SourceName>
+<TargetName ID="1">ריזאנק</TargetName>
+</Name>
+<Name ID="1037">
+<SourceName>Jakarta</SourceName>
+<TargetName ID="1">ג'קרטה</TargetName>
+</Name>
+<Name ID="1038">
+<SourceName>Meister</SourceName>
+<TargetName ID="1">מייסטר</TargetName>
+</Name>
+<Name ID="1039">
+<SourceName>Praxiteles</SourceName>
+<TargetName ID="1">פרקסיטלס</TargetName>
+</Name>
+<Name ID="1040">
+<SourceName>Chujiro</SourceName>
+<TargetName ID="1">צ'וג'ירו</TargetName>
+</Name>
+<Name ID="1041">
+<SourceName>Compostela</SourceName>
+<TargetName ID="1">קומפוסטלה</TargetName>
+</Name>
+<Name ID="1042">
+<SourceName>Olimpico</SourceName>
+<TargetName ID="1">אולימפיקו</TargetName>
+</Name>
+<Name ID="1043">
+<SourceName>Edensor</SourceName>
+<TargetName ID="1">אדנזור</TargetName>
+</Name>
+<Name ID="1044">
+<SourceName>Phonetic</SourceName>
+<TargetName ID="1">הפונטי</TargetName>
+</Name>
+<Name ID="1045">
+<SourceName>Ureno</SourceName>
+<TargetName ID="1">וראינה</TargetName>
+</Name>
+<Name ID="1046">
+<SourceName>Kooser</SourceName>
+<TargetName ID="1">קוסר</TargetName>
+</Name>
+<Name ID="1047">
+<SourceName>Habitus</SourceName>
+<TargetName ID="1">הביטוס</TargetName>
+</Name>
+<Name ID="1048">
+<SourceName>Knopfler</SourceName>
+<TargetName ID="1">נופלר</TargetName>
+</Name>
+<Name ID="1049">
+<SourceName>Fruitarianism</SourceName>
+<TargetName ID="1">פרוקטרייניזמ</TargetName>
+</Name>
+<Name ID="1050">
+<SourceName>Renaissance</SourceName>
+<TargetName ID="1">רנסאנס</TargetName>
+</Name>
+<Name ID="1051">
+<SourceName>Pankiewicz</SourceName>
+<TargetName ID="1">פאנקייוויצ'</TargetName>
+</Name>
+<Name ID="1052">
+<SourceName>Blobel</SourceName>
+<TargetName ID="1">בלובל</TargetName>
+</Name>
+<Name ID="1053">
+<SourceName>Bohr</SourceName>
+<TargetName ID="1">בוהר</TargetName>
+</Name>
+<Name ID="1054">
+<SourceName>Anthropology</SourceName>
+<TargetName ID="1">אנתרופולוגיה</TargetName>
+</Name>
+<Name ID="1055">
+<SourceName>Paulownia</SourceName>
+<TargetName ID="1">פאולוניה</TargetName>
+</Name>
+<Name ID="1056">
+<SourceName>Svevo</SourceName>
+<TargetName ID="1">זבבו</TargetName>
+</Name>
+<Name ID="1057">
+<SourceName>Urology</SourceName>
+<TargetName ID="1">אורולוגיה</TargetName>
+</Name>
+<Name ID="1058">
+<SourceName>Bagot</SourceName>
+<TargetName ID="1">באגוט</TargetName>
+</Name>
+<Name ID="1059">
+<SourceName>Nouveau</SourceName>
+<TargetName ID="1">נובו</TargetName>
+</Name>
+<Name ID="1060">
+<SourceName>Biophysics</SourceName>
+<TargetName ID="1">ביופיזיקה</TargetName>
+</Name>
+<Name ID="1061">
+<SourceName>Kapp</SourceName>
+<TargetName ID="1">קאפ</TargetName>
+</Name>
+<Name ID="1062">
+<SourceName>Jamaica</SourceName>
+<TargetName ID="1">ג'מייקה</TargetName>
+</Name>
+<Name ID="1063">
+<SourceName>Khurtsidze</SourceName>
+<TargetName ID="1">חורצידזה</TargetName>
+</Name>
+<Name ID="1064">
+<SourceName>Patch</SourceName>
+<TargetName ID="1">פאטצ'</TargetName>
+</Name>
+<Name ID="1065">
+<SourceName>Kras</SourceName>
+<TargetName ID="1">קראס</TargetName>
+</Name>
+<Name ID="1066">
+<SourceName>Flor</SourceName>
+<TargetName ID="1">פלור</TargetName>
+</Name>
+<Name ID="1067">
+<SourceName>Landor</SourceName>
+<TargetName ID="1">לנדור</TargetName>
+</Name>
+<Name ID="1068">
+<SourceName>Tractor</SourceName>
+<TargetName ID="1">טרקטור</TargetName>
+</Name>
+<Name ID="1069">
+<SourceName>Byte</SourceName>
+<TargetName ID="1">בית</TargetName>
+</Name>
+<Name ID="1070">
+<SourceName>Theudas</SourceName>
+<TargetName ID="1">תוידאס</TargetName>
+</Name>
+<Name ID="1071">
+<SourceName>Sauckel</SourceName>
+<TargetName ID="1">זאוקל</TargetName>
+</Name>
+<Name ID="1072">
+<SourceName>Gladiator</SourceName>
+<TargetName ID="1">גלדיאטור</TargetName>
+</Name>
+<Name ID="1073">
+<SourceName>Galadriel</SourceName>
+<TargetName ID="1">גלדריאל</TargetName>
+</Name>
+<Name ID="1074">
+<SourceName>Gader</SourceName>
+<TargetName ID="1">גדר</TargetName>
+</Name>
+<Name ID="1075">
+<SourceName>Pleistocene</SourceName>
+<TargetName ID="1">פליסטוקנ</TargetName>
+</Name>
+<Name ID="1076">
+<SourceName>Yated</SourceName>
+<TargetName ID="1">יתד</TargetName>
+</Name>
+<Name ID="1077">
+<SourceName>Agbaje</SourceName>
+<TargetName ID="1">אגבג'ה</TargetName>
+</Name>
+<Name ID="1078">
+<SourceName>Prisoner</SourceName>
+<TargetName ID="1">האסיר</TargetName>
+</Name>
+<Name ID="1079">
+<SourceName>Moldovenesc</SourceName>
+<TargetName ID="1">מולדובנסק</TargetName>
+</Name>
+<Name ID="1080">
+<SourceName>Lilongwe</SourceName>
+<TargetName ID="1">לילונגווה</TargetName>
+</Name>
+<Name ID="1081">
+<SourceName>Kaduri</SourceName>
+<TargetName ID="1">כדורי</TargetName>
+</Name>
+<Name ID="1082">
+<SourceName>Asthma</SourceName>
+<TargetName ID="1">אסתמה</TargetName>
+</Name>
+<Name ID="1083">
+<SourceName>Buck</SourceName>
+<TargetName ID="1">בק</TargetName>
+</Name>
+<Name ID="1084">
+<SourceName>Aretha</SourceName>
+<TargetName ID="1">אריתה</TargetName>
+</Name>
+<Name ID="1085">
+<SourceName>Stratosphere</SourceName>
+<TargetName ID="1">סטרטוספירה</TargetName>
+</Name>
+<Name ID="1086">
+<SourceName>Marathi</SourceName>
+<TargetName ID="1">מרטהי</TargetName>
+</Name>
+<Name ID="1087">
+<SourceName>Peppard</SourceName>
+<TargetName ID="1">פפארד</TargetName>
+</Name>
+<Name ID="1088">
+<SourceName>Vayeshev</SourceName>
+<TargetName ID="1">וישב</TargetName>
+</Name>
+<Name ID="1089">
+<SourceName>Courante</SourceName>
+<TargetName ID="1">קוראנט</TargetName>
+</Name>
+<Name ID="1090">
+<SourceName>Weasley</SourceName>
+<TargetName ID="1">ויזלי</TargetName>
+</Name>
+<Name ID="1091">
+<SourceName>Decidendi</SourceName>
+<TargetName ID="1">דיסידנדי</TargetName>
+</Name>
+<Name ID="1092">
+<SourceName>Hegemony</SourceName>
+<TargetName ID="1">הגמוניה</TargetName>
+</Name>
+<Name ID="1093">
+<SourceName>Schist</SourceName>
+<TargetName ID="1">שיסט</TargetName>
+</Name>
+<Name ID="1094">
+<SourceName>Nouvelle</SourceName>
+<TargetName ID="1">נובל</TargetName>
+</Name>
+<Name ID="1095">
+<SourceName>Creveld</SourceName>
+<TargetName ID="1">קרפלד</TargetName>
+</Name>
+<Name ID="1096">
+<SourceName>Fforde</SourceName>
+<TargetName ID="1">פורד</TargetName>
+</Name>
+<Name ID="1097">
+<SourceName>Samadhi</SourceName>
+<TargetName ID="1">סמדהי</TargetName>
+</Name>
+<Name ID="1098">
+<SourceName>Scholem</SourceName>
+<TargetName ID="1">שלומ</TargetName>
+</Name>
+<Name ID="1099">
+<SourceName>Friedan</SourceName>
+<TargetName ID="1">פרידנ</TargetName>
+</Name>
+<Name ID="1100">
+<SourceName>Kippur</SourceName>
+<TargetName ID="1">כיפור</TargetName>
+</Name>
+</TransliterationCorpus>

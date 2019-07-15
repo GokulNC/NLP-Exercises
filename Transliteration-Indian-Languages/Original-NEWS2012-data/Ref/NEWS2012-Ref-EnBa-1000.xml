@@ -1,0 +1,4028 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><TransliterationCorpus CorpusID = "NEWS2012-Gold-EnBa-1000" SourceLang = "English" TargetLang = "Bangla" CorpusType = "Gold-Standard-Test" CorpusSize = "1000" CorpusFormat = "UTF8"> 
+<Name ID="1">
+<SourceName>Tiwana</SourceName>
+<TargetName ID="1">টিওয়ানা</TargetName>
+</Name>
+<Name ID="2">
+<SourceName>Baharali</SourceName>
+<TargetName ID="1">বাহারালি</TargetName>
+</Name>
+<Name ID="3">
+<SourceName>Iceland</SourceName>
+<TargetName ID="1">আইসল্যান্ড</TargetName>
+</Name>
+<Name ID="4">
+<SourceName>Color</SourceName>
+<TargetName ID="1">কালার</TargetName>
+</Name>
+<Name ID="5">
+<SourceName>Shivekar</SourceName>
+<TargetName ID="1">শিভেকার</TargetName>
+</Name>
+<Name ID="6">
+<SourceName>Elijabeth</SourceName>
+<TargetName ID="1">এলিজাবেথ</TargetName>
+</Name>
+<Name ID="7">
+<SourceName>Crockett</SourceName>
+<TargetName ID="1">ক্রোকেট</TargetName>
+</Name>
+<Name ID="8">
+<SourceName>Nalinibala</SourceName>
+<TargetName ID="1">নলিনীবালা</TargetName>
+</Name>
+<Name ID="9">
+<SourceName>Lasker</SourceName>
+<TargetName ID="1">লাস্কার</TargetName>
+</Name>
+<Name ID="10">
+<SourceName>Bandiram</SourceName>
+<TargetName ID="1">বন্দিরাম</TargetName>
+</Name>
+<Name ID="11">
+<SourceName>Bhuban</SourceName>
+<TargetName ID="1">ভুবন</TargetName>
+</Name>
+<Name ID="12">
+<SourceName>Gascogne</SourceName>
+<TargetName ID="1">গ্যাসকগ্নে</TargetName>
+</Name>
+<Name ID="13">
+<SourceName>Chess</SourceName>
+<TargetName ID="1">চেস</TargetName>
+</Name>
+<Name ID="14">
+<SourceName>Stanwyck</SourceName>
+<TargetName ID="1">স্টানওয়েক</TargetName>
+</Name>
+<Name ID="15">
+<SourceName>Lorence</SourceName>
+<TargetName ID="1">লরেন্স</TargetName>
+</Name>
+<Name ID="16">
+<SourceName>Seyyed</SourceName>
+<TargetName ID="1">সৈয়দ</TargetName>
+</Name>
+<Name ID="17">
+<SourceName>Salil</SourceName>
+<TargetName ID="1">সলিল</TargetName>
+</Name>
+<Name ID="18">
+<SourceName>Lafarge</SourceName>
+<TargetName ID="1">লাফার্জ</TargetName>
+</Name>
+<Name ID="19">
+<SourceName>Nabarun</SourceName>
+<TargetName ID="1">নবারুন</TargetName>
+</Name>
+<Name ID="20">
+<SourceName>Christie</SourceName>
+<TargetName ID="1">ক্রিস্টিয়ে</TargetName>
+</Name>
+<Name ID="21">
+<SourceName>Geneva</SourceName>
+<TargetName ID="1">জেনেভা</TargetName>
+</Name>
+<Name ID="22">
+<SourceName>Leyland</SourceName>
+<TargetName ID="1">লেল্যান্ড</TargetName>
+</Name>
+<Name ID="23">
+<SourceName>Tabsum</SourceName>
+<TargetName ID="1">তবসুম</TargetName>
+</Name>
+<Name ID="24">
+<SourceName>Samad</SourceName>
+<TargetName ID="1">সামাদ</TargetName>
+</Name>
+<Name ID="25">
+<SourceName>Vadi</SourceName>
+<TargetName ID="1">ভাদি</TargetName>
+</Name>
+<Name ID="26">
+<SourceName>Dustin</SourceName>
+<TargetName ID="1">ডাস্টিন</TargetName>
+</Name>
+<Name ID="27">
+<SourceName>Strauss</SourceName>
+<TargetName ID="1">স্ট্রুস</TargetName>
+</Name>
+<Name ID="28">
+<SourceName>Ervine</SourceName>
+<TargetName ID="1">অরভিন</TargetName>
+</Name>
+<Name ID="29">
+<SourceName>Attabira</SourceName>
+<TargetName ID="1">আট্রাবিরা</TargetName>
+</Name>
+<Name ID="30">
+<SourceName>Arusha</SourceName>
+<TargetName ID="1">আরুশা</TargetName>
+</Name>
+<Name ID="31">
+<SourceName>Egypt</SourceName>
+<TargetName ID="1">ইজিপ্ট</TargetName>
+</Name>
+<Name ID="32">
+<SourceName>Rajpati</SourceName>
+<TargetName ID="1">রাজপতি</TargetName>
+</Name>
+<Name ID="33">
+<SourceName>Innisfallen</SourceName>
+<TargetName ID="1">ইনিসফলেন</TargetName>
+</Name>
+<Name ID="34">
+<SourceName>Nursing</SourceName>
+<TargetName ID="1">নার্সিং</TargetName>
+</Name>
+<Name ID="35">
+<SourceName>Intrepid</SourceName>
+<TargetName ID="1">ইন্ট্রিপিড</TargetName>
+</Name>
+<Name ID="36">
+<SourceName>Worldwide</SourceName>
+<TargetName ID="1">ওয়াল্ডওয়াইড</TargetName>
+</Name>
+<Name ID="37">
+<SourceName>Ranchod</SourceName>
+<TargetName ID="1">রাঞ্চোড</TargetName>
+</Name>
+<Name ID="38">
+<SourceName>Luge</SourceName>
+<TargetName ID="1">লুগে</TargetName>
+</Name>
+<Name ID="39">
+<SourceName>Dharamsala</SourceName>
+<TargetName ID="1">ধর্মশালা</TargetName>
+</Name>
+<Name ID="40">
+<SourceName>Sintu</SourceName>
+<TargetName ID="1">সিন্টু</TargetName>
+</Name>
+<Name ID="41">
+<SourceName>Sathi</SourceName>
+<TargetName ID="1">সাথী</TargetName>
+</Name>
+<Name ID="42">
+<SourceName>Townsend</SourceName>
+<TargetName ID="1">টাউনসেন্ড</TargetName>
+</Name>
+<Name ID="43">
+<SourceName>Elmo</SourceName>
+<TargetName ID="1">এলমো</TargetName>
+</Name>
+<Name ID="44">
+<SourceName>Bidhuvushan</SourceName>
+<TargetName ID="1">বিধুভুষন</TargetName>
+</Name>
+<Name ID="45">
+<SourceName>Challenges</SourceName>
+<TargetName ID="1">চেলেঞ্জেস</TargetName>
+</Name>
+<Name ID="46">
+<SourceName>Sutherland</SourceName>
+<TargetName ID="1">সুদারল্যান্ড</TargetName>
+</Name>
+<Name ID="47">
+<SourceName>Ligurian</SourceName>
+<TargetName ID="1">লিগুরিয়ান</TargetName>
+</Name>
+<Name ID="48">
+<SourceName>Kohinoorbibi</SourceName>
+<TargetName ID="1">কহিনুরবিবি</TargetName>
+</Name>
+<Name ID="49">
+<SourceName>Irian</SourceName>
+<TargetName ID="1">আইরিয়ান</TargetName>
+</Name>
+<Name ID="50">
+<SourceName>Chandrika</SourceName>
+<TargetName ID="1">চন্ডিকা</TargetName>
+<TargetName ID="2">চন্দ্রিকা</TargetName>
+</Name>
+<Name ID="51">
+<SourceName>Sahidan</SourceName>
+<TargetName ID="1">সাহিদান</TargetName>
+</Name>
+<Name ID="52">
+<SourceName>Transfiguration</SourceName>
+<TargetName ID="1">ট্রান্সফিগারেশান</TargetName>
+</Name>
+<Name ID="53">
+<SourceName>Barkur</SourceName>
+<TargetName ID="1">বারকুর</TargetName>
+</Name>
+<Name ID="54">
+<SourceName>Nahida</SourceName>
+<TargetName ID="1">নাহিদা</TargetName>
+</Name>
+<Name ID="55">
+<SourceName>Nurbanu</SourceName>
+<TargetName ID="1">নুরবানু</TargetName>
+</Name>
+<Name ID="56">
+<SourceName>Ahamudulla</SourceName>
+<TargetName ID="1">আহমদুল্লা</TargetName>
+</Name>
+<Name ID="57">
+<SourceName>Bidhyadhar</SourceName>
+<TargetName ID="1">বিদ্য়াধর</TargetName>
+</Name>
+<Name ID="58">
+<SourceName>Bijlirani</SourceName>
+<TargetName ID="1">বিজলীরানী</TargetName>
+</Name>
+<Name ID="59">
+<SourceName>Lemoun</SourceName>
+<TargetName ID="1">লেমন</TargetName>
+</Name>
+<Name ID="60">
+<SourceName>Afternoon</SourceName>
+<TargetName ID="1">আফটারনুন</TargetName>
+</Name>
+<Name ID="61">
+<SourceName>Mayureshwar</SourceName>
+<TargetName ID="1">ময়ূরেশ্বর</TargetName>
+</Name>
+<Name ID="62">
+<SourceName>Reserve</SourceName>
+<TargetName ID="1">রিজার্ভ</TargetName>
+</Name>
+<Name ID="63">
+<SourceName>Sairaj</SourceName>
+<TargetName ID="1">সইরাজ</TargetName>
+</Name>
+<Name ID="64">
+<SourceName>Maawi</SourceName>
+<TargetName ID="1">মায়ী</TargetName>
+</Name>
+<Name ID="65">
+<SourceName>Kurnul</SourceName>
+<TargetName ID="1">কুর্নুল</TargetName>
+</Name>
+<Name ID="66">
+<SourceName>Brockhurst</SourceName>
+<TargetName ID="1">ব্রোকহার্টস</TargetName>
+</Name>
+<Name ID="67">
+<SourceName>Telefilm</SourceName>
+<TargetName ID="1">টেলিফিল্ম</TargetName>
+</Name>
+<Name ID="68">
+<SourceName>Shahajadibibi</SourceName>
+<TargetName ID="1">শাহাজাদীবিবি</TargetName>
+</Name>
+<Name ID="69">
+<SourceName>Chikkodi</SourceName>
+<TargetName ID="1">চিক্কোডি</TargetName>
+</Name>
+<Name ID="70">
+<SourceName>Idjwi</SourceName>
+<TargetName ID="1">ইদজুয়ি</TargetName>
+</Name>
+<Name ID="71">
+<SourceName>Mahin</SourceName>
+<TargetName ID="1">মহিন</TargetName>
+</Name>
+<Name ID="72">
+<SourceName>Dhimaan</SourceName>
+<TargetName ID="1">ধীমান</TargetName>
+</Name>
+<Name ID="73">
+<SourceName>Kddi</SourceName>
+<TargetName ID="1">কাদি</TargetName>
+</Name>
+<Name ID="74">
+<SourceName>Kuntal</SourceName>
+<TargetName ID="1">কুন্তল</TargetName>
+</Name>
+<Name ID="75">
+<SourceName>Behetar</SourceName>
+<TargetName ID="1">বেহেতার</TargetName>
+</Name>
+<Name ID="76">
+<SourceName>Cable</SourceName>
+<TargetName ID="1">কেবল</TargetName>
+</Name>
+<Name ID="77">
+<SourceName>Mhjahangir</SourceName>
+<TargetName ID="1">মহঃজাহাঙ্গীর</TargetName>
+</Name>
+<Name ID="78">
+<SourceName>Filipet</SourceName>
+<TargetName ID="1">ফিলিপেট</TargetName>
+</Name>
+<Name ID="79">
+<SourceName>Cake</SourceName>
+<TargetName ID="1">কেক</TargetName>
+</Name>
+<Name ID="80">
+<SourceName>Fakrul</SourceName>
+<TargetName ID="1">ফকরুল</TargetName>
+</Name>
+<Name ID="81">
+<SourceName>Anzum</SourceName>
+<TargetName ID="1">আঞ্জুম</TargetName>
+</Name>
+<Name ID="82">
+<SourceName>Settsu</SourceName>
+<TargetName ID="1">সেতসু</TargetName>
+</Name>
+<Name ID="83">
+<SourceName>Bhabanicharan</SourceName>
+<TargetName ID="1">ভবানীচরন</TargetName>
+</Name>
+<Name ID="84">
+<SourceName>Aragon</SourceName>
+<TargetName ID="1">অ্যারাগন</TargetName>
+</Name>
+<Name ID="85">
+<SourceName>Devang</SourceName>
+<TargetName ID="1">দেভাঙ্গ</TargetName>
+</Name>
+<Name ID="86">
+<SourceName>Maphijan</SourceName>
+<TargetName ID="1">মফিজান</TargetName>
+</Name>
+<Name ID="87">
+<SourceName>Frug</SourceName>
+<TargetName ID="1">ফ্রাগ</TargetName>
+</Name>
+<Name ID="88">
+<SourceName>Morsalim</SourceName>
+<TargetName ID="1">মোরসালিম</TargetName>
+</Name>
+<Name ID="89">
+<SourceName>Chillupar</SourceName>
+<TargetName ID="1">চিল্লুপর</TargetName>
+</Name>
+<Name ID="90">
+<SourceName>Akbari</SourceName>
+<TargetName ID="1">আকবরী</TargetName>
+</Name>
+<Name ID="91">
+<SourceName>Price</SourceName>
+<TargetName ID="1">প্রাইস</TargetName>
+</Name>
+<Name ID="92">
+<SourceName>Asansol</SourceName>
+<TargetName ID="1">আসানসোল</TargetName>
+</Name>
+<Name ID="93">
+<SourceName>Jamsed</SourceName>
+<TargetName ID="1">জামসেদ</TargetName>
+</Name>
+<Name ID="94">
+<SourceName>Munsurakhatun</SourceName>
+<TargetName ID="1">মুনসুরাখাতুন</TargetName>
+</Name>
+<Name ID="95">
+<SourceName>Shahanur</SourceName>
+<TargetName ID="1">শাহানুর</TargetName>
+</Name>
+<Name ID="96">
+<SourceName>Albemarle</SourceName>
+<TargetName ID="1">আলবিমার্লে</TargetName>
+</Name>
+<Name ID="97">
+<SourceName>Pratik</SourceName>
+<TargetName ID="1">প্রতীক</TargetName>
+</Name>
+<Name ID="98">
+<SourceName>Altabanu</SourceName>
+<TargetName ID="1">আলতাবানু</TargetName>
+</Name>
+<Name ID="99">
+<SourceName>Mumbai</SourceName>
+<TargetName ID="1">মুম্বাই</TargetName>
+</Name>
+<Name ID="100">
+<SourceName>Vechten</SourceName>
+<TargetName ID="1">ভিচটেন</TargetName>
+</Name>
+<Name ID="101">
+<SourceName>Maman</SourceName>
+<TargetName ID="1">মামন</TargetName>
+</Name>
+<Name ID="102">
+<SourceName>Tohda</SourceName>
+<TargetName ID="1">টোহদা</TargetName>
+</Name>
+<Name ID="103">
+<SourceName>Priscilla</SourceName>
+<TargetName ID="1">প্রিসিলা</TargetName>
+</Name>
+<Name ID="104">
+<SourceName>Niwaaran</SourceName>
+<TargetName ID="1">নিওয়ারন</TargetName>
+</Name>
+<Name ID="105">
+<SourceName>Nurjuma</SourceName>
+<TargetName ID="1">নুরজুমা</TargetName>
+</Name>
+<Name ID="106">
+<SourceName>Sharat</SourceName>
+<TargetName ID="1">শরত</TargetName>
+</Name>
+<Name ID="107">
+<SourceName>Wachovia</SourceName>
+<TargetName ID="1">ওয়াকোভিয়া</TargetName>
+</Name>
+<Name ID="108">
+<SourceName>Bansal</SourceName>
+<TargetName ID="1">বানসাল</TargetName>
+</Name>
+<Name ID="109">
+<SourceName>Dharsiwa</SourceName>
+<TargetName ID="1">ধারসিওয়া</TargetName>
+</Name>
+<Name ID="110">
+<SourceName>Rathan</SourceName>
+<TargetName ID="1">রথন</TargetName>
+</Name>
+<Name ID="111">
+<SourceName>Nutrition</SourceName>
+<TargetName ID="1">নিউট্রিশান</TargetName>
+</Name>
+<Name ID="112">
+<SourceName>Sanoka</SourceName>
+<TargetName ID="1">সনোকা</TargetName>
+</Name>
+<Name ID="113">
+<SourceName>Tulabala</SourceName>
+<TargetName ID="1">তুলাবালা</TargetName>
+</Name>
+<Name ID="114">
+<SourceName>Nocil</SourceName>
+<TargetName ID="1">নোসিল</TargetName>
+</Name>
+<Name ID="115">
+<SourceName>Sheikendar</SourceName>
+<TargetName ID="1">সেকেন্দর</TargetName>
+</Name>
+<Name ID="116">
+<SourceName>Gulati</SourceName>
+<TargetName ID="1">গুলাতি</TargetName>
+</Name>
+<Name ID="117">
+<SourceName>Pankajini</SourceName>
+<TargetName ID="1">পঙ্কজিনী</TargetName>
+</Name>
+<Name ID="118">
+<SourceName>Mdsafi</SourceName>
+<TargetName ID="1">মহঃসফি</TargetName>
+</Name>
+<Name ID="119">
+<SourceName>Mazhar</SourceName>
+<TargetName ID="1">মাঝার</TargetName>
+</Name>
+<Name ID="120">
+<SourceName>Nel</SourceName>
+<TargetName ID="1">নেল</TargetName>
+</Name>
+<Name ID="121">
+<SourceName>Alaulhak</SourceName>
+<TargetName ID="1">আলাউলহক</TargetName>
+</Name>
+<Name ID="122">
+<SourceName>Hirak</SourceName>
+<TargetName ID="1">হীরক</TargetName>
+</Name>
+<Name ID="123">
+<SourceName>Jim</SourceName>
+<TargetName ID="1">জিম</TargetName>
+</Name>
+<Name ID="124">
+<SourceName>Taslimabibi</SourceName>
+<TargetName ID="1">তসলিমাবিবি</TargetName>
+</Name>
+<Name ID="125">
+<SourceName>Dhirendra</SourceName>
+<TargetName ID="1">ধীরেন্দ্র</TargetName>
+</Name>
+<Name ID="126">
+<SourceName>Ukhrul</SourceName>
+<TargetName ID="1">উখরুল</TargetName>
+</Name>
+<Name ID="127">
+<SourceName>Tansco</SourceName>
+<TargetName ID="1">ট্যান্সকো</TargetName>
+</Name>
+<Name ID="128">
+<SourceName>Colaba</SourceName>
+<TargetName ID="1">কোলাবা</TargetName>
+</Name>
+<Name ID="129">
+<SourceName>Arche</SourceName>
+<TargetName ID="1">আর্চে</TargetName>
+</Name>
+<Name ID="130">
+<SourceName>Hamidieh</SourceName>
+<TargetName ID="1">হামিদিহ</TargetName>
+</Name>
+<Name ID="131">
+<SourceName>Babudhan</SourceName>
+<TargetName ID="1">বাবুধন</TargetName>
+</Name>
+<Name ID="132">
+<SourceName>Solectron</SourceName>
+<TargetName ID="1">সোলেকট্রোন</TargetName>
+</Name>
+<Name ID="133">
+<SourceName>Juan</SourceName>
+<TargetName ID="1">জুয়ান</TargetName>
+</Name>
+<Name ID="134">
+<SourceName>Hasanali</SourceName>
+<TargetName ID="1">হাসানআলী</TargetName>
+</Name>
+<Name ID="135">
+<SourceName>Fender</SourceName>
+<TargetName ID="1">ফেন্ডের</TargetName>
+</Name>
+<Name ID="136">
+<SourceName>Bhairabi</SourceName>
+<TargetName ID="1">ভৈরবী</TargetName>
+</Name>
+<Name ID="137">
+<SourceName>Nabakanta</SourceName>
+<TargetName ID="1">নবকান্ত</TargetName>
+</Name>
+<Name ID="138">
+<SourceName>Vanoise</SourceName>
+<TargetName ID="1">ভানয়েজ</TargetName>
+</Name>
+<Name ID="139">
+<SourceName>Murshada</SourceName>
+<TargetName ID="1">মুরশেদা</TargetName>
+</Name>
+<Name ID="140">
+<SourceName>Manjali</SourceName>
+<TargetName ID="1">মঞ্জলী</TargetName>
+</Name>
+<Name ID="141">
+<SourceName>Subaru</SourceName>
+<TargetName ID="1">সুবারু</TargetName>
+</Name>
+<Name ID="142">
+<SourceName>Spiel</SourceName>
+<TargetName ID="1">স্পিয়েল</TargetName>
+</Name>
+<Name ID="143">
+<SourceName>Bharatidevi</SourceName>
+<TargetName ID="1">ভারতীদেবী</TargetName>
+</Name>
+<Name ID="144">
+<SourceName>Digital</SourceName>
+<TargetName ID="1">ডিজিটাল</TargetName>
+</Name>
+<Name ID="145">
+<SourceName>Red</SourceName>
+<TargetName ID="1">রেড</TargetName>
+</Name>
+<Name ID="146">
+<SourceName>Victor</SourceName>
+<TargetName ID="1">ভিক্টর</TargetName>
+</Name>
+<Name ID="147">
+<SourceName>Tarik</SourceName>
+<TargetName ID="1">তারিক</TargetName>
+</Name>
+<Name ID="148">
+<SourceName>Meraj</SourceName>
+<TargetName ID="1">মেরাজ</TargetName>
+</Name>
+<Name ID="149">
+<SourceName>Surojit</SourceName>
+<TargetName ID="1">সুরোজিত</TargetName>
+</Name>
+<Name ID="150">
+<SourceName>Lilabala</SourceName>
+<TargetName ID="1">লীলাবালা</TargetName>
+</Name>
+<Name ID="151">
+<SourceName>Blauwkapel</SourceName>
+<TargetName ID="1">ব্লউইকাপেল</TargetName>
+</Name>
+<Name ID="152">
+<SourceName>Marshal</SourceName>
+<TargetName ID="1">মার্শাল</TargetName>
+</Name>
+<Name ID="153">
+<SourceName>Laxmiram</SourceName>
+<TargetName ID="1">লক্ষ্মীরাম</TargetName>
+</Name>
+<Name ID="154">
+<SourceName>Suleman</SourceName>
+<TargetName ID="1">সুলেমান</TargetName>
+</Name>
+<Name ID="155">
+<SourceName>Bhabua</SourceName>
+<TargetName ID="1">ভাবুয়া</TargetName>
+</Name>
+<Name ID="156">
+<SourceName>Mahakanta</SourceName>
+<TargetName ID="1">মহাকান্ত</TargetName>
+</Name>
+<Name ID="157">
+<SourceName>Dwigen</SourceName>
+<TargetName ID="1">দ্বীজেন</TargetName>
+</Name>
+<Name ID="158">
+<SourceName>Hub</SourceName>
+<TargetName ID="1">হাব</TargetName>
+</Name>
+<Name ID="159">
+<SourceName>Khursid</SourceName>
+<TargetName ID="1">খুরসীদ</TargetName>
+</Name>
+<Name ID="160">
+<SourceName>Dhenubala</SourceName>
+<TargetName ID="1">ধেনুবালা</TargetName>
+</Name>
+<Name ID="161">
+<SourceName>Djembe</SourceName>
+<TargetName ID="1">জেম্বে</TargetName>
+</Name>
+<Name ID="162">
+<SourceName>Ede</SourceName>
+<TargetName ID="1">এড</TargetName>
+</Name>
+<Name ID="163">
+<SourceName>Bajlur</SourceName>
+<TargetName ID="1">বজলুর</TargetName>
+</Name>
+<Name ID="164">
+<SourceName>Faijuddin</SourceName>
+<TargetName ID="1">ফৈজুদ্দিন</TargetName>
+</Name>
+<Name ID="165">
+<SourceName>Johannesburg</SourceName>
+<TargetName ID="1">জোহানের্সবার্গ</TargetName>
+</Name>
+<Name ID="166">
+<SourceName>Florida</SourceName>
+<TargetName ID="1">ফ্লোরিডা</TargetName>
+</Name>
+<Name ID="167">
+<SourceName>Premtosh</SourceName>
+<TargetName ID="1">প্রেমতোষ</TargetName>
+</Name>
+<Name ID="168">
+<SourceName>Tiki</SourceName>
+<TargetName ID="1">তিকি</TargetName>
+</Name>
+<Name ID="169">
+<SourceName>Vir</SourceName>
+<TargetName ID="1">বির</TargetName>
+<TargetName ID="2">ভীর</TargetName>
+</Name>
+<Name ID="170">
+<SourceName>Ramsankar</SourceName>
+<TargetName ID="1">রামশংকর</TargetName>
+</Name>
+<Name ID="171">
+<SourceName>Strix</SourceName>
+<TargetName ID="1">স্ট্রিক্স</TargetName>
+</Name>
+<Name ID="172">
+<SourceName>Levar</SourceName>
+<TargetName ID="1">লেভার</TargetName>
+</Name>
+<Name ID="173">
+<SourceName>Chitrakonda</SourceName>
+<TargetName ID="1">চিত্রকোণ্ডা</TargetName>
+</Name>
+<Name ID="174">
+<SourceName>Mahajana</SourceName>
+<TargetName ID="1">মহাজন</TargetName>
+</Name>
+<Name ID="175">
+<SourceName>Manobala</SourceName>
+<TargetName ID="1">মনোবালা</TargetName>
+</Name>
+<Name ID="176">
+<SourceName>Amla</SourceName>
+<TargetName ID="1">আমলা</TargetName>
+</Name>
+<Name ID="177">
+<SourceName>Sakhibala</SourceName>
+<TargetName ID="1">সখীবালা</TargetName>
+</Name>
+<Name ID="178">
+<SourceName>Cyprus</SourceName>
+<TargetName ID="1">সাইপ্রাস</TargetName>
+</Name>
+<Name ID="179">
+<SourceName>Male</SourceName>
+<TargetName ID="1">মালে</TargetName>
+</Name>
+<Name ID="180">
+<SourceName>Karan</SourceName>
+<TargetName ID="1">করণ</TargetName>
+</Name>
+<Name ID="181">
+<SourceName>Rasana</SourceName>
+<TargetName ID="1">রসনা</TargetName>
+</Name>
+<Name ID="182">
+<SourceName>Ahmar</SourceName>
+<TargetName ID="1">আহমার</TargetName>
+</Name>
+<Name ID="183">
+<SourceName>Ramsagar</SourceName>
+<TargetName ID="1">রামসাগর</TargetName>
+</Name>
+<Name ID="184">
+<SourceName>Anjani</SourceName>
+<TargetName ID="1">অনজনি</TargetName>
+</Name>
+<Name ID="185">
+<SourceName>Pousali</SourceName>
+<TargetName ID="1">পৌষালী</TargetName>
+</Name>
+<Name ID="186">
+<SourceName>Kanpuri</SourceName>
+<TargetName ID="1">কানপুরি</TargetName>
+</Name>
+<Name ID="187">
+<SourceName>Dhaarap</SourceName>
+<TargetName ID="1">ধারাপ</TargetName>
+</Name>
+<Name ID="188">
+<SourceName>Mahakutta</SourceName>
+<TargetName ID="1">মহাকুট্টা</TargetName>
+</Name>
+<Name ID="189">
+<SourceName>Karttik</SourceName>
+<TargetName ID="1">কাত্তির্ক</TargetName>
+</Name>
+<Name ID="190">
+<SourceName>Gopikrushna</SourceName>
+<TargetName ID="1">গোপীক্রুশনা</TargetName>
+</Name>
+<Name ID="191">
+<SourceName>Osman</SourceName>
+<TargetName ID="1">ওসমান</TargetName>
+</Name>
+<Name ID="192">
+<SourceName>Ormula</SourceName>
+<TargetName ID="1">অরমুল</TargetName>
+</Name>
+<Name ID="193">
+<SourceName>Lehman</SourceName>
+<TargetName ID="1">লেহম্যান</TargetName>
+</Name>
+<Name ID="194">
+<SourceName>Kepler</SourceName>
+<TargetName ID="1">কেপলার</TargetName>
+<TargetName ID="2">কেপ্লার</TargetName>
+</Name>
+<Name ID="195">
+<SourceName>Virupaksha</SourceName>
+<TargetName ID="1">বিরূপাক্ষ</TargetName>
+</Name>
+<Name ID="196">
+<SourceName>Ramnibas</SourceName>
+<TargetName ID="1">রামনিবাস</TargetName>
+</Name>
+<Name ID="197">
+<SourceName>Flattery</SourceName>
+<TargetName ID="1">ফ্লত্তেরি</TargetName>
+</Name>
+<Name ID="198">
+<SourceName>Asokhar</SourceName>
+<TargetName ID="1">অসোকহার</TargetName>
+</Name>
+<Name ID="199">
+<SourceName>Sudakhina</SourceName>
+<TargetName ID="1">সুদক্ষিনা</TargetName>
+</Name>
+<Name ID="200">
+<SourceName>Babulal</SourceName>
+<TargetName ID="1">বাবুলাল</TargetName>
+</Name>
+<Name ID="201">
+<SourceName>Ashgarali</SourceName>
+<TargetName ID="1">আসগারআলি</TargetName>
+</Name>
+<Name ID="202">
+<SourceName>Intel</SourceName>
+<TargetName ID="1">ইনটেল</TargetName>
+</Name>
+<Name ID="203">
+<SourceName>Duvvada</SourceName>
+<TargetName ID="1">দুভ্ভাদা</TargetName>
+</Name>
+<Name ID="204">
+<SourceName>Bishanath</SourceName>
+<TargetName ID="1">বিশ্বনাথ</TargetName>
+</Name>
+<Name ID="205">
+<SourceName>Bishnudeb</SourceName>
+<TargetName ID="1">বিষ্ণুদেব</TargetName>
+</Name>
+<Name ID="206">
+<SourceName>Repsol</SourceName>
+<TargetName ID="1">রেপজল</TargetName>
+</Name>
+<Name ID="207">
+<SourceName>Dachigam</SourceName>
+<TargetName ID="1">দাচিগাম</TargetName>
+</Name>
+<Name ID="208">
+<SourceName>Slack</SourceName>
+<TargetName ID="1">স্লেক</TargetName>
+</Name>
+<Name ID="209">
+<SourceName>Pratah</SourceName>
+<TargetName ID="1">প্রতহ</TargetName>
+</Name>
+<Name ID="210">
+<SourceName>Shambhupad</SourceName>
+<TargetName ID="1">শম্ভুপদ</TargetName>
+</Name>
+<Name ID="211">
+<SourceName>Everdingen</SourceName>
+<TargetName ID="1">এভারডিংজেন</TargetName>
+</Name>
+<Name ID="212">
+<SourceName>Joginder</SourceName>
+<TargetName ID="1">জোগিন্দ্রর</TargetName>
+</Name>
+<Name ID="213">
+<SourceName>Malesun</SourceName>
+<TargetName ID="1">মলেসুন</TargetName>
+</Name>
+<Name ID="214">
+<SourceName>Salle</SourceName>
+<TargetName ID="1">স্যালি</TargetName>
+</Name>
+<Name ID="215">
+<SourceName>Gadag</SourceName>
+<TargetName ID="1">গাদাগ</TargetName>
+</Name>
+<Name ID="216">
+<SourceName>Colin</SourceName>
+<TargetName ID="1">কলিন</TargetName>
+<TargetName ID="2">কোলিন</TargetName>
+</Name>
+<Name ID="217">
+<SourceName>Sky</SourceName>
+<TargetName ID="1">স্কাই</TargetName>
+</Name>
+<Name ID="218">
+<SourceName>Lychnostatis</SourceName>
+<TargetName ID="1">লাইচনোসটাটিস</TargetName>
+</Name>
+<Name ID="219">
+<SourceName>Maisum</SourceName>
+<TargetName ID="1">মৈসুম</TargetName>
+</Name>
+<Name ID="220">
+<SourceName>Bin</SourceName>
+<TargetName ID="1">বিন</TargetName>
+</Name>
+<Name ID="221">
+<SourceName>Anainaduvu</SourceName>
+<TargetName ID="1">আনাইনাদুভউ</TargetName>
+</Name>
+<Name ID="222">
+<SourceName>Rayon</SourceName>
+<TargetName ID="1">রেয়ন</TargetName>
+</Name>
+<Name ID="223">
+<SourceName>Kanakprabha</SourceName>
+<TargetName ID="1">কনকপ্রভা</TargetName>
+</Name>
+<Name ID="224">
+<SourceName>Barisan</SourceName>
+<TargetName ID="1">বারিসান</TargetName>
+</Name>
+<Name ID="225">
+<SourceName>Boordhi</SourceName>
+<TargetName ID="1">বোর্ধি</TargetName>
+</Name>
+<Name ID="226">
+<SourceName>Krishnamohan</SourceName>
+<TargetName ID="1">কৃষ্ণমোহন</TargetName>
+</Name>
+<Name ID="227">
+<SourceName>Fulton</SourceName>
+<TargetName ID="1">ফ্লুটন</TargetName>
+</Name>
+<Name ID="228">
+<SourceName>Madhumati</SourceName>
+<TargetName ID="1">মধুমতী</TargetName>
+</Name>
+<Name ID="229">
+<SourceName>Rajekabibi</SourceName>
+<TargetName ID="1">রাজেকাবিবি</TargetName>
+</Name>
+<Name ID="230">
+<SourceName>Aijuddin</SourceName>
+<TargetName ID="1">আইজুদ্দিন</TargetName>
+</Name>
+<Name ID="231">
+<SourceName>Mutneja</SourceName>
+<TargetName ID="1">মুত্নেজা</TargetName>
+</Name>
+<Name ID="232">
+<SourceName>Gourdas</SourceName>
+<TargetName ID="1">গৌরদাস</TargetName>
+</Name>
+<Name ID="233">
+<SourceName>Balaji</SourceName>
+<TargetName ID="1">বালাজি</TargetName>
+<TargetName ID="2">বালাজী</TargetName>
+</Name>
+<Name ID="234">
+<SourceName>Fuel</SourceName>
+<TargetName ID="1">ফুয়েল</TargetName>
+</Name>
+<Name ID="235">
+<SourceName>Port</SourceName>
+<TargetName ID="1">পোর্ট</TargetName>
+</Name>
+<Name ID="236">
+<SourceName>To</SourceName>
+<TargetName ID="1">টু</TargetName>
+</Name>
+<Name ID="237">
+<SourceName>Pugachevs</SourceName>
+<TargetName ID="1">পুগাচেভস</TargetName>
+</Name>
+<Name ID="238">
+<SourceName>Tuslima</SourceName>
+<TargetName ID="1">তুসলিমা</TargetName>
+</Name>
+<Name ID="239">
+<SourceName>Saadi</SourceName>
+<TargetName ID="1">সাদি</TargetName>
+</Name>
+<Name ID="240">
+<SourceName>Deblal</SourceName>
+<TargetName ID="1">দেবলাল</TargetName>
+</Name>
+<Name ID="241">
+<SourceName>Saira</SourceName>
+<TargetName ID="1">সাইরা</TargetName>
+</Name>
+<Name ID="242">
+<SourceName>Nishabala</SourceName>
+<TargetName ID="1">নিশাবালা</TargetName>
+</Name>
+<Name ID="243">
+<SourceName>Jhor</SourceName>
+<TargetName ID="1">ঝোর</TargetName>
+</Name>
+<Name ID="244">
+<SourceName>Galaxidi</SourceName>
+<TargetName ID="1">গালাক্সিদি</TargetName>
+</Name>
+<Name ID="245">
+<SourceName>Franklyn</SourceName>
+<TargetName ID="1">ফ্রাঙ্কলিন</TargetName>
+</Name>
+<Name ID="246">
+<SourceName>Sitapur</SourceName>
+<TargetName ID="1">সীতাপুর</TargetName>
+</Name>
+<Name ID="247">
+<SourceName>Ghumar</SourceName>
+<TargetName ID="1">ঘুমার</TargetName>
+</Name>
+<Name ID="248">
+<SourceName>Balaka</SourceName>
+<TargetName ID="1">বলাকা</TargetName>
+</Name>
+<Name ID="249">
+<SourceName>Amalkanta</SourceName>
+<TargetName ID="1">অমলকান্ত</TargetName>
+</Name>
+<Name ID="250">
+<SourceName>Egg</SourceName>
+<TargetName ID="1">এগ</TargetName>
+</Name>
+<Name ID="251">
+<SourceName>Gangarani</SourceName>
+<TargetName ID="1">গঙ্গারাণী</TargetName>
+</Name>
+<Name ID="252">
+<SourceName>Flock</SourceName>
+<TargetName ID="1">ফ্লোক</TargetName>
+</Name>
+<Name ID="253">
+<SourceName>Bazar</SourceName>
+<TargetName ID="1">বাজার</TargetName>
+</Name>
+<Name ID="254">
+<SourceName>Zabbar</SourceName>
+<TargetName ID="1">জব্বর</TargetName>
+</Name>
+<Name ID="255">
+<SourceName>Rinjani</SourceName>
+<TargetName ID="1">রিনজানি</TargetName>
+</Name>
+<Name ID="256">
+<SourceName>Scandinavian</SourceName>
+<TargetName ID="1">স্ক্যান্ডিনেভিয়ান</TargetName>
+</Name>
+<Name ID="257">
+<SourceName>Prannath</SourceName>
+<TargetName ID="1">প্রাননাথ</TargetName>
+</Name>
+<Name ID="258">
+<SourceName>Barharwa</SourceName>
+<TargetName ID="1">বারহায়া</TargetName>
+</Name>
+<Name ID="259">
+<SourceName>Lambeth</SourceName>
+<TargetName ID="1">লাম্বেথ</TargetName>
+</Name>
+<Name ID="260">
+<SourceName>Jahanarabegam</SourceName>
+<TargetName ID="1">জাহানারাবেগম</TargetName>
+</Name>
+<Name ID="261">
+<SourceName>Daar</SourceName>
+<TargetName ID="1">দর</TargetName>
+</Name>
+<Name ID="262">
+<SourceName>Kaalaj</SourceName>
+<TargetName ID="1">কালাজ</TargetName>
+</Name>
+<Name ID="263">
+<SourceName>Binodbihari</SourceName>
+<TargetName ID="1">বিনোদবিহারী</TargetName>
+</Name>
+<Name ID="264">
+<SourceName>Trehan</SourceName>
+<TargetName ID="1">ট্রেহান</TargetName>
+</Name>
+<Name ID="265">
+<SourceName>Santander</SourceName>
+<TargetName ID="1">সান্টানদের</TargetName>
+</Name>
+<Name ID="266">
+<SourceName>Kutumbale</SourceName>
+<TargetName ID="1">কুটুম্বালে</TargetName>
+</Name>
+<Name ID="267">
+<SourceName>Phurki</SourceName>
+<TargetName ID="1">ফুরকী</TargetName>
+</Name>
+<Name ID="268">
+<SourceName>Zoysa</SourceName>
+<TargetName ID="1">জয়সা</TargetName>
+</Name>
+<Name ID="269">
+<SourceName>Behularani</SourceName>
+<TargetName ID="1">বেহুলারানী</TargetName>
+</Name>
+<Name ID="270">
+<SourceName>Sadhani</SourceName>
+<TargetName ID="1">সাধনী</TargetName>
+</Name>
+<Name ID="271">
+<SourceName>Mdarif</SourceName>
+<TargetName ID="1">মহঃআরিফ</TargetName>
+</Name>
+<Name ID="272">
+<SourceName>Jaypee</SourceName>
+<TargetName ID="1">জইপি</TargetName>
+</Name>
+<Name ID="273">
+<SourceName>Sarguja</SourceName>
+<TargetName ID="1">সারগুজ</TargetName>
+</Name>
+<Name ID="274">
+<SourceName>Belurani</SourceName>
+<TargetName ID="1">বেলুরানী</TargetName>
+</Name>
+<Name ID="275">
+<SourceName>Akaash</SourceName>
+<TargetName ID="1">আকাশ</TargetName>
+</Name>
+<Name ID="276">
+<SourceName>Nayyar</SourceName>
+<TargetName ID="1">নায়ার</TargetName>
+</Name>
+<Name ID="277">
+<SourceName>Line</SourceName>
+<TargetName ID="1">লাইন</TargetName>
+</Name>
+<Name ID="278">
+<SourceName>Liltu</SourceName>
+<TargetName ID="1">লিলটু</TargetName>
+</Name>
+<Name ID="279">
+<SourceName>Greenspan</SourceName>
+<TargetName ID="1">গ্রীন্সপন</TargetName>
+</Name>
+<Name ID="280">
+<SourceName>Robertson</SourceName>
+<TargetName ID="1">রবার্সন</TargetName>
+<TargetName ID="2">রোবার্টসন</TargetName>
+</Name>
+<Name ID="281">
+<SourceName>Hafij</SourceName>
+<TargetName ID="1">হাফিজ</TargetName>
+</Name>
+<Name ID="282">
+<SourceName>Balco</SourceName>
+<TargetName ID="1">বালকো</TargetName>
+</Name>
+<Name ID="283">
+<SourceName>Garland</SourceName>
+<TargetName ID="1">গারল্যান্ড</TargetName>
+</Name>
+<Name ID="284">
+<SourceName>Saggu</SourceName>
+<TargetName ID="1">সাগ্গু</TargetName>
+</Name>
+<Name ID="285">
+<SourceName>Auto</SourceName>
+<TargetName ID="1">অটো</TargetName>
+</Name>
+<Name ID="286">
+<SourceName>Deccanchronicle</SourceName>
+<TargetName ID="1">ডেকানক্রনিক্যাল</TargetName>
+</Name>
+<Name ID="287">
+<SourceName>Shulakha</SourceName>
+<TargetName ID="1">শুলেখা</TargetName>
+</Name>
+<Name ID="288">
+<SourceName>Marcs</SourceName>
+<TargetName ID="1">মার্কস</TargetName>
+</Name>
+<Name ID="289">
+<SourceName>Spacey</SourceName>
+<TargetName ID="1">স্পেসি</TargetName>
+</Name>
+<Name ID="290">
+<SourceName>Felis</SourceName>
+<TargetName ID="1">ফেলিস</TargetName>
+</Name>
+<Name ID="291">
+<SourceName>Bijainagar</SourceName>
+<TargetName ID="1">বিজয়নগর</TargetName>
+</Name>
+<Name ID="292">
+<SourceName>Madanmohan</SourceName>
+<TargetName ID="1">মদনমোহন</TargetName>
+</Name>
+<Name ID="293">
+<SourceName>Alembic</SourceName>
+<TargetName ID="1">অ্যালেম্বিক</TargetName>
+</Name>
+<Name ID="294">
+<SourceName>Ninetowns</SourceName>
+<TargetName ID="1">নাইনটাউনস</TargetName>
+</Name>
+<Name ID="295">
+<SourceName>Bunilal</SourceName>
+<TargetName ID="1">বুনিলাল</TargetName>
+</Name>
+<Name ID="296">
+<SourceName>Dhiman</SourceName>
+<TargetName ID="1">ধীমান</TargetName>
+</Name>
+<Name ID="297">
+<SourceName>Baze</SourceName>
+<TargetName ID="1">বাজ</TargetName>
+</Name>
+<Name ID="298">
+<SourceName>Fortaleza</SourceName>
+<TargetName ID="1">ফোর্টালিজা</TargetName>
+</Name>
+<Name ID="299">
+<SourceName>Amadeus</SourceName>
+<TargetName ID="1">আমাডেয়াস</TargetName>
+</Name>
+<Name ID="300">
+<SourceName>Edi</SourceName>
+<TargetName ID="1">এডি</TargetName>
+</Name>
+<Name ID="301">
+<SourceName>Dartmouth</SourceName>
+<TargetName ID="1">ডার্টমাউথ</TargetName>
+</Name>
+<Name ID="302">
+<SourceName>Coca</SourceName>
+<TargetName ID="1">কোকা</TargetName>
+</Name>
+<Name ID="303">
+<SourceName>Sherwin</SourceName>
+<TargetName ID="1">সেরউইন</TargetName>
+</Name>
+<Name ID="304">
+<SourceName>Angelo</SourceName>
+<TargetName ID="1">অ্যাঞ্জেলো</TargetName>
+</Name>
+<Name ID="305">
+<SourceName>Dhavle</SourceName>
+<TargetName ID="1">দাভলে</TargetName>
+</Name>
+<Name ID="306">
+<SourceName>Orchards</SourceName>
+<TargetName ID="1">অর্কার্ডস</TargetName>
+</Name>
+<Name ID="307">
+<SourceName>Rwenzori</SourceName>
+<TargetName ID="1">রিওয়েনজোরি</TargetName>
+</Name>
+<Name ID="308">
+<SourceName>Outreach</SourceName>
+<TargetName ID="1">আউটরিচ</TargetName>
+</Name>
+<Name ID="309">
+<SourceName>Shery</SourceName>
+<TargetName ID="1">শেরি</TargetName>
+</Name>
+<Name ID="310">
+<SourceName>Kaler</SourceName>
+<TargetName ID="1">কালের</TargetName>
+</Name>
+<Name ID="311">
+<SourceName>Durgamani</SourceName>
+<TargetName ID="1">দুর্গামনি</TargetName>
+</Name>
+<Name ID="312">
+<SourceName>Container</SourceName>
+<TargetName ID="1">কন্টেনার</TargetName>
+</Name>
+<Name ID="313">
+<SourceName>Ben</SourceName>
+<TargetName ID="1">বেন</TargetName>
+</Name>
+<Name ID="314">
+<SourceName>Cary</SourceName>
+<TargetName ID="1">ক্যারি</TargetName>
+</Name>
+<Name ID="315">
+<SourceName>Macdonald</SourceName>
+<TargetName ID="1">ম্যাকডোনাল্ড</TargetName>
+</Name>
+<Name ID="316">
+<SourceName>Mahatma</SourceName>
+<TargetName ID="1">মহাত্মা</TargetName>
+</Name>
+<Name ID="317">
+<SourceName>Manjuri</SourceName>
+<TargetName ID="1">মঞ্জুরী</TargetName>
+</Name>
+<Name ID="318">
+<SourceName>Fulo</SourceName>
+<TargetName ID="1">ফুলো</TargetName>
+</Name>
+<Name ID="319">
+<SourceName>Tridib</SourceName>
+<TargetName ID="1">ত্রিদিব</TargetName>
+</Name>
+<Name ID="320">
+<SourceName>Maphijur</SourceName>
+<TargetName ID="1">মফিজুর</TargetName>
+</Name>
+<Name ID="321">
+<SourceName>Citadel</SourceName>
+<TargetName ID="1">সিটাডেল</TargetName>
+</Name>
+<Name ID="322">
+<SourceName>Geral</SourceName>
+<TargetName ID="1">গেরাল</TargetName>
+</Name>
+<Name ID="323">
+<SourceName>Okz</SourceName>
+<TargetName ID="1">ওকজ</TargetName>
+</Name>
+<Name ID="324">
+<SourceName>Karve</SourceName>
+<TargetName ID="1">কার্ভে</TargetName>
+</Name>
+<Name ID="325">
+<SourceName>Baghdadi</SourceName>
+<TargetName ID="1">ভাগদাদি</TargetName>
+</Name>
+<Name ID="326">
+<SourceName>Bichitra</SourceName>
+<TargetName ID="1">বিচিত্রা</TargetName>
+</Name>
+<Name ID="327">
+<SourceName>Chandradip</SourceName>
+<TargetName ID="1">চন্দ্রদীপ</TargetName>
+</Name>
+<Name ID="328">
+<SourceName>Astaire</SourceName>
+<TargetName ID="1">আসটেয়ার</TargetName>
+</Name>
+<Name ID="329">
+<SourceName>Goram</SourceName>
+<TargetName ID="1">গোরাম</TargetName>
+</Name>
+<Name ID="330">
+<SourceName>Kazuma</SourceName>
+<TargetName ID="1">কাজুমা</TargetName>
+</Name>
+<Name ID="331">
+<SourceName>Pilani</SourceName>
+<TargetName ID="1">পিলানি</TargetName>
+</Name>
+<Name ID="332">
+<SourceName>Deb</SourceName>
+<TargetName ID="1">দেব</TargetName>
+</Name>
+<Name ID="333">
+<SourceName>Amritendu</SourceName>
+<TargetName ID="1">অমৃতেন্দু</TargetName>
+</Name>
+<Name ID="334">
+<SourceName>Su</SourceName>
+<TargetName ID="1">সু</TargetName>
+</Name>
+<Name ID="335">
+<SourceName>Mehmud</SourceName>
+<TargetName ID="1">মেহমূদ</TargetName>
+</Name>
+<Name ID="336">
+<SourceName>Sheep</SourceName>
+<TargetName ID="1">শিপ</TargetName>
+</Name>
+<Name ID="337">
+<SourceName>Hiking</SourceName>
+<TargetName ID="1">হিকিং</TargetName>
+</Name>
+<Name ID="338">
+<SourceName>Duquesne</SourceName>
+<TargetName ID="1">ডুকোয়েসনে</TargetName>
+<TargetName ID="2">দুকুয়েসনে</TargetName>
+</Name>
+<Name ID="339">
+<SourceName>Narsad</SourceName>
+<TargetName ID="1">নরসাদ</TargetName>
+</Name>
+<Name ID="340">
+<SourceName>Sagina</SourceName>
+<TargetName ID="1">সাগিনা</TargetName>
+</Name>
+<Name ID="341">
+<SourceName>Chandrapura</SourceName>
+<TargetName ID="1">চন্দ্রপুরা</TargetName>
+</Name>
+<Name ID="342">
+<SourceName>Pitambar</SourceName>
+<TargetName ID="1">পিতাম্বর</TargetName>
+<TargetName ID="2">পীতাম্বর</TargetName>
+</Name>
+<Name ID="343">
+<SourceName>Chauri</SourceName>
+<TargetName ID="1">চৌরি</TargetName>
+</Name>
+<Name ID="344">
+<SourceName>Sheikh</SourceName>
+<TargetName ID="1">শেখ</TargetName>
+</Name>
+<Name ID="345">
+<SourceName>Sajedali</SourceName>
+<TargetName ID="1">সাজেদআলী</TargetName>
+</Name>
+<Name ID="346">
+<SourceName>Maphejala</SourceName>
+<TargetName ID="1">মফেজলা</TargetName>
+</Name>
+<Name ID="347">
+<SourceName>Diplana</SourceName>
+<TargetName ID="1">দিপলানা</TargetName>
+</Name>
+<Name ID="348">
+<SourceName>Keshgadiya</SourceName>
+<TargetName ID="1">কেশগাদিয়া</TargetName>
+</Name>
+<Name ID="349">
+<SourceName>Dior</SourceName>
+<TargetName ID="1">ডিওর</TargetName>
+</Name>
+<Name ID="350">
+<SourceName>Wallece</SourceName>
+<TargetName ID="1">ওয়ালেস</TargetName>
+</Name>
+<Name ID="351">
+<SourceName>Conn</SourceName>
+<TargetName ID="1">কোন</TargetName>
+</Name>
+<Name ID="352">
+<SourceName>Bijaylakshmi</SourceName>
+<TargetName ID="1">বিজযলক্ষী</TargetName>
+</Name>
+<Name ID="353">
+<SourceName>Dymchurch</SourceName>
+<TargetName ID="1">ডাইমচার্চ</TargetName>
+</Name>
+<Name ID="354">
+<SourceName>Birdi</SourceName>
+<TargetName ID="1">বীরদী</TargetName>
+</Name>
+<Name ID="355">
+<SourceName>Matibala</SourceName>
+<TargetName ID="1">মতিবালা</TargetName>
+</Name>
+<Name ID="356">
+<SourceName>Lago</SourceName>
+<TargetName ID="1">লাগো</TargetName>
+</Name>
+<Name ID="357">
+<SourceName>Goodlass</SourceName>
+<TargetName ID="1">গুডল্যাস</TargetName>
+</Name>
+<Name ID="358">
+<SourceName>Manji</SourceName>
+<TargetName ID="1">মঞ্জী</TargetName>
+</Name>
+<Name ID="359">
+<SourceName>Plato</SourceName>
+<TargetName ID="1">প্লেটো</TargetName>
+</Name>
+<Name ID="360">
+<SourceName>Banbasi</SourceName>
+<TargetName ID="1">বনবাসী</TargetName>
+</Name>
+<Name ID="361">
+<SourceName>Reedsport</SourceName>
+<TargetName ID="1">রিডস্পোর্ট</TargetName>
+</Name>
+<Name ID="362">
+<SourceName>Brain</SourceName>
+<TargetName ID="1">ব্রেন</TargetName>
+</Name>
+<Name ID="363">
+<SourceName>Baisaki</SourceName>
+<TargetName ID="1">বৈশাকি</TargetName>
+</Name>
+<Name ID="364">
+<SourceName>Foster</SourceName>
+<TargetName ID="1">ফোস্টার</TargetName>
+<TargetName ID="2">ফুস্টার</TargetName>
+<TargetName ID="3">ফোসটার</TargetName>
+</Name>
+<Name ID="365">
+<SourceName>Visualsoft</SourceName>
+<TargetName ID="1">ভিসুয়ালসফট</TargetName>
+</Name>
+<Name ID="366">
+<SourceName>Sahila</SourceName>
+<TargetName ID="1">সহিলা</TargetName>
+</Name>
+<Name ID="367">
+<SourceName>Sumantra</SourceName>
+<TargetName ID="1">সুমন্ত্র</TargetName>
+</Name>
+<Name ID="368">
+<SourceName>Tamasa</SourceName>
+<TargetName ID="1">তমসা</TargetName>
+</Name>
+<Name ID="369">
+<SourceName>Rockwall</SourceName>
+<TargetName ID="1">রকওয়াল</TargetName>
+</Name>
+<Name ID="370">
+<SourceName>Parthakumar</SourceName>
+<TargetName ID="1">পার্থকুমার</TargetName>
+</Name>
+<Name ID="371">
+<SourceName>Nagamootoo</SourceName>
+<TargetName ID="1">নাগামুটু</TargetName>
+</Name>
+<Name ID="372">
+<SourceName>Makatkar</SourceName>
+<TargetName ID="1">মাকাতকার</TargetName>
+</Name>
+<Name ID="373">
+<SourceName>Rupnagar</SourceName>
+<TargetName ID="1">রূপনগর</TargetName>
+</Name>
+<Name ID="374">
+<SourceName>Bengal</SourceName>
+<TargetName ID="1">বেঙ্গল</TargetName>
+</Name>
+<Name ID="375">
+<SourceName>Adarini</SourceName>
+<TargetName ID="1">আদরিণী</TargetName>
+</Name>
+<Name ID="376">
+<SourceName>Ardnacrusha</SourceName>
+<TargetName ID="1">আর্দনাক্রশ</TargetName>
+</Name>
+<Name ID="377">
+<SourceName>Swarnalota</SourceName>
+<TargetName ID="1">স্বর্ণলতা</TargetName>
+</Name>
+<Name ID="378">
+<SourceName>Dubnium</SourceName>
+<TargetName ID="1">ডাবনিয়াম</TargetName>
+</Name>
+<Name ID="379">
+<SourceName>Prinz</SourceName>
+<TargetName ID="1">প্রিঞ্জ</TargetName>
+</Name>
+<Name ID="380">
+<SourceName>Matijul</SourceName>
+<TargetName ID="1">মতিজুল</TargetName>
+</Name>
+<Name ID="381">
+<SourceName>Ahuja</SourceName>
+<TargetName ID="1">আহুজা</TargetName>
+</Name>
+<Name ID="382">
+<SourceName>Mansree</SourceName>
+<TargetName ID="1">মানশ্রী</TargetName>
+</Name>
+<Name ID="383">
+<SourceName>Salaam</SourceName>
+<TargetName ID="1">সালাম</TargetName>
+</Name>
+<Name ID="384">
+<SourceName>Kathua</SourceName>
+<TargetName ID="1">কাথুয়া</TargetName>
+</Name>
+<Name ID="385">
+<SourceName>Pricketts</SourceName>
+<TargetName ID="1">প্রিকেটস</TargetName>
+</Name>
+<Name ID="386">
+<SourceName>Balaichandra</SourceName>
+<TargetName ID="1">বলাইচন্দ্র</TargetName>
+</Name>
+<Name ID="387">
+<SourceName>Tuckaleechee</SourceName>
+<TargetName ID="1">টুকালীচী</TargetName>
+</Name>
+<Name ID="388">
+<SourceName>Chitrakot</SourceName>
+<TargetName ID="1">চিত্রকোট</TargetName>
+</Name>
+<Name ID="389">
+<SourceName>Bhatni</SourceName>
+<TargetName ID="1">ভাতনি</TargetName>
+</Name>
+<Name ID="390">
+<SourceName>Balasor</SourceName>
+<TargetName ID="1">বালাসোর</TargetName>
+</Name>
+<Name ID="391">
+<SourceName>Fulbati</SourceName>
+<TargetName ID="1">ফুলবতী</TargetName>
+</Name>
+<Name ID="392">
+<SourceName>Doda</SourceName>
+<TargetName ID="1">ডোডা</TargetName>
+</Name>
+<Name ID="393">
+<SourceName>Basundhara</SourceName>
+<TargetName ID="1">বসুন্ধরা</TargetName>
+</Name>
+<Name ID="394">
+<SourceName>Parikhit</SourceName>
+<TargetName ID="1">পরিক্ষীত</TargetName>
+</Name>
+<Name ID="395">
+<SourceName>Oncolytics</SourceName>
+<TargetName ID="1">অনকোলাইটিক্স</TargetName>
+</Name>
+<Name ID="396">
+<SourceName>Chhansara</SourceName>
+<TargetName ID="1">ছানসারা</TargetName>
+</Name>
+<Name ID="397">
+<SourceName>Bawana</SourceName>
+<TargetName ID="1">বাওয়ানা</TargetName>
+</Name>
+<Name ID="398">
+<SourceName>Sunipa</SourceName>
+<TargetName ID="1">সুনিপা</TargetName>
+</Name>
+<Name ID="399">
+<SourceName>Mandy</SourceName>
+<TargetName ID="1">ম্যান্ডি</TargetName>
+</Name>
+<Name ID="400">
+<SourceName>Grizzly</SourceName>
+<TargetName ID="1">গিজিলি</TargetName>
+</Name>
+<Name ID="401">
+<SourceName>Pieris</SourceName>
+<TargetName ID="1">পেরিস</TargetName>
+</Name>
+<Name ID="402">
+<SourceName>Abhaychandra</SourceName>
+<TargetName ID="1">অভযচন্দ্র</TargetName>
+</Name>
+<Name ID="403">
+<SourceName>Chem</SourceName>
+<TargetName ID="1">কেম</TargetName>
+</Name>
+<Name ID="404">
+<SourceName>Bichchhu</SourceName>
+<TargetName ID="1">বিচ্ছু</TargetName>
+</Name>
+<Name ID="405">
+<SourceName>Barrier</SourceName>
+<TargetName ID="1">ব্যারিয়র</TargetName>
+</Name>
+<Name ID="406">
+<SourceName>Sabed</SourceName>
+<TargetName ID="1">সাবেদ</TargetName>
+</Name>
+<Name ID="407">
+<SourceName>Telekom</SourceName>
+<TargetName ID="1">টেলিকম</TargetName>
+</Name>
+<Name ID="408">
+<SourceName>Mamatabala</SourceName>
+<TargetName ID="1">মমতাবালা</TargetName>
+</Name>
+<Name ID="409">
+<SourceName>Coles</SourceName>
+<TargetName ID="1">কোলেস</TargetName>
+</Name>
+<Name ID="410">
+<SourceName>Duggari</SourceName>
+<TargetName ID="1">দুগ্গারি</TargetName>
+</Name>
+<Name ID="411">
+<SourceName>Kaila</SourceName>
+<TargetName ID="1">কাইলা</TargetName>
+</Name>
+<Name ID="412">
+<SourceName>Namchi</SourceName>
+<TargetName ID="1">নমচী</TargetName>
+</Name>
+<Name ID="413">
+<SourceName>Dapanjan</SourceName>
+<TargetName ID="1">দীপাঞ্জন</TargetName>
+</Name>
+<Name ID="414">
+<SourceName>Maniklal</SourceName>
+<TargetName ID="1">মাণিকলাল</TargetName>
+</Name>
+<Name ID="415">
+<SourceName>Hoon</SourceName>
+<TargetName ID="1">হুন</TargetName>
+</Name>
+<Name ID="416">
+<SourceName>Shobhan</SourceName>
+<TargetName ID="1">শোভন</TargetName>
+</Name>
+<Name ID="417">
+<SourceName>Khafif</SourceName>
+<TargetName ID="1">খাফিফ</TargetName>
+</Name>
+<Name ID="418">
+<SourceName>Somachandra</SourceName>
+<TargetName ID="1">সোমাচন্দ্র</TargetName>
+</Name>
+<Name ID="419">
+<SourceName>Alak</SourceName>
+<TargetName ID="1">অলক</TargetName>
+</Name>
+<Name ID="420">
+<SourceName>Pareshnath</SourceName>
+<TargetName ID="1">পরেশনাথ</TargetName>
+</Name>
+<Name ID="421">
+<SourceName>Venkataramana</SourceName>
+<TargetName ID="1">ভেঙ্কটরামানা</TargetName>
+</Name>
+<Name ID="422">
+<SourceName>Commtouch</SourceName>
+<TargetName ID="1">কমটাচ</TargetName>
+</Name>
+<Name ID="423">
+<SourceName>Gitika</SourceName>
+<TargetName ID="1">গীতিকা</TargetName>
+</Name>
+<Name ID="424">
+<SourceName>Mart</SourceName>
+<TargetName ID="1">মার্ট</TargetName>
+</Name>
+<Name ID="425">
+<SourceName>Phajlekrim</SourceName>
+<TargetName ID="1">ফজলেকরিম</TargetName>
+</Name>
+<Name ID="426">
+<SourceName>Abdulali</SourceName>
+<TargetName ID="1">আব্দুলআলি</TargetName>
+</Name>
+<Name ID="427">
+<SourceName>Neck</SourceName>
+<TargetName ID="1">নেক</TargetName>
+</Name>
+<Name ID="428">
+<SourceName>Sahanaz</SourceName>
+<TargetName ID="1">সাহনাজ</TargetName>
+</Name>
+<Name ID="429">
+<SourceName>Sambad</SourceName>
+<TargetName ID="1">সম্বাদ</TargetName>
+</Name>
+<Name ID="430">
+<SourceName>Tancítaro</SourceName>
+<TargetName ID="1">টান্সিটারো</TargetName>
+</Name>
+<Name ID="431">
+<SourceName>Siloso</SourceName>
+<TargetName ID="1">সিলোসো</TargetName>
+</Name>
+<Name ID="432">
+<SourceName>Groupe</SourceName>
+<TargetName ID="1">গ্রুপ</TargetName>
+</Name>
+<Name ID="433">
+<SourceName>Laabhante</SourceName>
+<TargetName ID="1">লাভান্তে</TargetName>
+</Name>
+<Name ID="434">
+<SourceName>Vidur</SourceName>
+<TargetName ID="1">ভিদুর</TargetName>
+</Name>
+<Name ID="435">
+<SourceName>Ubajara</SourceName>
+<TargetName ID="1">উবাজারা</TargetName>
+</Name>
+<Name ID="436">
+<SourceName>Benibala</SourceName>
+<TargetName ID="1">বেনীবালা</TargetName>
+</Name>
+<Name ID="437">
+<SourceName>Petrie</SourceName>
+<TargetName ID="1">পেট্রি</TargetName>
+</Name>
+<Name ID="438">
+<SourceName>Riding</SourceName>
+<TargetName ID="1">রাইডিং</TargetName>
+</Name>
+<Name ID="439">
+<SourceName>Daire</SourceName>
+<TargetName ID="1">ডাইরে</TargetName>
+</Name>
+<Name ID="440">
+<SourceName>Unmadini</SourceName>
+<TargetName ID="1">উন্মাদিনী</TargetName>
+</Name>
+<Name ID="441">
+<SourceName>Kaali</SourceName>
+<TargetName ID="1">কালি</TargetName>
+</Name>
+<Name ID="442">
+<SourceName>Katsuragi</SourceName>
+<TargetName ID="1">কাতসুরাগি</TargetName>
+</Name>
+<Name ID="443">
+<SourceName>Pioneers</SourceName>
+<TargetName ID="1">পাওনিয়ার্স</TargetName>
+</Name>
+<Name ID="444">
+<SourceName>Fish</SourceName>
+<TargetName ID="1">ফিশ</TargetName>
+</Name>
+<Name ID="445">
+<SourceName>Mahira</SourceName>
+<TargetName ID="1">মাহিরা</TargetName>
+</Name>
+<Name ID="446">
+<SourceName>Samu</SourceName>
+<TargetName ID="1">সমু</TargetName>
+</Name>
+<Name ID="447">
+<SourceName>Chandmun</SourceName>
+<TargetName ID="1">চাঁদমুন</TargetName>
+</Name>
+<Name ID="448">
+<SourceName>Raine</SourceName>
+<TargetName ID="1">রেইন</TargetName>
+</Name>
+<Name ID="449">
+<SourceName>Menubala</SourceName>
+<TargetName ID="1">মেনুবালা</TargetName>
+</Name>
+<Name ID="450">
+<SourceName>Shakdar</SourceName>
+<TargetName ID="1">শাকদার</TargetName>
+</Name>
+<Name ID="451">
+<SourceName>Kanchan</SourceName>
+<TargetName ID="1">কাঞ্চন</TargetName>
+</Name>
+<Name ID="452">
+<SourceName>Satnam</SourceName>
+<TargetName ID="1">সতনাম</TargetName>
+</Name>
+<Name ID="453">
+<SourceName>Kamalchandra</SourceName>
+<TargetName ID="1">কমলচন্দ্র</TargetName>
+</Name>
+<Name ID="454">
+<SourceName>Oarathuppalayam</SourceName>
+<TargetName ID="1">ওয়ারাথুপ্পালাওয়াম</TargetName>
+</Name>
+<Name ID="455">
+<SourceName>Rasel</SourceName>
+<TargetName ID="1">রাসেল</TargetName>
+</Name>
+<Name ID="456">
+<SourceName>Dharashivkar</SourceName>
+<TargetName ID="1">দারাশিবকার</TargetName>
+</Name>
+<Name ID="457">
+<SourceName>Archery</SourceName>
+<TargetName ID="1">আরচেরি</TargetName>
+</Name>
+<Name ID="458">
+<SourceName>Impero</SourceName>
+<TargetName ID="1">ইমপেরো</TargetName>
+</Name>
+<Name ID="459">
+<SourceName>Albion</SourceName>
+<TargetName ID="1">অলবিওন</TargetName>
+</Name>
+<Name ID="460">
+<SourceName>Pulasthi</SourceName>
+<TargetName ID="1">পুলস্থি</TargetName>
+</Name>
+<Name ID="461">
+<SourceName>Bladen</SourceName>
+<TargetName ID="1">ব্লাডেন</TargetName>
+</Name>
+<Name ID="462">
+<SourceName>Dalrymple</SourceName>
+<TargetName ID="1">ড্রিমপ্লে</TargetName>
+</Name>
+<Name ID="463">
+<SourceName>Premio</SourceName>
+<TargetName ID="1">প্রেমিও</TargetName>
+</Name>
+<Name ID="464">
+<SourceName>Dadwal</SourceName>
+<TargetName ID="1">দাদওয়াল</TargetName>
+</Name>
+<Name ID="465">
+<SourceName>Marsh</SourceName>
+<TargetName ID="1">মার্স</TargetName>
+</Name>
+<Name ID="466">
+<SourceName>Minturani</SourceName>
+<TargetName ID="1">মিন্টুরানী</TargetName>
+</Name>
+<Name ID="467">
+<SourceName>Drake</SourceName>
+<TargetName ID="1">দ্রক</TargetName>
+</Name>
+<Name ID="468">
+<SourceName>Aminuddin</SourceName>
+<TargetName ID="1">আমিনদ্দিন</TargetName>
+</Name>
+<Name ID="469">
+<SourceName>Hollebone</SourceName>
+<TargetName ID="1">হোলিবোন</TargetName>
+</Name>
+<Name ID="470">
+<SourceName>Telenor</SourceName>
+<TargetName ID="1">টেলিনর</TargetName>
+</Name>
+<Name ID="471">
+<SourceName>Upen</SourceName>
+<TargetName ID="1">উপেন</TargetName>
+</Name>
+<Name ID="472">
+<SourceName>Rajeswar</SourceName>
+<TargetName ID="1">রাজেস্বর</TargetName>
+</Name>
+<Name ID="473">
+<SourceName>Manjrekar</SourceName>
+<TargetName ID="1">মঞ্জেকার</TargetName>
+</Name>
+<Name ID="474">
+<SourceName>Gill</SourceName>
+<TargetName ID="1">গিল</TargetName>
+</Name>
+<Name ID="475">
+<SourceName>Ingurskaya</SourceName>
+<TargetName ID="1">ইঙ্গুরস্কায়া</TargetName>
+</Name>
+<Name ID="476">
+<SourceName>Williamson</SourceName>
+<TargetName ID="1">উইলিয়ামসন</TargetName>
+</Name>
+<Name ID="477">
+<SourceName>Anadi</SourceName>
+<TargetName ID="1">অনাদি</TargetName>
+</Name>
+<Name ID="478">
+<SourceName>Wijesuriya</SourceName>
+<TargetName ID="1">ইউজেসুরিয়া</TargetName>
+</Name>
+<Name ID="479">
+<SourceName>Deoprayag</SourceName>
+<TargetName ID="1">দেওপ্রয়াগ</TargetName>
+</Name>
+<Name ID="480">
+<SourceName>Poste</SourceName>
+<TargetName ID="1">পোষ্ট</TargetName>
+</Name>
+<Name ID="481">
+<SourceName>Baigaiveeran</SourceName>
+<TargetName ID="1">বৈগৈভিরন</TargetName>
+</Name>
+<Name ID="482">
+<SourceName>Orla</SourceName>
+<TargetName ID="1">ওর্লা</TargetName>
+</Name>
+<Name ID="483">
+<SourceName>Naosadali</SourceName>
+<TargetName ID="1">নওসাদআলি</TargetName>
+</Name>
+<Name ID="484">
+<SourceName>Gouri</SourceName>
+<TargetName ID="1">গৌরী</TargetName>
+</Name>
+<Name ID="485">
+<SourceName>Anupama</SourceName>
+<TargetName ID="1">অনুপমা</TargetName>
+</Name>
+<Name ID="486">
+<SourceName>Bahadur</SourceName>
+<TargetName ID="1">বাহাদুর</TargetName>
+</Name>
+<Name ID="487">
+<SourceName>Padmalaya</SourceName>
+<TargetName ID="1">পদ্মালয়</TargetName>
+</Name>
+<Name ID="488">
+<SourceName>Ramadabi</SourceName>
+<TargetName ID="1">রামাদেবী</TargetName>
+</Name>
+<Name ID="489">
+<SourceName>Ramila</SourceName>
+<TargetName ID="1">রমিলা</TargetName>
+</Name>
+<Name ID="490">
+<SourceName>Aisin</SourceName>
+<TargetName ID="1">আইসিন</TargetName>
+</Name>
+<Name ID="491">
+<SourceName>Umarali</SourceName>
+<TargetName ID="1">উমরআলী</TargetName>
+</Name>
+<Name ID="492">
+<SourceName>Tinkari</SourceName>
+<TargetName ID="1">তিনকড়ি</TargetName>
+</Name>
+<Name ID="493">
+<SourceName>Dammika</SourceName>
+<TargetName ID="1">ডাম্মিকা</TargetName>
+</Name>
+<Name ID="494">
+<SourceName>Geoff</SourceName>
+<TargetName ID="1">গেওফ</TargetName>
+</Name>
+<Name ID="495">
+<SourceName>Rentu</SourceName>
+<TargetName ID="1">রেনটু</TargetName>
+</Name>
+<Name ID="496">
+<SourceName>Kanengara</SourceName>
+<TargetName ID="1">কানেঙ্গারা</TargetName>
+</Name>
+<Name ID="497">
+<SourceName>Fedex</SourceName>
+<TargetName ID="1">ফেডেক্স</TargetName>
+</Name>
+<Name ID="498">
+<SourceName>Uma</SourceName>
+<TargetName ID="1">উমা</TargetName>
+</Name>
+<Name ID="499">
+<SourceName>Castrol</SourceName>
+<TargetName ID="1">ক্যাস্ট্রল</TargetName>
+</Name>
+<Name ID="500">
+<SourceName>Rajnath</SourceName>
+<TargetName ID="1">রাজনাথ</TargetName>
+</Name>
+<Name ID="501">
+<SourceName>Military</SourceName>
+<TargetName ID="1">মিলিটারি</TargetName>
+</Name>
+<Name ID="502">
+<SourceName>Mahabbat</SourceName>
+<TargetName ID="1">মহববত</TargetName>
+</Name>
+<Name ID="503">
+<SourceName>Kherli</SourceName>
+<TargetName ID="1">খের্লি</TargetName>
+</Name>
+<Name ID="504">
+<SourceName>Midday</SourceName>
+<TargetName ID="1">মিডডে</TargetName>
+</Name>
+<Name ID="505">
+<SourceName>Anara</SourceName>
+<TargetName ID="1">আনারা</TargetName>
+</Name>
+<Name ID="506">
+<SourceName>Nabira</SourceName>
+<TargetName ID="1">নবিরা</TargetName>
+<TargetName ID="2">নবীরা</TargetName>
+</Name>
+<Name ID="507">
+<SourceName>Bhulu</SourceName>
+<TargetName ID="1">ভুলু</TargetName>
+</Name>
+<Name ID="508">
+<SourceName>Mukuleshur</SourceName>
+<TargetName ID="1">মুকলেশুর</TargetName>
+</Name>
+<Name ID="509">
+<SourceName>Mansi</SourceName>
+<TargetName ID="1">মানসি</TargetName>
+</Name>
+<Name ID="510">
+<SourceName>Hopes</SourceName>
+<TargetName ID="1">হোপস</TargetName>
+</Name>
+<Name ID="511">
+<SourceName>Barks</SourceName>
+<TargetName ID="1">বার্কস</TargetName>
+</Name>
+<Name ID="512">
+<SourceName>Gorachand</SourceName>
+<TargetName ID="1">গোড়াচাঁদ</TargetName>
+</Name>
+<Name ID="513">
+<SourceName>Saathi</SourceName>
+<TargetName ID="1">সাথী</TargetName>
+</Name>
+<Name ID="514">
+<SourceName>Shiromoni</SourceName>
+<TargetName ID="1">শিরোমনি</TargetName>
+</Name>
+<Name ID="515">
+<SourceName>Cholkar</SourceName>
+<TargetName ID="1">চোলকার</TargetName>
+</Name>
+<Name ID="516">
+<SourceName>Darke</SourceName>
+<TargetName ID="1">ডার্কে</TargetName>
+</Name>
+<Name ID="517">
+<SourceName>Voyager</SourceName>
+<TargetName ID="1">ভয়েজার</TargetName>
+</Name>
+<Name ID="518">
+<SourceName>Lepanto</SourceName>
+<TargetName ID="1">লেপান্টো</TargetName>
+</Name>
+<Name ID="519">
+<SourceName>Mayurbhanj</SourceName>
+<TargetName ID="1">ময়ূরভঞ্জ</TargetName>
+</Name>
+<Name ID="520">
+<SourceName>Rajinder</SourceName>
+<TargetName ID="1">রাজেন্দ্র</TargetName>
+</Name>
+<Name ID="521">
+<SourceName>Berrien</SourceName>
+<TargetName ID="1">বেরিন</TargetName>
+</Name>
+<Name ID="522">
+<SourceName>Eluru</SourceName>
+<TargetName ID="1">এলুরা</TargetName>
+</Name>
+<Name ID="523">
+<SourceName>Derek</SourceName>
+<TargetName ID="1">ডেরেক</TargetName>
+<TargetName ID="2">ড্রেক</TargetName>
+</Name>
+<Name ID="524">
+<SourceName>Muradali</SourceName>
+<TargetName ID="1">মুরাদআলি</TargetName>
+</Name>
+<Name ID="525">
+<SourceName>Munsi</SourceName>
+<TargetName ID="1">মুন্সী</TargetName>
+</Name>
+<Name ID="526">
+<SourceName>Shilling</SourceName>
+<TargetName ID="1">শিলিং</TargetName>
+</Name>
+<Name ID="527">
+<SourceName>Rekharani</SourceName>
+<TargetName ID="1">রেখারাণী</TargetName>
+</Name>
+<Name ID="528">
+<SourceName>Madhuribala</SourceName>
+<TargetName ID="1">মাধুরীবালা</TargetName>
+</Name>
+<Name ID="529">
+<SourceName>Faju</SourceName>
+<TargetName ID="1">ফজু</TargetName>
+</Name>
+<Name ID="530">
+<SourceName>Cerebus</SourceName>
+<TargetName ID="1">সেরেবাস</TargetName>
+</Name>
+<Name ID="531">
+<SourceName>Babenburg</SourceName>
+<TargetName ID="1">বাবেনবার্গ</TargetName>
+</Name>
+<Name ID="532">
+<SourceName>Sitesh</SourceName>
+<TargetName ID="1">সীতেশ</TargetName>
+</Name>
+<Name ID="533">
+<SourceName>Khattkar</SourceName>
+<TargetName ID="1">খাত্তকার</TargetName>
+</Name>
+<Name ID="534">
+<SourceName>Poetry</SourceName>
+<TargetName ID="1">পোয়েট্রি</TargetName>
+</Name>
+<Name ID="535">
+<SourceName>Bhise</SourceName>
+<TargetName ID="1">ভিসে</TargetName>
+</Name>
+<Name ID="536">
+<SourceName>Dorey</SourceName>
+<TargetName ID="1">দোরিএ</TargetName>
+</Name>
+<Name ID="537">
+<SourceName>Bendre</SourceName>
+<TargetName ID="1">বেন্দ্রে</TargetName>
+</Name>
+<Name ID="538">
+<SourceName>Norsk</SourceName>
+<TargetName ID="1">নোর্স্ক</TargetName>
+</Name>
+<Name ID="539">
+<SourceName>Aktarunbibi</SourceName>
+<TargetName ID="1">আক্তারুনবিবি</TargetName>
+</Name>
+<Name ID="540">
+<SourceName>Hasemali</SourceName>
+<TargetName ID="1">হাসেমআলী</TargetName>
+</Name>
+<Name ID="541">
+<SourceName>Baharun</SourceName>
+<TargetName ID="1">বাহরুন</TargetName>
+</Name>
+<Name ID="542">
+<SourceName>Anu</SourceName>
+<TargetName ID="1">অনু</TargetName>
+</Name>
+<Name ID="543">
+<SourceName>Sunitkumar</SourceName>
+<TargetName ID="1">সুনীতকুমার</TargetName>
+</Name>
+<Name ID="544">
+<SourceName>Zeven</SourceName>
+<TargetName ID="1">জেভেন</TargetName>
+</Name>
+<Name ID="545">
+<SourceName>Adil</SourceName>
+<TargetName ID="1">আদিল</TargetName>
+</Name>
+<Name ID="546">
+<SourceName>Nandani</SourceName>
+<TargetName ID="1">নন্দনী</TargetName>
+</Name>
+<Name ID="547">
+<SourceName>Rouphali</SourceName>
+<TargetName ID="1">রউফআলি</TargetName>
+</Name>
+<Name ID="548">
+<SourceName>Debtosh</SourceName>
+<TargetName ID="1">দেবতোষ</TargetName>
+</Name>
+<Name ID="549">
+<SourceName>Smile</SourceName>
+<TargetName ID="1">স্মাইল</TargetName>
+</Name>
+<Name ID="550">
+<SourceName>Sachsen</SourceName>
+<TargetName ID="1">সাচসেন</TargetName>
+</Name>
+<Name ID="551">
+<SourceName>Dhekiajuli</SourceName>
+<TargetName ID="1">ধেকিয়াজুলি</TargetName>
+</Name>
+<Name ID="552">
+<SourceName>Euler</SourceName>
+<TargetName ID="1">ঈউলার</TargetName>
+</Name>
+<Name ID="553">
+<SourceName>Debarati</SourceName>
+<TargetName ID="1">দেবারতি</TargetName>
+</Name>
+<Name ID="554">
+<SourceName>Milanrani</SourceName>
+<TargetName ID="1">মিলনরানী</TargetName>
+</Name>
+<Name ID="555">
+<SourceName>Purnimabibi</SourceName>
+<TargetName ID="1">পূর্ণিমাবিবি</TargetName>
+</Name>
+<Name ID="556">
+<SourceName>Gunjhow</SourceName>
+<TargetName ID="1">গুনঝাও</TargetName>
+</Name>
+<Name ID="557">
+<SourceName>Reshma</SourceName>
+<TargetName ID="1">রেশমা</TargetName>
+</Name>
+<Name ID="558">
+<SourceName>Kendurkar</SourceName>
+<TargetName ID="1">কেন্দুরকার</TargetName>
+</Name>
+<Name ID="559">
+<SourceName>Ununhexium</SourceName>
+<TargetName ID="1">উনউনহেক্সিয়াম</TargetName>
+</Name>
+<Name ID="560">
+<SourceName>Thurnwald</SourceName>
+<TargetName ID="1">থুর্নওয়াল্ড</TargetName>
+</Name>
+<Name ID="561">
+<SourceName>Purnimadabi</SourceName>
+<TargetName ID="1">পুর্নিমাদেবী</TargetName>
+</Name>
+<Name ID="562">
+<SourceName>Belapur</SourceName>
+<TargetName ID="1">বেলাপুর</TargetName>
+</Name>
+<Name ID="563">
+<SourceName>Jhantulal</SourceName>
+<TargetName ID="1">ঝন্টুলাল</TargetName>
+</Name>
+<Name ID="564">
+<SourceName>Razzaq</SourceName>
+<TargetName ID="1">রাজ্জাক</TargetName>
+</Name>
+<Name ID="565">
+<SourceName>Azamgarh</SourceName>
+<TargetName ID="1">আজমগড়</TargetName>
+</Name>
+<Name ID="566">
+<SourceName>Nobel</SourceName>
+<TargetName ID="1">নোবেল</TargetName>
+</Name>
+<Name ID="567">
+<SourceName>Vieux</SourceName>
+<TargetName ID="1">ভিউক্স</TargetName>
+</Name>
+<Name ID="568">
+<SourceName>Angela</SourceName>
+<TargetName ID="1">অ্যাঞ্জেল</TargetName>
+</Name>
+<Name ID="569">
+<SourceName>Bada</SourceName>
+<TargetName ID="1">বাদা</TargetName>
+</Name>
+<Name ID="570">
+<SourceName>Anitadebi</SourceName>
+<TargetName ID="1">অনীতাদেবী</TargetName>
+</Name>
+<Name ID="571">
+<SourceName>Hencoate</SourceName>
+<TargetName ID="1">হেনকোট</TargetName>
+</Name>
+<Name ID="572">
+<SourceName>Patti</SourceName>
+<TargetName ID="1">পাট্টি</TargetName>
+</Name>
+<Name ID="573">
+<SourceName>Khanduja</SourceName>
+<TargetName ID="1">খানদুজা</TargetName>
+</Name>
+<Name ID="574">
+<SourceName>Chhatunath</SourceName>
+<TargetName ID="1">ছুটুনাথ</TargetName>
+</Name>
+<Name ID="575">
+<SourceName>Chandak</SourceName>
+<TargetName ID="1">চন্দক</TargetName>
+</Name>
+<Name ID="576">
+<SourceName>Daporijo</SourceName>
+<TargetName ID="1">দাপোরিজো</TargetName>
+</Name>
+<Name ID="577">
+<SourceName>Rupsena</SourceName>
+<TargetName ID="1">রুপসেনা</TargetName>
+</Name>
+<Name ID="578">
+<SourceName>Mamatadevi</SourceName>
+<TargetName ID="1">মমতাদেবী</TargetName>
+</Name>
+<Name ID="579">
+<SourceName>Rafu</SourceName>
+<TargetName ID="1">রাফু</TargetName>
+</Name>
+<Name ID="580">
+<SourceName>Carrefour</SourceName>
+<TargetName ID="1">ক্যারিফোর</TargetName>
+</Name>
+<Name ID="581">
+<SourceName>Rupsana</SourceName>
+<TargetName ID="1">রুপসনা</TargetName>
+</Name>
+<Name ID="582">
+<SourceName>Malhotra</SourceName>
+<TargetName ID="1">মালহোত্রা</TargetName>
+</Name>
+<Name ID="583">
+<SourceName>Rukmani</SourceName>
+<TargetName ID="1">রুকমনি</TargetName>
+</Name>
+<Name ID="584">
+<SourceName>Dhulghat</SourceName>
+<TargetName ID="1">ধূলঘাট</TargetName>
+</Name>
+<Name ID="585">
+<SourceName>Harpal</SourceName>
+<TargetName ID="1">হরপাল</TargetName>
+</Name>
+<Name ID="586">
+<SourceName>Sebika</SourceName>
+<TargetName ID="1">সেবিকা</TargetName>
+</Name>
+<Name ID="587">
+<SourceName>Ranasinghe</SourceName>
+<TargetName ID="1">রনসিংহ</TargetName>
+</Name>
+<Name ID="588">
+<SourceName>Subhasranjan</SourceName>
+<TargetName ID="1">সুভাষরঞ্জন</TargetName>
+</Name>
+<Name ID="589">
+<SourceName>Adesh</SourceName>
+<TargetName ID="1">আদেশ</TargetName>
+</Name>
+<Name ID="590">
+<SourceName>Amausi</SourceName>
+<TargetName ID="1">অমাউসি</TargetName>
+</Name>
+<Name ID="591">
+<SourceName>Dead</SourceName>
+<TargetName ID="1">ডেড</TargetName>
+</Name>
+<Name ID="592">
+<SourceName>Shiladabi</SourceName>
+<TargetName ID="1">শিলাদেবী</TargetName>
+</Name>
+<Name ID="593">
+<SourceName>Nagaur</SourceName>
+<TargetName ID="1">নাগপুর</TargetName>
+</Name>
+<Name ID="594">
+<SourceName>Debgopal</SourceName>
+<TargetName ID="1">দেবগোপাল</TargetName>
+</Name>
+<Name ID="595">
+<SourceName>Ezra</SourceName>
+<TargetName ID="1">ইজরা</TargetName>
+</Name>
+<Name ID="596">
+<SourceName>Rajdeo</SourceName>
+<TargetName ID="1">রাজদেও</TargetName>
+</Name>
+<Name ID="597">
+<SourceName>Borawar</SourceName>
+<TargetName ID="1">বোরায়ার</TargetName>
+</Name>
+<Name ID="598">
+<SourceName>Humayun</SourceName>
+<TargetName ID="1">হুমায়ুন</TargetName>
+</Name>
+<Name ID="599">
+<SourceName>Chettinad</SourceName>
+<TargetName ID="1">চেট্টিনাদ</TargetName>
+</Name>
+<Name ID="600">
+<SourceName>Time</SourceName>
+<TargetName ID="1">টাইম</TargetName>
+</Name>
+<Name ID="601">
+<SourceName>Nasem</SourceName>
+<TargetName ID="1">নাসেম</TargetName>
+</Name>
+<Name ID="602">
+<SourceName>Rikta</SourceName>
+<TargetName ID="1">রিক্তা</TargetName>
+<TargetName ID="2">রীক্তা</TargetName>
+</Name>
+<Name ID="603">
+<SourceName>Benukar</SourceName>
+<TargetName ID="1">বেণুকর</TargetName>
+</Name>
+<Name ID="604">
+<SourceName>Kenth</SourceName>
+<TargetName ID="1">কেন্থ</TargetName>
+</Name>
+<Name ID="605">
+<SourceName>Rubidium</SourceName>
+<TargetName ID="1">রুবিডিয়াম</TargetName>
+</Name>
+<Name ID="606">
+<SourceName>Coney</SourceName>
+<TargetName ID="1">কোনে</TargetName>
+</Name>
+<Name ID="607">
+<SourceName>Grinham</SourceName>
+<TargetName ID="1">গ্রিনহাম</TargetName>
+</Name>
+<Name ID="608">
+<SourceName>Portogallo</SourceName>
+<TargetName ID="1">পোর্টোগালো</TargetName>
+</Name>
+<Name ID="609">
+<SourceName>Relf</SourceName>
+<TargetName ID="1">রেলফ</TargetName>
+</Name>
+<Name ID="610">
+<SourceName>Pico</SourceName>
+<TargetName ID="1">পিকো</TargetName>
+</Name>
+<Name ID="611">
+<SourceName>Shahidul</SourceName>
+<TargetName ID="1">শহিদুল</TargetName>
+</Name>
+<Name ID="612">
+<SourceName>Safina</SourceName>
+<TargetName ID="1">সফিনা</TargetName>
+</Name>
+<Name ID="613">
+<SourceName>Mursidakhatun</SourceName>
+<TargetName ID="1">মুরসিদাখাতুন</TargetName>
+</Name>
+<Name ID="614">
+<SourceName>Mohra</SourceName>
+<TargetName ID="1">মোহরা</TargetName>
+</Name>
+<Name ID="615">
+<SourceName>Brajen</SourceName>
+<TargetName ID="1">ব্রজেন</TargetName>
+</Name>
+<Name ID="616">
+<SourceName>Samarasekera</SourceName>
+<TargetName ID="1">সমরশেখর</TargetName>
+</Name>
+<Name ID="617">
+<SourceName>Recovery</SourceName>
+<TargetName ID="1">রিকভারী</TargetName>
+</Name>
+<Name ID="618">
+<SourceName>Maunsell</SourceName>
+<TargetName ID="1">মাউনসেল</TargetName>
+</Name>
+<Name ID="619">
+<SourceName>Lakkhi</SourceName>
+<TargetName ID="1">লক্ষী</TargetName>
+</Name>
+<Name ID="620">
+<SourceName>Beauty</SourceName>
+<TargetName ID="1">বিউটী</TargetName>
+</Name>
+<Name ID="621">
+<SourceName>Beijing</SourceName>
+<TargetName ID="1">বেজিং</TargetName>
+</Name>
+<Name ID="622">
+<SourceName>Edabali</SourceName>
+<TargetName ID="1">এডাবলি</TargetName>
+</Name>
+<Name ID="623">
+<SourceName>Rangela</SourceName>
+<TargetName ID="1">রঙ্গেলা</TargetName>
+</Name>
+<Name ID="624">
+<SourceName>Radhamohan</SourceName>
+<TargetName ID="1">রাধামোহন</TargetName>
+</Name>
+<Name ID="625">
+<SourceName>Noord</SourceName>
+<TargetName ID="1">নুর্ড</TargetName>
+</Name>
+<Name ID="626">
+<SourceName>Idbanu</SourceName>
+<TargetName ID="1">ইদবানু</TargetName>
+</Name>
+<Name ID="627">
+<SourceName>Franks</SourceName>
+<TargetName ID="1">ফ্রাঙ্কস</TargetName>
+</Name>
+<Name ID="628">
+<SourceName>Pasqual</SourceName>
+<TargetName ID="1">পাস্কাল</TargetName>
+</Name>
+<Name ID="629">
+<SourceName>Anantnag</SourceName>
+<TargetName ID="1">অনন্তনাগ</TargetName>
+</Name>
+<Name ID="630">
+<SourceName>Malinche</SourceName>
+<TargetName ID="1">মালিন্স</TargetName>
+</Name>
+<Name ID="631">
+<SourceName>Ramabatidevi</SourceName>
+<TargetName ID="1">রমাবতীদেবী</TargetName>
+</Name>
+<Name ID="632">
+<SourceName>Mannu</SourceName>
+<TargetName ID="1">মন্নু</TargetName>
+</Name>
+<Name ID="633">
+<SourceName>Diplomatic</SourceName>
+<TargetName ID="1">ডিপ্লোমাটিক</TargetName>
+</Name>
+<Name ID="634">
+<SourceName>Sarakatsanoi</SourceName>
+<TargetName ID="1">সারাকাটসানোই</TargetName>
+</Name>
+<Name ID="635">
+<SourceName>Gabri</SourceName>
+<TargetName ID="1">গাব্রি</TargetName>
+</Name>
+<Name ID="636">
+<SourceName>Bhadurani</SourceName>
+<TargetName ID="1">ভাদুরানী</TargetName>
+</Name>
+<Name ID="637">
+<SourceName>Makhdoom</SourceName>
+<TargetName ID="1">মাখদুম</TargetName>
+</Name>
+<Name ID="638">
+<SourceName>Sharman</SourceName>
+<TargetName ID="1">শারম্যান</TargetName>
+</Name>
+<Name ID="639">
+<SourceName>Binodbala</SourceName>
+<TargetName ID="1">বিনোদবালা</TargetName>
+</Name>
+<Name ID="640">
+<SourceName>Palanca</SourceName>
+<TargetName ID="1">পালাঙ্কা</TargetName>
+</Name>
+<Name ID="641">
+<SourceName>Gobinda</SourceName>
+<TargetName ID="1">গোবিন্দ</TargetName>
+</Name>
+<Name ID="642">
+<SourceName>Girls</SourceName>
+<TargetName ID="1">গ্যালস</TargetName>
+</Name>
+<Name ID="643">
+<SourceName>Bibek</SourceName>
+<TargetName ID="1">বিবেক</TargetName>
+</Name>
+<Name ID="644">
+<SourceName>Hasna</SourceName>
+<TargetName ID="1">হাসনা</TargetName>
+</Name>
+<Name ID="645">
+<SourceName>Bechurani</SourceName>
+<TargetName ID="1">বেচুরানী</TargetName>
+</Name>
+<Name ID="646">
+<SourceName>Dahiya</SourceName>
+<TargetName ID="1">দাইয়া</TargetName>
+</Name>
+<Name ID="647">
+<SourceName>Bipula</SourceName>
+<TargetName ID="1">বিপুলা</TargetName>
+</Name>
+<Name ID="648">
+<SourceName>Tirumalai</SourceName>
+<TargetName ID="1">তিরুমালাই</TargetName>
+</Name>
+<Name ID="649">
+<SourceName>Lansbury</SourceName>
+<TargetName ID="1">ল্যান্সবেরী</TargetName>
+</Name>
+<Name ID="650">
+<SourceName>Multani</SourceName>
+<TargetName ID="1">মুলতানি</TargetName>
+</Name>
+<Name ID="651">
+<SourceName>Edgcumbe</SourceName>
+<TargetName ID="1">এজকুম্বে</TargetName>
+</Name>
+<Name ID="652">
+<SourceName>Nisal</SourceName>
+<TargetName ID="1">নিশাল</TargetName>
+</Name>
+<Name ID="653">
+<SourceName>Nripendra</SourceName>
+<TargetName ID="1">নৃপেন্দ্র</TargetName>
+</Name>
+<Name ID="654">
+<SourceName>Tulusi</SourceName>
+<TargetName ID="1">তুলুসী</TargetName>
+</Name>
+<Name ID="655">
+<SourceName>Alema</SourceName>
+<TargetName ID="1">আলেমা</TargetName>
+</Name>
+<Name ID="656">
+<SourceName>Pratim</SourceName>
+<TargetName ID="1">প্রতীম</TargetName>
+</Name>
+<Name ID="657">
+<SourceName>Cimatron</SourceName>
+<TargetName ID="1">কিমাট্রন</TargetName>
+</Name>
+<Name ID="658">
+<SourceName>Dhakuakhana</SourceName>
+<TargetName ID="1">ঢাকুয়াখানা</TargetName>
+</Name>
+<Name ID="659">
+<SourceName>Ajema</SourceName>
+<TargetName ID="1">আজেমা</TargetName>
+</Name>
+<Name ID="660">
+<SourceName>Bharath</SourceName>
+<TargetName ID="1">ভারত</TargetName>
+</Name>
+<Name ID="661">
+<SourceName>Saleem</SourceName>
+<TargetName ID="1">সালেম</TargetName>
+</Name>
+<Name ID="662">
+<SourceName>Kamini</SourceName>
+<TargetName ID="1">কামিনী</TargetName>
+</Name>
+<Name ID="663">
+<SourceName>Graphical</SourceName>
+<TargetName ID="1">গ্রাফিকেল</TargetName>
+</Name>
+<Name ID="664">
+<SourceName>Pointer</SourceName>
+<TargetName ID="1">পয়েন্টের</TargetName>
+</Name>
+<Name ID="665">
+<SourceName>Gatting</SourceName>
+<TargetName ID="1">গেটিং</TargetName>
+</Name>
+<Name ID="666">
+<SourceName>Mcclary</SourceName>
+<TargetName ID="1">মক্কালরি</TargetName>
+</Name>
+<Name ID="667">
+<SourceName>Scotland</SourceName>
+<TargetName ID="1">স্কটল্যান্ড</TargetName>
+</Name>
+<Name ID="668">
+<SourceName>Deolali</SourceName>
+<TargetName ID="1">দেওলালি</TargetName>
+</Name>
+<Name ID="669">
+<SourceName>Pirmuhamad</SourceName>
+<TargetName ID="1">পিরমু্হামাদ</TargetName>
+</Name>
+<Name ID="670">
+<SourceName>Som</SourceName>
+<TargetName ID="1">সোম</TargetName>
+</Name>
+<Name ID="671">
+<SourceName>Amina</SourceName>
+<TargetName ID="1">আমিনা</TargetName>
+</Name>
+<Name ID="672">
+<SourceName>Tasman</SourceName>
+<TargetName ID="1">তাসমান</TargetName>
+</Name>
+<Name ID="673">
+<SourceName>Samena</SourceName>
+<TargetName ID="1">সামেনা</TargetName>
+</Name>
+<Name ID="674">
+<SourceName>Makkad</SourceName>
+<TargetName ID="1">মাক্কাদ</TargetName>
+</Name>
+<Name ID="675">
+<SourceName>Dhule</SourceName>
+<TargetName ID="1">ধুলে</TargetName>
+<TargetName ID="2">ধুলি</TargetName>
+</Name>
+<Name ID="676">
+<SourceName>Titubala</SourceName>
+<TargetName ID="1">তিতুবালা</TargetName>
+</Name>
+<Name ID="677">
+<SourceName>Tapu</SourceName>
+<TargetName ID="1">তপু</TargetName>
+</Name>
+<Name ID="678">
+<SourceName>Preussen</SourceName>
+<TargetName ID="1">প্রেউসেন</TargetName>
+</Name>
+<Name ID="679">
+<SourceName>Rinakumari</SourceName>
+<TargetName ID="1">রীনাকুমারী</TargetName>
+</Name>
+<Name ID="680">
+<SourceName>Karen</SourceName>
+<TargetName ID="1">কারেন</TargetName>
+</Name>
+<Name ID="681">
+<SourceName>Olfert</SourceName>
+<TargetName ID="1">ওলফার্ট</TargetName>
+</Name>
+<Name ID="682">
+<SourceName>Caroline</SourceName>
+<TargetName ID="1">ক্যারোলিন</TargetName>
+</Name>
+<Name ID="683">
+<SourceName>Fernado</SourceName>
+<TargetName ID="1">ফার্নাদো</TargetName>
+</Name>
+<Name ID="684">
+<SourceName>Mukti</SourceName>
+<TargetName ID="1">মুক্তি</TargetName>
+</Name>
+<Name ID="685">
+<SourceName>Asranada</SourceName>
+<TargetName ID="1">আসরানাদা</TargetName>
+</Name>
+<Name ID="686">
+<SourceName>Chana</SourceName>
+<TargetName ID="1">চানা</TargetName>
+</Name>
+<Name ID="687">
+<SourceName>Rezaul</SourceName>
+<TargetName ID="1">রেজাউল</TargetName>
+</Name>
+<Name ID="688">
+<SourceName>Agori</SourceName>
+<TargetName ID="1">আগোরি</TargetName>
+</Name>
+<Name ID="689">
+<SourceName>Atabal</SourceName>
+<TargetName ID="1">অতাবল</TargetName>
+</Name>
+<Name ID="690">
+<SourceName>Rahul</SourceName>
+<TargetName ID="1">রাহুল</TargetName>
+</Name>
+<Name ID="691">
+<SourceName>Lakshmi</SourceName>
+<TargetName ID="1">লক্ষ্মী</TargetName>
+</Name>
+<Name ID="692">
+<SourceName>Dracula</SourceName>
+<TargetName ID="1">ড্রাকুলা</TargetName>
+</Name>
+<Name ID="693">
+<SourceName>Kohli</SourceName>
+<TargetName ID="1">কোহলি</TargetName>
+</Name>
+<Name ID="694">
+<SourceName>Company</SourceName>
+<TargetName ID="1">কোম্পানী</TargetName>
+</Name>
+<Name ID="695">
+<SourceName>Hariprasad</SourceName>
+<TargetName ID="1">হরিপ্রসাদ</TargetName>
+</Name>
+<Name ID="696">
+<SourceName>Acorn</SourceName>
+<TargetName ID="1">একোর্ন</TargetName>
+</Name>
+<Name ID="697">
+<SourceName>Farjun</SourceName>
+<TargetName ID="1">ফরজুন</TargetName>
+</Name>
+<Name ID="698">
+<SourceName>Kirtibas</SourceName>
+<TargetName ID="1">কৃত্তিবাস</TargetName>
+</Name>
+<Name ID="699">
+<SourceName>Westlb</SourceName>
+<TargetName ID="1">ওয়েষ্টলব</TargetName>
+</Name>
+<Name ID="700">
+<SourceName>Purohit</SourceName>
+<TargetName ID="1">পুরোহিত</TargetName>
+</Name>
+<Name ID="701">
+<SourceName>Murchison</SourceName>
+<TargetName ID="1">মার্চিসন</TargetName>
+</Name>
+<Name ID="702">
+<SourceName>Bishnathganj</SourceName>
+<TargetName ID="1">বিষনাথগঞ্জ</TargetName>
+</Name>
+<Name ID="703">
+<SourceName>Medzhybizh</SourceName>
+<TargetName ID="1">মেডজাইবিজ</TargetName>
+</Name>
+<Name ID="704">
+<SourceName>Mirabel</SourceName>
+<TargetName ID="1">মার্বেল</TargetName>
+</Name>
+<Name ID="705">
+<SourceName>Sakhealauddin</SourceName>
+<TargetName ID="1">সেখআলাউদ্দিন</TargetName>
+</Name>
+<Name ID="706">
+<SourceName>Gainsari</SourceName>
+<TargetName ID="1">গেনসারি</TargetName>
+</Name>
+<Name ID="707">
+<SourceName>Java</SourceName>
+<TargetName ID="1">জাভা</TargetName>
+</Name>
+<Name ID="708">
+<SourceName>Biochemistry</SourceName>
+<TargetName ID="1">বায়োকেমিস্ট্রি</TargetName>
+</Name>
+<Name ID="709">
+<SourceName>Conjunto</SourceName>
+<TargetName ID="1">কনজুন্টো</TargetName>
+</Name>
+<Name ID="710">
+<SourceName>Baidhar</SourceName>
+<TargetName ID="1">বাইধর</TargetName>
+</Name>
+<Name ID="711">
+<SourceName>Nagpur</SourceName>
+<TargetName ID="1">নাগপুর</TargetName>
+</Name>
+<Name ID="712">
+<SourceName>Garth</SourceName>
+<TargetName ID="1">গার্থ</TargetName>
+</Name>
+<Name ID="713">
+<SourceName>Word</SourceName>
+<TargetName ID="1">ওয়ার্ড</TargetName>
+</Name>
+<Name ID="714">
+<SourceName>Punam</SourceName>
+<TargetName ID="1">পুনম</TargetName>
+</Name>
+<Name ID="715">
+<SourceName>Nordiska</SourceName>
+<TargetName ID="1">নোরডিস্ক</TargetName>
+</Name>
+<Name ID="716">
+<SourceName>Nurjanbibi</SourceName>
+<TargetName ID="1">নুরজানবিবি</TargetName>
+</Name>
+<Name ID="717">
+<SourceName>Mdakbar</SourceName>
+<TargetName ID="1">মহঃআকবর</TargetName>
+</Name>
+<Name ID="718">
+<SourceName>Avishkar</SourceName>
+<TargetName ID="1">আভিষ্কার</TargetName>
+</Name>
+<Name ID="719">
+<SourceName>Tusubala</SourceName>
+<TargetName ID="1">টুসুবালা</TargetName>
+</Name>
+<Name ID="720">
+<SourceName>Slocum</SourceName>
+<TargetName ID="1">স্লোকাম</TargetName>
+</Name>
+<Name ID="721">
+<SourceName>Vardha</SourceName>
+<TargetName ID="1">ওয়ার্ধা</TargetName>
+</Name>
+<Name ID="722">
+<SourceName>Sarangi</SourceName>
+<TargetName ID="1">সারাঙ্গি</TargetName>
+</Name>
+<Name ID="723">
+<SourceName>Kangad</SourceName>
+<TargetName ID="1">কংগদ</TargetName>
+</Name>
+<Name ID="724">
+<SourceName>Piuli</SourceName>
+<TargetName ID="1">পিউলী</TargetName>
+</Name>
+<Name ID="725">
+<SourceName>Bardhaman</SourceName>
+<TargetName ID="1">বর্ধমান</TargetName>
+</Name>
+<Name ID="726">
+<SourceName>Yohan</SourceName>
+<TargetName ID="1">ওয়ান</TargetName>
+</Name>
+<Name ID="727">
+<SourceName>Ramala</SourceName>
+<TargetName ID="1">রমলা</TargetName>
+</Name>
+<Name ID="728">
+<SourceName>Cuffy</SourceName>
+<TargetName ID="1">কুফি</TargetName>
+</Name>
+<Name ID="729">
+<SourceName>Greg</SourceName>
+<TargetName ID="1">গ্রেগ</TargetName>
+</Name>
+<Name ID="730">
+<SourceName>Atanu</SourceName>
+<TargetName ID="1">অতনু</TargetName>
+</Name>
+<Name ID="731">
+<SourceName>Rajshekhar</SourceName>
+<TargetName ID="1">রাজশেখর</TargetName>
+</Name>
+<Name ID="732">
+<SourceName>Jafur</SourceName>
+<TargetName ID="1">জফুর</TargetName>
+</Name>
+<Name ID="733">
+<SourceName>Brennius</SourceName>
+<TargetName ID="1">ব্রেনুইস</TargetName>
+</Name>
+<Name ID="734">
+<SourceName>Jami</SourceName>
+<TargetName ID="1">জামি</TargetName>
+</Name>
+<Name ID="735">
+<SourceName>Maphroja</SourceName>
+<TargetName ID="1">মফরোজা</TargetName>
+</Name>
+<Name ID="736">
+<SourceName>Anupshahr</SourceName>
+<TargetName ID="1">অনুপসর</TargetName>
+</Name>
+<Name ID="737">
+<SourceName>Lome</SourceName>
+<TargetName ID="1">লোমা</TargetName>
+</Name>
+<Name ID="738">
+<SourceName>Kundan</SourceName>
+<TargetName ID="1">কুন্দন</TargetName>
+</Name>
+<Name ID="739">
+<SourceName>Mitun</SourceName>
+<TargetName ID="1">মিতুন</TargetName>
+</Name>
+<Name ID="740">
+<SourceName>Gajare</SourceName>
+<TargetName ID="1">গজরে</TargetName>
+</Name>
+<Name ID="741">
+<SourceName>Isuzu</SourceName>
+<TargetName ID="1">ইসুজু</TargetName>
+</Name>
+<Name ID="742">
+<SourceName>Vidler</SourceName>
+<TargetName ID="1">ভিডলার</TargetName>
+</Name>
+<Name ID="743">
+<SourceName>Barmer</SourceName>
+<TargetName ID="1">বারমের</TargetName>
+</Name>
+<Name ID="744">
+<SourceName>Nirod</SourceName>
+<TargetName ID="1">নিরোদ</TargetName>
+</Name>
+<Name ID="745">
+<SourceName>Kronprinz</SourceName>
+<TargetName ID="1">ক্রোনপ্রিঞ্জ</TargetName>
+</Name>
+<Name ID="746">
+<SourceName>Wollaston</SourceName>
+<TargetName ID="1">ওলাসটোন</TargetName>
+</Name>
+<Name ID="747">
+<SourceName>Bholu</SourceName>
+<TargetName ID="1">ভোলু</TargetName>
+</Name>
+<Name ID="748">
+<SourceName>Delhi</SourceName>
+<TargetName ID="1">দেলহী</TargetName>
+<TargetName ID="2">দিল্লি</TargetName>
+</Name>
+<Name ID="749">
+<SourceName>Suratjan</SourceName>
+<TargetName ID="1">সুরতজান</TargetName>
+</Name>
+<Name ID="750">
+<SourceName>Kyzyl</SourceName>
+<TargetName ID="1">কাইজল</TargetName>
+</Name>
+<Name ID="751">
+<SourceName>Behula</SourceName>
+<TargetName ID="1">বেহুলা</TargetName>
+</Name>
+<Name ID="752">
+<SourceName>Babagon</SourceName>
+<TargetName ID="1">বাবগাঁও</TargetName>
+</Name>
+<Name ID="753">
+<SourceName>Abutaleb</SourceName>
+<TargetName ID="1">আবুতালেব</TargetName>
+</Name>
+<Name ID="754">
+<SourceName>Popton</SourceName>
+<TargetName ID="1">পপটোন</TargetName>
+</Name>
+<Name ID="755">
+<SourceName>Fossil</SourceName>
+<TargetName ID="1">ফসিল</TargetName>
+</Name>
+<Name ID="756">
+<SourceName>Badayoon</SourceName>
+<TargetName ID="1">বাদায়ুন</TargetName>
+</Name>
+<Name ID="757">
+<SourceName>Valeureuse</SourceName>
+<TargetName ID="1">ভালেউরেউস</TargetName>
+</Name>
+<Name ID="758">
+<SourceName>Ahold</SourceName>
+<TargetName ID="1">অ্যাহোল্ড</TargetName>
+</Name>
+<Name ID="759">
+<SourceName>Yarhosen</SourceName>
+<TargetName ID="1">ইযারহোসেন</TargetName>
+</Name>
+<Name ID="760">
+<SourceName>Shimanta</SourceName>
+<TargetName ID="1">শিমন্ত</TargetName>
+</Name>
+<Name ID="761">
+<SourceName>Kettle</SourceName>
+<TargetName ID="1">কেটল</TargetName>
+</Name>
+<Name ID="762">
+<SourceName>Derol</SourceName>
+<TargetName ID="1">দেরোল</TargetName>
+</Name>
+<Name ID="763">
+<SourceName>Daraganj</SourceName>
+<TargetName ID="1">দারাগঞ্জ</TargetName>
+</Name>
+<Name ID="764">
+<SourceName>Lithuania</SourceName>
+<TargetName ID="1">লিথুনিয়া</TargetName>
+<TargetName ID="2">লিথুয়ানিয়া</TargetName>
+</Name>
+<Name ID="765">
+<SourceName>Mohinder</SourceName>
+<TargetName ID="1">মোহিন্দ্র</TargetName>
+</Name>
+<Name ID="766">
+<SourceName>Sujan</SourceName>
+<TargetName ID="1">সুজন</TargetName>
+<TargetName ID="2">সুজান</TargetName>
+<TargetName ID="3">সূজন</TargetName>
+</Name>
+<Name ID="767">
+<SourceName>Granth</SourceName>
+<TargetName ID="1">গ্রন্থ</TargetName>
+</Name>
+<Name ID="768">
+<SourceName>Sujatali</SourceName>
+<TargetName ID="1">সুজাতআলি</TargetName>
+</Name>
+<Name ID="769">
+<SourceName>Biocon</SourceName>
+<TargetName ID="1">বায়োকন</TargetName>
+</Name>
+<Name ID="770">
+<SourceName>Alik</SourceName>
+<TargetName ID="1">অলীক</TargetName>
+</Name>
+<Name ID="771">
+<SourceName>Pabanchandra</SourceName>
+<TargetName ID="1">পবনচন্দ্র</TargetName>
+</Name>
+<Name ID="772">
+<SourceName>Ahwahnee</SourceName>
+<TargetName ID="1">আহয়ানি</TargetName>
+</Name>
+<Name ID="773">
+<SourceName>Raanchi</SourceName>
+<TargetName ID="1">রাঁচী</TargetName>
+</Name>
+<Name ID="774">
+<SourceName>Kullursandai</SourceName>
+<TargetName ID="1">কুল্লুরসান্দাই</TargetName>
+</Name>
+<Name ID="775">
+<SourceName>Phek</SourceName>
+<TargetName ID="1">ফেক</TargetName>
+</Name>
+<Name ID="776">
+<SourceName>Makpo</SourceName>
+<TargetName ID="1">ম্যাকপো</TargetName>
+</Name>
+<Name ID="777">
+<SourceName>Bandula</SourceName>
+<TargetName ID="1">বান্ডুলা</TargetName>
+</Name>
+<Name ID="778">
+<SourceName>Rajnandgaon</SourceName>
+<TargetName ID="1">রাজনান্দগাঁও</TargetName>
+</Name>
+<Name ID="779">
+<SourceName>Sohota</SourceName>
+<TargetName ID="1">সোহোটা</TargetName>
+</Name>
+<Name ID="780">
+<SourceName>Bijankumar</SourceName>
+<TargetName ID="1">বিজনকুমার</TargetName>
+</Name>
+<Name ID="781">
+<SourceName>Dharmpur</SourceName>
+<TargetName ID="1">ধর্মপুর</TargetName>
+</Name>
+<Name ID="782">
+<SourceName>Tausif</SourceName>
+<TargetName ID="1">তৌসিফ</TargetName>
+</Name>
+<Name ID="783">
+<SourceName>Bahera</SourceName>
+<TargetName ID="1">বাহেরা</TargetName>
+</Name>
+<Name ID="784">
+<SourceName>Shaktiprasad</SourceName>
+<TargetName ID="1">শক্তিপ্রসাদ</TargetName>
+</Name>
+<Name ID="785">
+<SourceName>Gomoh</SourceName>
+<TargetName ID="1">গোমো</TargetName>
+</Name>
+<Name ID="786">
+<SourceName>Wein</SourceName>
+<TargetName ID="1">উইন</TargetName>
+</Name>
+<Name ID="787">
+<SourceName>Dohak</SourceName>
+<TargetName ID="1">দোহাক</TargetName>
+</Name>
+<Name ID="788">
+<SourceName>Soumi</SourceName>
+<TargetName ID="1">সৌমি</TargetName>
+</Name>
+<Name ID="789">
+<SourceName>Moti</SourceName>
+<TargetName ID="1">মোতি</TargetName>
+</Name>
+<Name ID="790">
+<SourceName>Poma</SourceName>
+<TargetName ID="1">পোমা</TargetName>
+</Name>
+<Name ID="791">
+<SourceName>Chitose</SourceName>
+<TargetName ID="1">চিতোস</TargetName>
+</Name>
+<Name ID="792">
+<SourceName>Bozeman</SourceName>
+<TargetName ID="1">বোজেমান</TargetName>
+</Name>
+<Name ID="793">
+<SourceName>Pierce</SourceName>
+<TargetName ID="1">পিয়ার্স</TargetName>
+</Name>
+<Name ID="794">
+<SourceName>Bunny</SourceName>
+<TargetName ID="1">বুনি</TargetName>
+</Name>
+<Name ID="795">
+<SourceName>Sundareshvara</SourceName>
+<TargetName ID="1">সুন্দরেশভারা</TargetName>
+</Name>
+<Name ID="796">
+<SourceName>Sibiloi</SourceName>
+<TargetName ID="1">সিবিলোই</TargetName>
+</Name>
+<Name ID="797">
+<SourceName>Ramesh</SourceName>
+<TargetName ID="1">রমেশ</TargetName>
+</Name>
+<Name ID="798">
+<SourceName>Shachinandan</SourceName>
+<TargetName ID="1">শচীনন্দন</TargetName>
+</Name>
+<Name ID="799">
+<SourceName>Meijer</SourceName>
+<TargetName ID="1">মেইজার</TargetName>
+</Name>
+<Name ID="800">
+<SourceName>Ritakumari</SourceName>
+<TargetName ID="1">রীতাকুমারী</TargetName>
+</Name>
+<Name ID="801">
+<SourceName>Dhrabapada</SourceName>
+<TargetName ID="1">ধ্রবপদ</TargetName>
+</Name>
+<Name ID="802">
+<SourceName>Nasrudin</SourceName>
+<TargetName ID="1">নাসরুদ্দিন</TargetName>
+</Name>
+<Name ID="803">
+<SourceName>Jason</SourceName>
+<TargetName ID="1">জাসন</TargetName>
+</Name>
+<Name ID="804">
+<SourceName>Habsburg</SourceName>
+<TargetName ID="1">হাবসবার্গ</TargetName>
+</Name>
+<Name ID="805">
+<SourceName>Ashadulla</SourceName>
+<TargetName ID="1">আশাদুল্লা</TargetName>
+</Name>
+<Name ID="806">
+<SourceName>Canastra</SourceName>
+<TargetName ID="1">কানাস্ত্রা</TargetName>
+</Name>
+<Name ID="807">
+<SourceName>Kmart</SourceName>
+<TargetName ID="1">কমার্ট</TargetName>
+</Name>
+<Name ID="808">
+<SourceName>Samshul</SourceName>
+<TargetName ID="1">সামশুল</TargetName>
+</Name>
+<Name ID="809">
+<SourceName>Biju</SourceName>
+<TargetName ID="1">বিজু</TargetName>
+</Name>
+<Name ID="810">
+<SourceName>Pushpadasi</SourceName>
+<TargetName ID="1">পুষ্পদাসী</TargetName>
+</Name>
+<Name ID="811">
+<SourceName>Nalavade</SourceName>
+<TargetName ID="1">নাভালদে</TargetName>
+</Name>
+<Name ID="812">
+<SourceName>Haider</SourceName>
+<TargetName ID="1">হাইদার</TargetName>
+</Name>
+<Name ID="813">
+<SourceName>Bland</SourceName>
+<TargetName ID="1">ব্লান্ড</TargetName>
+</Name>
+<Name ID="814">
+<SourceName>Sarojini</SourceName>
+<TargetName ID="1">সরোজিনী</TargetName>
+</Name>
+<Name ID="815">
+<SourceName>Meherunnisha</SourceName>
+<TargetName ID="1">মেহেরুন্নিশা</TargetName>
+<TargetName ID="2">মেহেরুন্নিসা</TargetName>
+</Name>
+<Name ID="816">
+<SourceName>Lothringen</SourceName>
+<TargetName ID="1">লোথরিংজেন</TargetName>
+</Name>
+<Name ID="817">
+<SourceName>Snehobala</SourceName>
+<TargetName ID="1">স্নেহবালা</TargetName>
+</Name>
+<Name ID="818">
+<SourceName>Dakala</SourceName>
+<TargetName ID="1">দাকালা</TargetName>
+</Name>
+<Name ID="819">
+<SourceName>Sirmilik</SourceName>
+<TargetName ID="1">সিরমিলিক</TargetName>
+</Name>
+<Name ID="820">
+<SourceName>Golconda</SourceName>
+<TargetName ID="1">গোলকোন্ডা</TargetName>
+</Name>
+<Name ID="821">
+<SourceName>Bambi</SourceName>
+<TargetName ID="1">বাম্বি</TargetName>
+</Name>
+<Name ID="822">
+<SourceName>Sarabande</SourceName>
+<TargetName ID="1">সারাবন্দে</TargetName>
+</Name>
+<Name ID="823">
+<SourceName>Rookie</SourceName>
+<TargetName ID="1">রোকি</TargetName>
+<TargetName ID="2">রুকিয়ে</TargetName>
+</Name>
+<Name ID="824">
+<SourceName>Dharmaraj</SourceName>
+<TargetName ID="1">ধর্মরাজ</TargetName>
+</Name>
+<Name ID="825">
+<SourceName>Jharnabegam</SourceName>
+<TargetName ID="1">ঝর্ণাবেগম</TargetName>
+</Name>
+<Name ID="826">
+<SourceName>Bikashkumar</SourceName>
+<TargetName ID="1">বিকাশকুমার</TargetName>
+</Name>
+<Name ID="827">
+<SourceName>Bolai</SourceName>
+<TargetName ID="1">বলাই</TargetName>
+</Name>
+<Name ID="828">
+<SourceName>Systems</SourceName>
+<TargetName ID="1">সিস্টেম</TargetName>
+<TargetName ID="2">সিস্টেমস</TargetName>
+</Name>
+<Name ID="829">
+<SourceName>Garcia</SourceName>
+<TargetName ID="1">গার্সিয়া</TargetName>
+</Name>
+<Name ID="830">
+<SourceName>Dabilpur</SourceName>
+<TargetName ID="1">দাবিলপুর</TargetName>
+</Name>
+<Name ID="831">
+<SourceName>Wheeler</SourceName>
+<TargetName ID="1">হুইলার</TargetName>
+</Name>
+<Name ID="832">
+<SourceName>Majeda</SourceName>
+<TargetName ID="1">মাজেদা</TargetName>
+<TargetName ID="2">মজেদা</TargetName>
+</Name>
+<Name ID="833">
+<SourceName>Raosanali</SourceName>
+<TargetName ID="1">রওসনআলী</TargetName>
+</Name>
+<Name ID="834">
+<SourceName>Dharitri</SourceName>
+<TargetName ID="1">ধরিত্রি</TargetName>
+</Name>
+<Name ID="835">
+<SourceName>Abdullatiph</SourceName>
+<TargetName ID="1">আবদুললতিফ</TargetName>
+</Name>
+<Name ID="836">
+<SourceName>Garot</SourceName>
+<TargetName ID="1">গারোট</TargetName>
+</Name>
+<Name ID="837">
+<SourceName>Gowarikar</SourceName>
+<TargetName ID="1">গোয়ারিকার</TargetName>
+</Name>
+<Name ID="838">
+<SourceName>Chartres</SourceName>
+<TargetName ID="1">চারট্রেস</TargetName>
+</Name>
+<Name ID="839">
+<SourceName>Dashanan</SourceName>
+<TargetName ID="1">দশানন</TargetName>
+</Name>
+<Name ID="840">
+<SourceName>Sushanta</SourceName>
+<TargetName ID="1">সূশান্ত</TargetName>
+</Name>
+<Name ID="841">
+<SourceName>Voltaire</SourceName>
+<TargetName ID="1">ভোল্টেয়ার</TargetName>
+</Name>
+<Name ID="842">
+<SourceName>Indradip</SourceName>
+<TargetName ID="1">ইন্দ্রদীপ</TargetName>
+</Name>
+<Name ID="843">
+<SourceName>Basira</SourceName>
+<TargetName ID="1">বাসীরা</TargetName>
+</Name>
+<Name ID="844">
+<SourceName>Aagale</SourceName>
+<TargetName ID="1">আগালে</TargetName>
+</Name>
+<Name ID="845">
+<SourceName>Rippington</SourceName>
+<TargetName ID="1">রিপিংটন</TargetName>
+</Name>
+<Name ID="846">
+<SourceName>Knowledge</SourceName>
+<TargetName ID="1">নলেজ</TargetName>
+</Name>
+<Name ID="847">
+<SourceName>Kajal</SourceName>
+<TargetName ID="1">কাজল</TargetName>
+</Name>
+<Name ID="848">
+<SourceName>Sponge</SourceName>
+<TargetName ID="1">স্পঞ্জ</TargetName>
+</Name>
+<Name ID="849">
+<SourceName>Mithubala</SourceName>
+<TargetName ID="1">মিঠুবালা</TargetName>
+</Name>
+<Name ID="850">
+<SourceName>Bhulun</SourceName>
+<TargetName ID="1">ভুলুন</TargetName>
+</Name>
+<Name ID="851">
+<SourceName>Kerinci</SourceName>
+<TargetName ID="1">কেরিন্সি</TargetName>
+</Name>
+<Name ID="852">
+<SourceName>Gandharaj</SourceName>
+<TargetName ID="1">গন্ধরাজ</TargetName>
+</Name>
+<Name ID="853">
+<SourceName>Taurus</SourceName>
+<TargetName ID="1">তাউরুস</TargetName>
+<TargetName ID="2">টোরাস</TargetName>
+</Name>
+<Name ID="854">
+<SourceName>Friedland</SourceName>
+<TargetName ID="1">ফ্রাইডল্যান্ড</TargetName>
+</Name>
+<Name ID="855">
+<SourceName>Vuntut</SourceName>
+<TargetName ID="1">ভুন্তুত</TargetName>
+</Name>
+<Name ID="856">
+<SourceName>Viraat</SourceName>
+<TargetName ID="1">ভিরাত</TargetName>
+</Name>
+<Name ID="857">
+<SourceName>Ramkisor</SourceName>
+<TargetName ID="1">রামকিশোর</TargetName>
+</Name>
+<Name ID="858">
+<SourceName>Vishalgad</SourceName>
+<TargetName ID="1">বিশালগড়</TargetName>
+</Name>
+<Name ID="859">
+<SourceName>Tanners</SourceName>
+<TargetName ID="1">ট্যানারস</TargetName>
+</Name>
+<Name ID="860">
+<SourceName>Tablu</SourceName>
+<TargetName ID="1">টাবলু</TargetName>
+</Name>
+<Name ID="861">
+<SourceName>Mirarani</SourceName>
+<TargetName ID="1">মিরারানী</TargetName>
+</Name>
+<Name ID="862">
+<SourceName>Yamashiro</SourceName>
+<TargetName ID="1">ইয়ামাসিরো</TargetName>
+</Name>
+<Name ID="863">
+<SourceName>Cox</SourceName>
+<TargetName ID="1">কক্স</TargetName>
+<TargetName ID="2">কোক্স</TargetName>
+</Name>
+<Name ID="864">
+<SourceName>Sonitpur</SourceName>
+<TargetName ID="1">শোনিটপুর</TargetName>
+</Name>
+<Name ID="865">
+<SourceName>Stansted</SourceName>
+<TargetName ID="1">স্ট্যানস্টেড</TargetName>
+</Name>
+<Name ID="866">
+<SourceName>Kahlon</SourceName>
+<TargetName ID="1">কাহলোন</TargetName>
+</Name>
+<Name ID="867">
+<SourceName>Pateswari</SourceName>
+<TargetName ID="1">পাটেশ্বরী</TargetName>
+</Name>
+<Name ID="868">
+<SourceName>Uppar</SourceName>
+<TargetName ID="1">উপ্পার</TargetName>
+</Name>
+<Name ID="869">
+<SourceName>Anamika</SourceName>
+<TargetName ID="1">অনামিকা</TargetName>
+</Name>
+<Name ID="870">
+<SourceName>Sahabuddin</SourceName>
+<TargetName ID="1">সাহাবুদ্দিন</TargetName>
+</Name>
+<Name ID="871">
+<SourceName>Adoni</SourceName>
+<TargetName ID="1">আদোনি</TargetName>
+</Name>
+<Name ID="872">
+<SourceName>Bittu</SourceName>
+<TargetName ID="1">বিট্টু</TargetName>
+</Name>
+<Name ID="873">
+<SourceName>Merits</SourceName>
+<TargetName ID="1">মেরিটস</TargetName>
+</Name>
+<Name ID="874">
+<SourceName>Ghatam</SourceName>
+<TargetName ID="1">ঘাটাম</TargetName>
+</Name>
+<Name ID="875">
+<SourceName>Sumter</SourceName>
+<TargetName ID="1">সামটার</TargetName>
+</Name>
+<Name ID="876">
+<SourceName>Cleopatra</SourceName>
+<TargetName ID="1">ক্লিওপেট্রা</TargetName>
+</Name>
+<Name ID="877">
+<SourceName>Transverse</SourceName>
+<TargetName ID="1">ট্রান্সভার্স</TargetName>
+</Name>
+<Name ID="878">
+<SourceName>Lillee</SourceName>
+<TargetName ID="1">লিল</TargetName>
+</Name>
+<Name ID="879">
+<SourceName>Kutharaiyar</SourceName>
+<TargetName ID="1">কুথারাইয়ার</TargetName>
+</Name>
+<Name ID="880">
+<SourceName>Pujarani</SourceName>
+<TargetName ID="1">পূজারানী</TargetName>
+</Name>
+<Name ID="881">
+<SourceName>Bulbul</SourceName>
+<TargetName ID="1">বুলবুল</TargetName>
+</Name>
+<Name ID="882">
+<SourceName>Premnath</SourceName>
+<TargetName ID="1">প্রেমনাথ</TargetName>
+</Name>
+<Name ID="883">
+<SourceName>Abuhosen</SourceName>
+<TargetName ID="1">আবুহোসেন</TargetName>
+</Name>
+<Name ID="884">
+<SourceName>Julekha</SourceName>
+<TargetName ID="1">জুলেখা</TargetName>
+</Name>
+<Name ID="885">
+<SourceName>Yazuddin</SourceName>
+<TargetName ID="1">ইযাজদ্দিন</TargetName>
+</Name>
+<Name ID="886">
+<SourceName>Raisen</SourceName>
+<TargetName ID="1">রাইসেন</TargetName>
+</Name>
+<Name ID="887">
+<SourceName>Burgoyne</SourceName>
+<TargetName ID="1">বার্গোইন</TargetName>
+</Name>
+<Name ID="888">
+<SourceName>Penn</SourceName>
+<TargetName ID="1">পেন</TargetName>
+</Name>
+<Name ID="889">
+<SourceName>Colossus</SourceName>
+<TargetName ID="1">কলোসাস</TargetName>
+</Name>
+<Name ID="890">
+<SourceName>Neshar</SourceName>
+<TargetName ID="1">নেশার</TargetName>
+</Name>
+<Name ID="891">
+<SourceName>Thar</SourceName>
+<TargetName ID="1">থর</TargetName>
+</Name>
+<Name ID="892">
+<SourceName>Chidambarnaar</SourceName>
+<TargetName ID="1">চিদামবর্নার</TargetName>
+</Name>
+<Name ID="893">
+<SourceName>Jbbar</SourceName>
+<TargetName ID="1">জব্বার</TargetName>
+</Name>
+<Name ID="894">
+<SourceName>Jabar</SourceName>
+<TargetName ID="1">জবর</TargetName>
+</Name>
+<Name ID="895">
+<SourceName>Ivvavik</SourceName>
+<TargetName ID="1">ইভাভিক</TargetName>
+</Name>
+<Name ID="896">
+<SourceName>Jaavdekar</SourceName>
+<TargetName ID="1">জাভদেকার</TargetName>
+</Name>
+<Name ID="897">
+<SourceName>Ananta</SourceName>
+<TargetName ID="1">অনন্ত</TargetName>
+</Name>
+<Name ID="898">
+<SourceName>Baltu</SourceName>
+<TargetName ID="1">বল্টু</TargetName>
+</Name>
+<Name ID="899">
+<SourceName>Kashinath</SourceName>
+<TargetName ID="1">কাশীনাথ</TargetName>
+</Name>
+<Name ID="900">
+<SourceName>Falmani</SourceName>
+<TargetName ID="1">ফলমনি</TargetName>
+</Name>
+<Name ID="901">
+<SourceName>Dadasaheb</SourceName>
+<TargetName ID="1">দাদাসাহেব</TargetName>
+</Name>
+<Name ID="902">
+<SourceName>Nabagopal</SourceName>
+<TargetName ID="1">নবগোপাল</TargetName>
+</Name>
+<Name ID="903">
+<SourceName>Shefalibibi</SourceName>
+<TargetName ID="1">শেফালীবিবি</TargetName>
+</Name>
+<Name ID="904">
+<SourceName>Saifar</SourceName>
+<TargetName ID="1">সাইফর</TargetName>
+</Name>
+<Name ID="905">
+<SourceName>Merlin</SourceName>
+<TargetName ID="1">মার্লিন</TargetName>
+</Name>
+<Name ID="906">
+<SourceName>Chapel</SourceName>
+<TargetName ID="1">চ্যাপেল</TargetName>
+</Name>
+<Name ID="907">
+<SourceName>Sitar</SourceName>
+<TargetName ID="1">সিতার</TargetName>
+</Name>
+<Name ID="908">
+<SourceName>Fridhem</SourceName>
+<TargetName ID="1">ফ্রিধেম</TargetName>
+</Name>
+<Name ID="909">
+<SourceName>Salemabegam</SourceName>
+<TargetName ID="1">সালেমাবেগম</TargetName>
+</Name>
+<Name ID="910">
+<SourceName>Shiva</SourceName>
+<TargetName ID="1">শিব</TargetName>
+</Name>
+<Name ID="911">
+<SourceName>Sahenara</SourceName>
+<TargetName ID="1">সাহেনারা</TargetName>
+</Name>
+<Name ID="912">
+<SourceName>Bela</SourceName>
+<TargetName ID="1">বেলা</TargetName>
+</Name>
+<Name ID="913">
+<SourceName>Nichhubala</SourceName>
+<TargetName ID="1">নিছুবালা</TargetName>
+</Name>
+<Name ID="914">
+<SourceName>Hero</SourceName>
+<TargetName ID="1">হিরো</TargetName>
+<TargetName ID="2">হেরো</TargetName>
+</Name>
+<Name ID="915">
+<SourceName>Gijare</SourceName>
+<TargetName ID="1">গিজারে</TargetName>
+</Name>
+<Name ID="916">
+<SourceName>Bogue</SourceName>
+<TargetName ID="1">বোগু</TargetName>
+</Name>
+<Name ID="917">
+<SourceName>Ladwa</SourceName>
+<TargetName ID="1">লাদওয়া</TargetName>
+</Name>
+<Name ID="918">
+<SourceName>Whitbread</SourceName>
+<TargetName ID="1">উইথব্রেদ</TargetName>
+</Name>
+<Name ID="919">
+<SourceName>Ujjain</SourceName>
+<TargetName ID="1">উজ্জ্বয়ন</TargetName>
+</Name>
+<Name ID="920">
+<SourceName>Allentown</SourceName>
+<TargetName ID="1">আলেনটাউন</TargetName>
+</Name>
+<Name ID="921">
+<SourceName>Bandra</SourceName>
+<TargetName ID="1">বাঁন্দা</TargetName>
+</Name>
+<Name ID="922">
+<SourceName>Patasi</SourceName>
+<TargetName ID="1">পাতাসি</TargetName>
+</Name>
+<Name ID="923">
+<SourceName>Ghaisas</SourceName>
+<TargetName ID="1">ঘাইসাস</TargetName>
+</Name>
+<Name ID="924">
+<SourceName>Pocono</SourceName>
+<TargetName ID="1">পোকোনো</TargetName>
+</Name>
+<Name ID="925">
+<SourceName>Tithi</SourceName>
+<TargetName ID="1">তিথি</TargetName>
+</Name>
+<Name ID="926">
+<SourceName>Manihar</SourceName>
+<TargetName ID="1">মনিহার</TargetName>
+</Name>
+<Name ID="927">
+<SourceName>Raya</SourceName>
+<TargetName ID="1">রায়া</TargetName>
+</Name>
+<Name ID="928">
+<SourceName>Rajbalam</SourceName>
+<TargetName ID="1">রাজবলম</TargetName>
+</Name>
+<Name ID="929">
+<SourceName>Bray</SourceName>
+<TargetName ID="1">ব্রে</TargetName>
+</Name>
+<Name ID="930">
+<SourceName>Chandrima</SourceName>
+<TargetName ID="1">চন্দ্রিমা</TargetName>
+</Name>
+<Name ID="931">
+<SourceName>Niroja</SourceName>
+<TargetName ID="1">নিরোজা</TargetName>
+</Name>
+<Name ID="932">
+<SourceName>Hopwood</SourceName>
+<TargetName ID="1">হোপউড</TargetName>
+</Name>
+<Name ID="933">
+<SourceName>Ambodala</SourceName>
+<TargetName ID="1">আমবোদালা</TargetName>
+</Name>
+<Name ID="934">
+<SourceName>Bugul</SourceName>
+<TargetName ID="1">বুগল</TargetName>
+</Name>
+<Name ID="935">
+<SourceName>Sunflag</SourceName>
+<TargetName ID="1">সানফ্ল্যাগ</TargetName>
+</Name>
+<Name ID="936">
+<SourceName>Sankar</SourceName>
+<TargetName ID="1">শংকর</TargetName>
+<TargetName ID="2">শঙ্কর</TargetName>
+</Name>
+<Name ID="937">
+<SourceName>Engineer</SourceName>
+<TargetName ID="1">ইনজিনার</TargetName>
+</Name>
+<Name ID="938">
+<SourceName>Madhurima</SourceName>
+<TargetName ID="1">মধুরিমা</TargetName>
+</Name>
+<Name ID="939">
+<SourceName>Murshalim</SourceName>
+<TargetName ID="1">মুরশালিম</TargetName>
+</Name>
+<Name ID="940">
+<SourceName>Dubrovnik</SourceName>
+<TargetName ID="1">ডুভ্রবনিক</TargetName>
+</Name>
+<Name ID="941">
+<SourceName>Chhapra</SourceName>
+<TargetName ID="1">ছাপরা</TargetName>
+</Name>
+<Name ID="942">
+<SourceName>Kris</SourceName>
+<TargetName ID="1">ক্রিস</TargetName>
+</Name>
+<Name ID="943">
+<SourceName>Marakele</SourceName>
+<TargetName ID="1">মারাকেলি</TargetName>
+</Name>
+<Name ID="944">
+<SourceName>Manikchand</SourceName>
+<TargetName ID="1">মানিকচাঁদ</TargetName>
+</Name>
+<Name ID="945">
+<SourceName>Ruhini</SourceName>
+<TargetName ID="1">রুহিনী</TargetName>
+</Name>
+<Name ID="946">
+<SourceName>Sibanibala</SourceName>
+<TargetName ID="1">শিবানীবালা</TargetName>
+</Name>
+<Name ID="947">
+<SourceName>Adavatkar</SourceName>
+<TargetName ID="1">আদাভাতকার</TargetName>
+</Name>
+<Name ID="948">
+<SourceName>Mungekar</SourceName>
+<TargetName ID="1">মুঙ্গেকার</TargetName>
+</Name>
+<Name ID="949">
+<SourceName>Alokarani</SourceName>
+<TargetName ID="1">অলোকারানী</TargetName>
+</Name>
+<Name ID="950">
+<SourceName>Vyavhare</SourceName>
+<TargetName ID="1">ভিয়াভারে</TargetName>
+</Name>
+<Name ID="951">
+<SourceName>Trip</SourceName>
+<TargetName ID="1">ট্রিপ</TargetName>
+</Name>
+<Name ID="952">
+<SourceName>Munnilal</SourceName>
+<TargetName ID="1">মুন্নিলাল</TargetName>
+</Name>
+<Name ID="953">
+<SourceName>Gadulka</SourceName>
+<TargetName ID="1">গাডুল্কা</TargetName>
+</Name>
+<Name ID="954">
+<SourceName>Tare</SourceName>
+<TargetName ID="1">তারে</TargetName>
+</Name>
+<Name ID="955">
+<SourceName>Nepali</SourceName>
+<TargetName ID="1">নেপালী</TargetName>
+</Name>
+<Name ID="956">
+<SourceName>Bishnucharan</SourceName>
+<TargetName ID="1">বিষ্ণুচরন</TargetName>
+</Name>
+<Name ID="957">
+<SourceName>Harbour</SourceName>
+<TargetName ID="1">হারবার</TargetName>
+</Name>
+<Name ID="958">
+<SourceName>Mahedali</SourceName>
+<TargetName ID="1">মহেদআলি</TargetName>
+</Name>
+<Name ID="959">
+<SourceName>Pochiah</SourceName>
+<TargetName ID="1">পোচিহ</TargetName>
+</Name>
+<Name ID="960">
+<SourceName>Radico</SourceName>
+<TargetName ID="1">র্যাডিকো</TargetName>
+</Name>
+<Name ID="961">
+<SourceName>Koningshooykt</SourceName>
+<TargetName ID="1">কোনিংসুক্ট</TargetName>
+</Name>
+<Name ID="962">
+<SourceName>Guaracha</SourceName>
+<TargetName ID="1">গুয়ারাচা</TargetName>
+</Name>
+<Name ID="963">
+<SourceName>Sharjahan</SourceName>
+<TargetName ID="1">শেরজাহান</TargetName>
+</Name>
+<Name ID="964">
+<SourceName>Dillon</SourceName>
+<TargetName ID="1">ডিলোন</TargetName>
+</Name>
+<Name ID="965">
+<SourceName>Kumud</SourceName>
+<TargetName ID="1">কুমুদ</TargetName>
+</Name>
+<Name ID="966">
+<SourceName>Danpur</SourceName>
+<TargetName ID="1">দানপুর</TargetName>
+</Name>
+<Name ID="967">
+<SourceName>Chabbra</SourceName>
+<TargetName ID="1">চাবব্রা</TargetName>
+</Name>
+<Name ID="968">
+<SourceName>Najirabibi</SourceName>
+<TargetName ID="1">নজিরাবিবি</TargetName>
+</Name>
+<Name ID="969">
+<SourceName>Lakhbir</SourceName>
+<TargetName ID="1">লখবীর</TargetName>
+</Name>
+<Name ID="970">
+<SourceName>Manipuri</SourceName>
+<TargetName ID="1">মনিপুরি</TargetName>
+</Name>
+<Name ID="971">
+<SourceName>Thermopylae</SourceName>
+<TargetName ID="1">থার্মোফাইলে</TargetName>
+</Name>
+<Name ID="972">
+<SourceName>Anubibi</SourceName>
+<TargetName ID="1">আনুবিবি</TargetName>
+</Name>
+<Name ID="973">
+<SourceName>Bhupendar</SourceName>
+<TargetName ID="1">ভুপেন্দর</TargetName>
+</Name>
+<Name ID="974">
+<SourceName>Lander</SourceName>
+<TargetName ID="1">ল্যান্ডার</TargetName>
+</Name>
+<Name ID="975">
+<SourceName>Udaipur</SourceName>
+<TargetName ID="1">উদয়পুর</TargetName>
+</Name>
+<Name ID="976">
+<SourceName>Abulkashem</SourceName>
+<TargetName ID="1">আবুলকাশেম</TargetName>
+</Name>
+<Name ID="977">
+<SourceName>Hari</SourceName>
+<TargetName ID="1">হরি</TargetName>
+</Name>
+<Name ID="978">
+<SourceName>Gurusar</SourceName>
+<TargetName ID="1">গুরুসর</TargetName>
+</Name>
+<Name ID="979">
+<SourceName>Oswego</SourceName>
+<TargetName ID="1">অসওয়েগো</TargetName>
+</Name>
+<Name ID="980">
+<SourceName>Manaprita</SourceName>
+<TargetName ID="1">মনপ্রীত</TargetName>
+</Name>
+<Name ID="981">
+<SourceName>Sailani</SourceName>
+<TargetName ID="1">সাইলানি</TargetName>
+</Name>
+<Name ID="982">
+<SourceName>Shaktinath</SourceName>
+<TargetName ID="1">শক্তিনাথ</TargetName>
+</Name>
+<Name ID="983">
+<SourceName>Banita</SourceName>
+<TargetName ID="1">বনিতা</TargetName>
+</Name>
+<Name ID="984">
+<SourceName>Badrinath</SourceName>
+<TargetName ID="1">বদ্রীনাথ</TargetName>
+</Name>
+<Name ID="985">
+<SourceName>Rebotibegam</SourceName>
+<TargetName ID="1">রেসমাবেগম</TargetName>
+</Name>
+<Name ID="986">
+<SourceName>Arjuna</SourceName>
+<TargetName ID="1">আরজুন</TargetName>
+</Name>
+<Name ID="987">
+<SourceName>Binay</SourceName>
+<TargetName ID="1">বিনয়</TargetName>
+</Name>
+<Name ID="988">
+<SourceName>Dumbra</SourceName>
+<TargetName ID="1">ডুম্ব্রা</TargetName>
+</Name>
+<Name ID="989">
+<SourceName>Dharamgarh</SourceName>
+<TargetName ID="1">ধরমগড়</TargetName>
+</Name>
+<Name ID="990">
+<SourceName>Shubham</SourceName>
+<TargetName ID="1">শুভম</TargetName>
+</Name>
+<Name ID="991">
+<SourceName>Spinnin</SourceName>
+<TargetName ID="1">স্পিনিং</TargetName>
+</Name>
+<Name ID="992">
+<SourceName>Dhanpur</SourceName>
+<TargetName ID="1">ধানপুর</TargetName>
+</Name>
+<Name ID="993">
+<SourceName>Rimi</SourceName>
+<TargetName ID="1">রিমি</TargetName>
+</Name>
+<Name ID="994">
+<SourceName>Baharul</SourceName>
+<TargetName ID="1">বাহারুল</TargetName>
+</Name>
+<Name ID="995">
+<SourceName>Rasnara</SourceName>
+<TargetName ID="1">রসনারা</TargetName>
+</Name>
+<Name ID="996">
+<SourceName>Sourabi</SourceName>
+<TargetName ID="1">সৌরবী</TargetName>
+</Name>
+<Name ID="997">
+<SourceName>Alihosen</SourceName>
+<TargetName ID="1">আলিহোসেন</TargetName>
+</Name>
+<Name ID="998">
+<SourceName>Schooten</SourceName>
+<TargetName ID="1">স্কুটেন</TargetName>
+</Name>
+<Name ID="999">
+<SourceName>Chindwara</SourceName>
+<TargetName ID="1">চিন্দাওয়ারা</TargetName>
+</Name>
+<Name ID="1000">
+<SourceName>Mizoram</SourceName>
+<TargetName ID="1">মিজোরাম</TargetName>
+</Name>
+</TransliterationCorpus>
